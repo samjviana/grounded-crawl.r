@@ -1,0 +1,2 @@
+class PlacementData:
+    pass
