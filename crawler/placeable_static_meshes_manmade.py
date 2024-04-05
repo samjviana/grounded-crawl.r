@@ -1,6 +1,7 @@
-
+from typing import Any
 from .base_crawler import BaseCrawler
 from pathlib import Path
+from models import PlaceableStaticMeshManmade
 
 class PlaceableStaticMeshesManmadeCrawler(BaseCrawler):
     """
@@ -12,4 +13,7 @@ class PlaceableStaticMeshesManmadeCrawler(BaseCrawler):
             json_path=Path('Maine/Content/Blueprints/DataTables/Table_PlaceableStaticMeshes_Manmade.json'),
             hide_unknown_fields=hide_unknown_fields
         )
+
+    def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> PlaceableStaticMeshManmade:
+        pass
     
