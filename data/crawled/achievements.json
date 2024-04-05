@@ -1,0 +1,656 @@
+[
+    {
+        "id": "6e3e3e38-c8bf-4e8e-8564-efafaa35968d",
+        "name": "RescueBurgL",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_0",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::Equals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "94f38c2f-96e4-4887-9ff9-642e29f4dfbf",
+        "name": "HedgeLab",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_1",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 7,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "a752bdd5-a3df-4e33-9d31-3119016a9b01",
+        "name": "PondLab",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_2",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 8,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "PurchaseUpgrade",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_3",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::UpgradesPurchased_Party",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "ObtainMutation",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_4",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::MutationsUnlocked_Personal",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "AnalyzeResources",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_5",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::ResourcesAnalyzed_Party",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 15,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "CookBug",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_6",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatProcessItemConfig'Stat_ItemProcess_Cook_Bugs'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Processing/Stat_ItemProcess_Cook_Bugs.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "LongBasketballShot",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_7",
+        "can_unlock_in_creative": true,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatBasketballShotConfig'Stat_Longest_Basketball_Shot'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Misc/Stat_Longest_Basketball_Shot.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 4000,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "SitInChair",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_8",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::SatInChair_Personal",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "PerfectBlocks",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_9",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatBlockConfig'Stat_Current_Perfect_Blocks_In_A_Row'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Misc/Stat_Current_Perfect_Blocks_In_A_Row.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 10,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "EquipTier2Armor",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_10",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::Tier2EquipmentSetWorn_Personal",
+            "ComparisonOperator": "EComparisonOperator::Equals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "CraftTier3",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_11",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::Tier3ItemCrafted_Personal",
+            "ComparisonOperator": "EComparisonOperator::Equals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "ObtainSCABs",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_12",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::ColorThemesUnlocked_Party",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 10,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "BeefySmoothies",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_13",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatUseItemConfig'Stat_Use_Item_Beefy_Smoothies'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Use/Stat_Use_Item_Beefy_Smoothies.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 5,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "MushroomBuilding",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_14",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::MushroomBrickBuilding_Party",
+            "ComparisonOperator": "EComparisonOperator::Equals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "DiscoverSites",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_15",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::SitesDiscovered_Party",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 20,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "KillWolfSpider",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_16",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatKillConfig'Stat_Kills_Spider_Wolf'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Kills/Creatures/Stat_Kills_Spider_Wolf.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "LongZipline",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_17",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatZiplineDistanceConfig'Stat_Max_Zip_Distance'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Misc/Stat_Max_Zip_Distance.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 10000,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "TameABug",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_18",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatTamePetConfig'Stat_Tame_All_Pets'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Taming/Stat_Tame_All_Pets.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "KillBroodmother",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_19",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatKillConfig'Stats_Party_Kills_Broodmother'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Kills/Creatures/Stats_Party_Kills_Broodmother.0"
+            },
+            "bTotalPartyPlayerStat": true,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "68c82f80-0f41-4270-acc1-bd54dc642068",
+        "name": "PlugHazeCanister",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_20",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::Equals",
+            "ConditionalValue": 0,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "3f6e8b53-34fe-4819-beb3-a0eadca4f28b",
+        "name": "BlackAntHillLab",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_21",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 9,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "SpendMolars",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_22",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::MilkMolarsSpent_Personal",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 20,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "Brainpower10",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_23",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::BrainpowerLevel_Party",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 10,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "UpgradeTool",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_24",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::Tier3ItemFullyUpgraded_Personal",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "LongArrowKill",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_25",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatRangedAttackConfig'Stat_RangedAttack_LongestFlyingKill'",
+                "ObjectPath": "/Game/Design/Perks/Stats/RangedAttacks/Stat_RangedAttack_LongestFlyingKill.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 3000,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "TakeAPhoto",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_26",
+        "can_unlock_in_creative": true,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatPhotoConfig'Stat_Photos_Taken'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Misc/Stat_Photos_Taken.0"
+            },
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "CraftSplinterArrow",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_27",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::Tier3ArrowCrafted_Personal",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "c643b16c-4431-4aa3-ae14-391d0912dd65",
+        "name": "FindWendell",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_28",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 8,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "3ce3e997-32e0-481f-9091-ce5a667f63ad",
+        "name": "KillMant",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_29",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::Equals",
+            "ConditionalValue": 2,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "KillMantis",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_30",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatKillConfig'Stat_Party_Mantis_Kills'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mantis_Kills.0"
+            },
+            "bTotalPartyPlayerStat": true,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "3e1a5b1e-0141-478f-b0f0-ad610ecb47cb",
+        "name": "CompleteJavamatic",
+        "unlock_tag": "NEW_ACHIEVEMENT_1_31",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::Equals",
+            "ConditionalValue": 2,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "AllCreatureCards",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_0",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::AllNormalCreatureBestiariesUnlocked_Party",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": false
+        }
+    },
+    {
+        "id": "c5dd9fbb-7376-41e8-890e-90ea2e8bbe2f",
+        "name": "KillDirector",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_1",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::Equals",
+            "ConditionalValue": 2,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "8491a6ef-75dd-44c9-993e-c5e831234264",
+        "name": "CompleteMIXRs",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_2",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "89b5912e-3798-421d-be4b-a99e7744daf7",
+        "name": "WinGame",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_3",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": true,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "100PercentGame",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_4",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::Game100PercentComplete_Personal",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": true,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "KillWaspQueen",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_5",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatKillConfig'Stat_Party_WaspQueen_Kills'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_WaspQueen_Kills.0"
+            },
+            "bTotalPartyPlayerStat": true,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "SuperDuper",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_6",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::NumItemsDuped_Personal",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "CozinessMaxLevel",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_7",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::MaxCozinessLevelReached_Personal",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 5,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "KillInfectedBroodmother",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_8",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": {
+                "ObjectName": "StatKillConfig'Stats_Party_Kills_Broodmother_IBM'",
+                "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stats_Party_Kills_Broodmother_IBM.0"
+            },
+            "bTotalPartyPlayerStat": true,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    }
+]

@@ -1,0 +1,1565 @@
+[
+    {
+        "name": "Ladybug",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ladybug/Base/BP_Ladybug.BP_Ladybug_C",
+        "weakpoint_tags": [
+            "Weakpoint.Legs"
+        ],
+        "rare_unlock_item_name": "BestiaryLadybugGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Ladybug_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Ladybug_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "LadybugInfected",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ladybug/Infected/BP_Ladybug_Infected.BP_Ladybug_Infected_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryLadybugInfectedGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Ladybug_Infected_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Ladybug_Infected_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "LadybugUpperyard",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ladybug/Base/BP_Ladybug.BP_Ladybug_C",
+        "weakpoint_tags": [
+            "Weakpoint.Legs"
+        ],
+        "rare_unlock_item_name": "BestiaryLadybugUpperyardGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_LadybugUpperyard_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_LadybugUpperyard_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderOrb",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/OrbWeaver/BP_Spider_Web.BP_Spider_Web_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderOrbGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_SpiderOrb_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_SpiderOrb_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderOrbJr",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/Small/BP_Spider_Small.BP_Spider_Small_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderOrbJrGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_SpiderOrbJr_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_SpiderOrbJr_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Spiderling",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/Spiderling/BP_Spiderling.BP_Spiderling_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderlingGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Spiderling_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Spiderling_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderWolf",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/Wolf/BP_Spider_Wolf.BP_Spider_Wolf_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderWolfGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_SpiderWolf_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_SpiderWolf_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Aphid",
+        "asset_path_name": "/Game/Blueprints/Creatures/Aphid/Base/BP_Aphid.BP_Aphid_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAphidGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Aphid_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Aphid_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Weevil",
+        "asset_path_name": "/Game/Blueprints/Creatures/Weevil/Base/BP_Weevil.BP_Weevil_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryWeevilGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Weevil_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Weevil_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "WeevilInfected",
+        "asset_path_name": "/Game/Blueprints/Creatures/Weevil/Infected/BP_Weevil_Evil.BP_Weevil_Evil_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryWeevilInfectedGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_WeevilInfected_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_WeevilInfected_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "WaterFlea",
+        "asset_path_name": "/Game/Blueprints/Creatures/WaterFlea/Base/BP_WaterFlea.BP_WaterFlea_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryWaterFleaGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_WaterFlea_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_WaterFlea_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "WaterBoatman",
+        "asset_path_name": "/Game/Blueprints/Creatures/Water_Boatman/Base/BP_WaterBoatman.BP_WaterBoatman_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryWaterBoatmanGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_WaterBoatman_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_WaterBoatman_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "TermiteSoldier",
+        "asset_path_name": "/Game/Blueprints/Creatures/Termite/Base/BP_Termite_Soldier.BP_Termite_Soldier_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryTermiteSoldierGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_TermiteSoldier_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_TermiteSoldier_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "TermiteWorker",
+        "asset_path_name": "/Game/Blueprints/Creatures/Termite/Base/BP_Termite_Worker.BP_Termite_Worker_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryTermiteWorkerGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_TermiteWorker_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_TermiteWorker_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "TermiteKing",
+        "asset_path_name": "/Game/Blueprints/Creatures/Termite/King/BP_Termite_King.BP_Termite_King_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryTermiteKingGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_TermiteKing_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_TermiteKing_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Tazt",
+        "asset_path_name": "/Game/Blueprints/Creatures/TazT/TaserMelee/BP_TazT.BP_TazT_C",
+        "weakpoint_tags": [
+            "Weakpoint.Vent"
+        ],
+        "rare_unlock_item_name": "BestiaryTazTGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_TazT_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_TazT_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "TaztRuzT",
+        "asset_path_name": "/Game/Blueprints/Creatures/TazT/TaserMelee/BP_TazT_Rusty.BP_TazT_Rusty_C",
+        "weakpoint_tags": [
+            "Weakpoint.Vent"
+        ],
+        "rare_unlock_item_name": "BestiaryTazTRuzTGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_TazT_Ruzt_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_TazT_Ruzt_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "ArcR",
+        "asset_path_name": "/Game/Blueprints/Creatures/TazT/ElectricRanged/BP_ArcR.BP_ArcR_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryArcRGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_ArcR_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_ArcR_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Tadpole",
+        "asset_path_name": "/Game/Blueprints/Creatures/Tadpole/Base/BP_Tadpole.BP_Tadpole_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryTadpoleGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Tadpole_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Tadpole_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Stinkbug",
+        "asset_path_name": "/Game/Blueprints/Creatures/StinkBug/Base/BP_StinkBug.BP_StinkBug_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryStinkbugGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Stinkbug_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Stinkbug_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "RolyPolySickly",
+        "asset_path_name": "/Game/Blueprints/Creatures/RolyPoly/Base/BP_RolyPoly_Sickly.BP_RolyPoly_Sickly_C",
+        "weakpoint_tags": [
+            "Weakpoint.Legs"
+        ],
+        "rare_unlock_item_name": "BestiaryRolyPolySicklyGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_RolyPolySickly_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_RolyPolySickly_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Mosquito",
+        "asset_path_name": "/Game/Blueprints/Creatures/Mosquito/Base/BP_Mosquito.BP_Mosquito_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryMosquitoGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Mosquito_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mosquito_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Mite",
+        "asset_path_name": "/Game/Blueprints/Creatures/Mite/Base/BP_Mite.BP_Mite_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryMiteGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Mite_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mite_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "MiteInfected",
+        "asset_path_name": "/Game/Blueprints/Creatures/Mite/Infected/BP_Mite_Haze.BP_Mite_Haze_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryMiteInfectedGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Mite_Infected_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mite_Infected_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "MiteDust",
+        "asset_path_name": "/Game/Blueprints/Creatures/Mite/Dust/BP_Mite_Dust.BP_Mite_Dust_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryMiteDustGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Mite_Dust_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mite_Dust_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "AntRedWorker",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Red/Worker/BP_Ant.BP_Ant_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryAntRedWorkerGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_AntRed_Worker_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_AntRed_Worker_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "AntRedSoldier",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Red/Soldier/BP_Ant_Soldier.BP_Ant_Soldier_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryAntRedSoldierGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_AntRed_Soldier_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_AntRed_Soldier_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "AntBlackWorker",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Black/Worker/BP_Ant_Black.BP_Ant_Black_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryAntBlackWorkerGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_AntBlack_Worker_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_AntBlack_Worker_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "AntBlackSoldier",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Black/Soldier/BP_Ant_Soldier_Black.BP_Ant_Soldier_Black_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryAntBlackSoldierGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_AntBlack_Soldier_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_AntBlack_Soldier_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "AntFireSoldier",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Fire/Soldier/BP_Ant_Soldier_Fire.BP_Ant_Soldier_Fire_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryAntFireSoldierGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_AntFire_Soldier_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_AntFire_Soldier_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "AntFireWorker",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Fire/Worker/BP_Ant_Fire.BP_Ant_Fire_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryAntFireWorkerGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_AntFire_Worker_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_AntFire_Worker_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "ArcRBoss",
+        "asset_path_name": "/Game/Blueprints/Creatures/TazT/ElectricRanged/Miniboss/BP_ArcR_MKII.BP_ArcR_MKII_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryArcRBossGold",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_ArcRBoss_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_ArcRBoss_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Bee",
+        "asset_path_name": "/Game/Blueprints/Creatures/Bee/Base/BP_Bee.BP_Bee_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryBeeGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Bee_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Bee_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "BlackOx",
+        "asset_path_name": "/Game/Blueprints/Creatures/BlackOxBeetle/Base/BP_BlackOxBeetle.BP_BlackOxBeetle_C",
+        "weakpoint_tags": [
+            "Weakpoint.Underbelly"
+        ],
+        "rare_unlock_item_name": "BestiaryBlackOxGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_BlackOx_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_BlackOx_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Bombardier",
+        "asset_path_name": "/Game/Blueprints/Creatures/BombardierBeetle/Base/BP_BombardierBeetle.BP_BombardierBeetle_C",
+        "weakpoint_tags": [
+            "Weakpoint.Butt"
+        ],
+        "rare_unlock_item_name": "BestiaryBombardierGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Bombardier_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Bombardier_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Firefly",
+        "asset_path_name": "/Game/Blueprints/Creatures/Firefly/Base/BP_Firefly.BP_Firefly_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryFireflyGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Firefly_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Firefly_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Gnat",
+        "asset_path_name": "/Game/Blueprints/Creatures/Gnat/Base/BP_Gnat.BP_Gnat_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryGnatGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Gnat_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Gnat_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "GnatMeaty",
+        "asset_path_name": "/Game/Blueprints/Creatures/Gnat/Base/BP_Gnat_Big.BP_Gnat_Big_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryGnatMeatyGold",
+        "rare_drop_chance": 0.1,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_GnatMeaty_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_GnatMeaty_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "GnatInfected",
+        "asset_path_name": "/Game/Blueprints/Creatures/Gnat/Infected/BP_Gnat_Infected.BP_Gnat_Infected_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryGnatInfectedGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_GnatInfected_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_GnatInfected_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Grub",
+        "asset_path_name": "/Game/Blueprints/Creatures/Grub/Base/BP_Grub.BP_Grub_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryGrubGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Grub_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Grub_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Larva",
+        "asset_path_name": "/Game/Blueprints/Creatures/Larva/Base/BP_Larva.BP_Larva_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryLarvaGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Larva_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Larva_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "LarvaInfected",
+        "asset_path_name": "/Game/Blueprints/Creatures/Larva/Infected/BP_Larva_infected.BP_Larva_Infected_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryLarvaInfectedGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Larva_Infected_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Larva_Infected_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "LarvaCharcoal",
+        "asset_path_name": "/Game/Blueprints/Creatures/Larva/Charcoal/BP_Larva_Burrow_Charcoal.BP_Larva_Burrow_Charcoal_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryLarvaCharcoalGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Larva_Charcoal_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Larva_Charcoal_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderBossBroodmother",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/Boss01/BP_Spider_Boss_Hedge.BP_Spider_Boss_Hedge_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderBossBroodmotherGold",
+        "rare_drop_chance": 0.1,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stats_Party_Kills_Broodmother'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Creatures/Stats_Party_Kills_Broodmother.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Antlion",
+        "asset_path_name": "/Game/Blueprints/Creatures/Antlion/Base/BP_Antlion_Pit.BP_Antlion_Pit_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAntlionGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Antlion_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Antlion_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderDivingBell",
+        "asset_path_name": "/Game/Blueprints/Creatures/DivingBellSpider/Base/BP_DivingBellSpider.BP_DivingBellSpider_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderDivingBellGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_SpiderDivingBell_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_SpiderDivingBell_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "StinkbugGreenShield",
+        "asset_path_name": "/Game/Blueprints/Creatures/StinkBug/Upperyard/BP_StinkBug_Upperyard.BP_StinkBug_Upperyard_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryStinkbugGreenShieldGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Stinkbug_GreenShield_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Stinkbug_GreenShield_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Scarab",
+        "asset_path_name": "/Game/Blueprints/Creatures/CrystalBeetle/BP_CrystalBeetle.BP_CrystalBeetle_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryScarabGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Scarab_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Scarab_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderWolfInfected",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/Wolf/BP_Spider_Wolf_Infected.BP_Spider_Wolf_Infected_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderWolfInfectedGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_SpiderWolf_Infected_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_SpiderWolf_Infected_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderBlackWidow",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/BlackWidow/BP_Spider_BlackWidow.BP_Spider_BlackWidow_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderBlackWidowGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_SpiderBlackWidow_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_SpiderBlackWidow_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "RolyPoly",
+        "asset_path_name": "/Game/Blueprints/Creatures/RolyPoly/Base/BP_RolyPoly.BP_RolyPoly_C",
+        "weakpoint_tags": [
+            "Weakpoint.Legs"
+        ],
+        "rare_unlock_item_name": "BestiaryRolyPolyGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_RolyPoly_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_RolyPoly_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "WaterFleaSpiny",
+        "asset_path_name": "/Game/Blueprints/Creatures/WaterFlea/UpperYard/BP_WaterFlea_UpperYard.BP_WaterFlea_UpperYard_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryWaterFleaSpinyGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_WaterFlea_Spiny_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_WaterFlea_Spiny_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "MosquitoTiger",
+        "asset_path_name": "/Game/Blueprints/Creatures/Mosquito/Variant/BP_Mosquito_Tiger.BP_Mosquito_Tiger_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryMosquitoTigerGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Mosquito_Tiger_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mosquito_Tiger_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "MiteTick",
+        "asset_path_name": "/Game/Blueprints/Creatures/Mite/Tick/BP_Mite_Tick.BP_Mite_Tick_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryMiteTickGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Mite_Tick_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mite_Tick_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderlingWidow",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/Spiderling/BP_Spiderling_BlackWidow.BP_Spiderling_BlackWidow_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySpiderlingWidowGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Spiderling_Widow_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Spiderling_Widow_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Moth",
+        "asset_path_name": "/Game/Blueprints/Creatures/Moth/Base/BP_Moth.BP_Moth_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryMothGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Moth_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Moth_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Mant",
+        "asset_path_name": "/Game/Blueprints/Creatures/Mant/BP_Mant.BP_Mant_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryMantGold",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Mant_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mant_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Mantis",
+        "asset_path_name": "/Game/Blueprints/Creatures/Mantis/BP_Mantis.BP_Mantis_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryMantisGold",
+        "rare_drop_chance": 0.1,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Mantis_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Mantis_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Schmector",
+        "asset_path_name": "/Game/Blueprints/Creatures/TazT/Boss/BP_Ominent_Robot.BP_Ominent_Robot_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiarySchmectorGold",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Schmector_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Schmector_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Wasp",
+        "asset_path_name": "/Game/Blueprints/Creatures/Wasp/Base/BP_Wasp.BP_Wasp_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryWaspGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Wasp_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Wasp_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "WaspQueen",
+        "asset_path_name": "/Game/Blueprints/Creatures/Wasp/Wicklow/BP_Wicklow.BP_Wicklow_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryWaspQueenGold",
+        "rare_drop_chance": 0.1,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_WaspQueen_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_WaspQueen_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "WaspDrone",
+        "asset_path_name": "/Game/Blueprints/Creatures/Wasp/Base/BP_Wasp_Support.BP_Wasp_Support_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryWaspDroneGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_Wasp_Drone_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_Wasp_Drone_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "SpiderBossBroodmotherIBM",
+        "asset_path_name": "/Game/Blueprints/Creatures/Spider/Test01/BP_Spider_Boss_Infected.BP_Spider_Boss_Infected_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryBossIBMGold",
+        "rare_drop_chance": 0.05,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stats_Party_Kills_Broodmother_IBM'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stats_Party_Kills_Broodmother_IBM.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    {
+        "name": "Koi",
+        "asset_path_name": "/Game/Blueprints/Creatures/KoiFish/BP_KoiFish.BP_KoiFish_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryKoiDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    }
+]
