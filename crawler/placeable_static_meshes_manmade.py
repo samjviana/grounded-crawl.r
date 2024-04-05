@@ -1,7 +1,7 @@
 from typing import Any
 from .base_crawler import BaseCrawler
 from pathlib import Path
-from models import PlaceableStaticMeshesManmade
+from models import PlaceableStaticMeshes, DisplayName, PlacementData
 
 class PlaceableStaticMeshesManmadeCrawler(BaseCrawler):
     """
@@ -19,6 +19,40 @@ class PlaceableStaticMeshesManmadeCrawler(BaseCrawler):
             'InspectModelOverrideSoft'
         ]
 
-    def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> PlaceableStaticMeshesManmade:
-        pass
+    def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> PlaceableStaticMeshes:
+        name = DisplayName(
+            table_id=value['DisplayName']['StringTableID'],
+            string_id=value['DisplayName']['StringID'],
+            string_table_name=value['DisplayName']['StringTableName']
+        )
+        description = DisplayName(
+            table_id=value['LocalizedDescription']['StringTableID'],
+            string_id=value['LocalizedDescription']['StringID'],
+            string_table_name=value['LocalizedDescription']['StringTableName']
+        )
+
+        icon = self._get_media_path(value['Icon'])
+        mesh = self._get_media_path(value['Mesh'])
+
+        placement_data = PlacementData(
+            subcategory_tag=value['PlacementData']['UGCSubcategoryTag']['TagName'],
+            max_slope=value['PlacementData']['MaxSlope'],
+            scale=value['PlacementData']['DefaultScale'],
+            unknown_fields=PlacementData.get_unknown_fields()
+        )
+
+        placeable_static_meshes_manmade = PlaceableStaticMeshes(
+            key_name=key,
+            mesh_type='MANMADE',
+            name=name,
+            description=description,
+            icon=icon,
+            mesh=mesh,
+            model_viewer_x_rotation=value['ModelViewerXRotation'],
+            model_viewer_y_rotation=value['ModelViewerYRotation'],
+            placement_data=placement_data,
+            unknown_fields=unknown_fields
+        )
+
+        return placeable_static_meshes_manmade
     
