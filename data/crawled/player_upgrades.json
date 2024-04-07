@@ -1,0 +1,376 @@
+[
+    {
+        "name": {
+            "table_id": 1,
+            "string_id": 1508,
+            "string_table_name": "None"
+        },
+        "key_name": "Health",
+        "icon_asset_path": "/Game/UI/Images/System/T_UI_MM_Upgrade_Health.T_UI_MM_Upgrade_Health",
+        "base_cost": 0,
+        "unknown_fields": {
+            "UpgradeType": "EPlayerUpgradeType::StatusEffect",
+            "Tiers": [
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealth1"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealth2"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealth3"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealth4"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealth5"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealth6"
+                        }
+                    ],
+                    "Value": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": {
+            "table_id": 1,
+            "string_id": 1510,
+            "string_table_name": "None"
+        },
+        "key_name": "Stamina",
+        "icon_asset_path": "/Game/UI/Images/System/T_UI_MM_Upgrade_Stamina.T_UI_MM_Upgrade_Stamina",
+        "base_cost": 0,
+        "unknown_fields": {
+            "UpgradeType": "EPlayerUpgradeType::StatusEffect",
+            "Tiers": [
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeStamina1"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeStamina2"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeStamina3"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeStamina4"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeStamina5"
+                        }
+                    ],
+                    "Value": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": {
+            "table_id": 1,
+            "string_id": 1407,
+            "string_table_name": "None"
+        },
+        "key_name": "Thirst",
+        "icon_asset_path": "/Game/UI/Images/System/T_UI_MM_Uprade_Rates.T_UI_MM_Uprade_Rates",
+        "base_cost": 0,
+        "unknown_fields": {
+            "UpgradeType": "EPlayerUpgradeType::StatusEffect",
+            "Tiers": [
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHunger1"
+                        },
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeThirst1"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHunger2"
+                        },
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeThirst2"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHunger3"
+                        },
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeThirst3"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHunger4"
+                        },
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeThirst4"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHunger5"
+                        },
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeThirst5"
+                        }
+                    ],
+                    "Value": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": {
+            "table_id": 1,
+            "string_id": 1682,
+            "string_table_name": "None"
+        },
+        "key_name": "Healing",
+        "icon_asset_path": "/Game/UI/Images/System/T_UI_MM_Uprade_Healing.T_UI_MM_Uprade_Healing",
+        "base_cost": 0,
+        "unknown_fields": {
+            "UpgradeType": "EPlayerUpgradeType::StatusEffect",
+            "Tiers": [
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealing1"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealing2"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealing3"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealing4"
+                        }
+                    ],
+                    "Value": 0
+                },
+                {
+                    "StatusEffectData": [
+                        {
+                            "DataTable": {
+                                "ObjectName": "DataTable'Table_StatusEffects'",
+                                "ObjectPath": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                            },
+                            "RowName": "PlayerUpgradeHealing5"
+                        }
+                    ],
+                    "Value": 0
+                }
+            ]
+        }
+    },
+    {
+        "name": {
+            "table_id": 1,
+            "string_id": 1507,
+            "string_table_name": "None"
+        },
+        "key_name": "Perks",
+        "icon_asset_path": "/Game/UI/Images/System/T_UI_MM_Upgrade_Mutations.T_UI_MM_Upgrade_Mutations",
+        "base_cost": 2,
+        "unknown_fields": {
+            "UpgradeType": "EPlayerUpgradeType::Perk",
+            "Tiers": [
+                {
+                    "StatusEffectData": [],
+                    "Value": 1
+                },
+                {
+                    "StatusEffectData": [],
+                    "Value": 2
+                },
+                {
+                    "StatusEffectData": [],
+                    "Value": 3
+                }
+            ]
+        }
+    }
+]

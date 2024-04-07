@@ -7,6 +7,7 @@ from .chat_wheel import ChatWheel
 from .emote import Emote
 from .pet_personality import PetPersonality
 from .placeable_static_meshes import PlaceableStaticMeshes
+from .player_upgrade import PlayerUpgrade
 
 from .ue_object import UEObject
 from .ue_datatable_reference import UEDataTableReference
