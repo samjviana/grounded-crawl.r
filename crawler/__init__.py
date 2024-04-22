@@ -9,5 +9,6 @@ from .placeable_static_meshes import PlaceableStaticMeshesCrawler
 from .placeable_static_meshes_manmade import PlaceableStaticMeshesManmadeCrawler
 from .placeable_static_meshes_natural import PlaceableStaticMeshesNaturalCrawler
 from .player_upgrades import PlayerUpgradesCrawler
+from .tools_weapons import ToolsWeaponsCrawler
 
 from .base_crawler import BaseCrawler

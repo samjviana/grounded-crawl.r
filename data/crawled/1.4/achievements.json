@@ -1,5 +1,5 @@
-[
-    {
+{
+    "RescueBurgL": {
         "id": "6e3e3e38-c8bf-4e8e-8564-efafaa35968d",
         "name": "RescueBurgL",
         "unlock_tag": "NEW_ACHIEVEMENT_1_0",
@@ -14,7 +14,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "HedgeLab": {
         "id": "94f38c2f-96e4-4887-9ff9-642e29f4dfbf",
         "name": "HedgeLab",
         "unlock_tag": "NEW_ACHIEVEMENT_1_1",
@@ -29,7 +29,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "PondLab": {
         "id": "a752bdd5-a3df-4e33-9d31-3119016a9b01",
         "name": "PondLab",
         "unlock_tag": "NEW_ACHIEVEMENT_1_2",
@@ -44,7 +44,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "PurchaseUpgrade": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "PurchaseUpgrade",
         "unlock_tag": "NEW_ACHIEVEMENT_1_3",
@@ -59,7 +59,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "ObtainMutation": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "ObtainMutation",
         "unlock_tag": "NEW_ACHIEVEMENT_1_4",
@@ -74,7 +74,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "AnalyzeResources": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "AnalyzeResources",
         "unlock_tag": "NEW_ACHIEVEMENT_1_5",
@@ -89,7 +89,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "CookBug": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "CookBug",
         "unlock_tag": "NEW_ACHIEVEMENT_1_6",
@@ -107,7 +107,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "LongBasketballShot": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "LongBasketballShot",
         "unlock_tag": "NEW_ACHIEVEMENT_1_7",
@@ -125,11 +125,11 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "SitInChair": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "SitInChair",
         "unlock_tag": "NEW_ACHIEVEMENT_1_8",
-        "can_unlock_in_creative": false,
+        "can_unlock_in_creative": true,
         "unknown_fields": {
             "PlayerStat": null,
             "bTotalPartyPlayerStat": false,
@@ -140,7 +140,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "PerfectBlocks": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "PerfectBlocks",
         "unlock_tag": "NEW_ACHIEVEMENT_1_9",
@@ -158,7 +158,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "EquipTier2Armor": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "EquipTier2Armor",
         "unlock_tag": "NEW_ACHIEVEMENT_1_10",
@@ -173,7 +173,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "CraftTier3": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "CraftTier3",
         "unlock_tag": "NEW_ACHIEVEMENT_1_11",
@@ -188,7 +188,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "ObtainSCABs": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "ObtainSCABs",
         "unlock_tag": "NEW_ACHIEVEMENT_1_12",
@@ -203,7 +203,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "BeefySmoothies": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "BeefySmoothies",
         "unlock_tag": "NEW_ACHIEVEMENT_1_13",
@@ -221,7 +221,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "MushroomBuilding": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "MushroomBuilding",
         "unlock_tag": "NEW_ACHIEVEMENT_1_14",
@@ -236,7 +236,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "DiscoverSites": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "DiscoverSites",
         "unlock_tag": "NEW_ACHIEVEMENT_1_15",
@@ -251,7 +251,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "KillWolfSpider": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "KillWolfSpider",
         "unlock_tag": "NEW_ACHIEVEMENT_1_16",
@@ -269,7 +269,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "LongZipline": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "LongZipline",
         "unlock_tag": "NEW_ACHIEVEMENT_1_17",
@@ -287,7 +287,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "TameABug": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "TameABug",
         "unlock_tag": "NEW_ACHIEVEMENT_1_18",
@@ -305,7 +305,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "KillBroodmother": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "KillBroodmother",
         "unlock_tag": "NEW_ACHIEVEMENT_1_19",
@@ -323,7 +323,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "PlugHazeCanister": {
         "id": "68c82f80-0f41-4270-acc1-bd54dc642068",
         "name": "PlugHazeCanister",
         "unlock_tag": "NEW_ACHIEVEMENT_1_20",
@@ -338,7 +338,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "BlackAntHillLab": {
         "id": "3f6e8b53-34fe-4819-beb3-a0eadca4f28b",
         "name": "BlackAntHillLab",
         "unlock_tag": "NEW_ACHIEVEMENT_1_21",
@@ -353,7 +353,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "SpendMolars": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "SpendMolars",
         "unlock_tag": "NEW_ACHIEVEMENT_1_22",
@@ -368,7 +368,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "Brainpower10": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "Brainpower10",
         "unlock_tag": "NEW_ACHIEVEMENT_1_23",
@@ -383,7 +383,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "UpgradeTool": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "UpgradeTool",
         "unlock_tag": "NEW_ACHIEVEMENT_1_24",
@@ -398,7 +398,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "LongArrowKill": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "LongArrowKill",
         "unlock_tag": "NEW_ACHIEVEMENT_1_25",
@@ -416,7 +416,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "TakeAPhoto": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "TakeAPhoto",
         "unlock_tag": "NEW_ACHIEVEMENT_1_26",
@@ -434,7 +434,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "CraftSplinterArrow": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "CraftSplinterArrow",
         "unlock_tag": "NEW_ACHIEVEMENT_1_27",
@@ -449,7 +449,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "FindWendell": {
         "id": "c643b16c-4431-4aa3-ae14-391d0912dd65",
         "name": "FindWendell",
         "unlock_tag": "NEW_ACHIEVEMENT_1_28",
@@ -464,7 +464,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "KillMant": {
         "id": "3ce3e997-32e0-481f-9091-ce5a667f63ad",
         "name": "KillMant",
         "unlock_tag": "NEW_ACHIEVEMENT_1_29",
@@ -479,7 +479,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "KillMantis": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "KillMantis",
         "unlock_tag": "NEW_ACHIEVEMENT_1_30",
@@ -497,7 +497,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "CompleteJavamatic": {
         "id": "3e1a5b1e-0141-478f-b0f0-ad610ecb47cb",
         "name": "CompleteJavamatic",
         "unlock_tag": "NEW_ACHIEVEMENT_1_31",
@@ -512,7 +512,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "AllCreatureCards": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "AllCreatureCards",
         "unlock_tag": "NEW_ACHIEVEMENT_2_0",
@@ -527,7 +527,7 @@
             "bClientMustBePresentAtValueChange": false
         }
     },
-    {
+    "KillDirector": {
         "id": "c5dd9fbb-7376-41e8-890e-90ea2e8bbe2f",
         "name": "KillDirector",
         "unlock_tag": "NEW_ACHIEVEMENT_2_1",
@@ -542,7 +542,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "CompleteMIXRs": {
         "id": "8491a6ef-75dd-44c9-993e-c5e831234264",
         "name": "CompleteMIXRs",
         "unlock_tag": "NEW_ACHIEVEMENT_2_2",
@@ -557,7 +557,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "WinGame": {
         "id": "89b5912e-3798-421d-be4b-a99e7744daf7",
         "name": "WinGame",
         "unlock_tag": "NEW_ACHIEVEMENT_2_3",
@@ -572,7 +572,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "100PercentGame": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "100PercentGame",
         "unlock_tag": "NEW_ACHIEVEMENT_2_4",
@@ -587,7 +587,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "KillWaspQueen": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "KillWaspQueen",
         "unlock_tag": "NEW_ACHIEVEMENT_2_5",
@@ -605,7 +605,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "SuperDuper": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "SuperDuper",
         "unlock_tag": "NEW_ACHIEVEMENT_2_6",
@@ -620,7 +620,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "CozinessMaxLevel": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "CozinessMaxLevel",
         "unlock_tag": "NEW_ACHIEVEMENT_2_7",
@@ -635,7 +635,7 @@
             "bClientMustBePresentAtValueChange": true
         }
     },
-    {
+    "KillInfectedBroodmother": {
         "id": "00000000-0000-0000-0000-000000000000",
         "name": "KillInfectedBroodmother",
         "unlock_tag": "NEW_ACHIEVEMENT_2_8",
@@ -652,5 +652,65 @@
             "bHostMustBePresentAtValueChange": false,
             "bClientMustBePresentAtValueChange": true
         }
+    },
+    "CompleteAllBURGLQuests": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": "CompleteAllBURGLQuests",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_9",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::AllBURGLQuestsComplete_Party",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    "DealWithAntQueens": {
+        "id": "997c96b7-53dd-4341-af4f-2021e17e30a3",
+        "name": "DealWithAntQueens",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_10",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": false,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    "ActivateREMIXR": {
+        "id": "dc8a0275-f087-49d5-bf88-714b1ddcfb47",
+        "name": "ActivateREMIXR",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_11",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": true,
+            "bClientMustBePresentAtValueChange": true
+        }
+    },
+    "BeatNewGamePlus": {
+        "id": "2b0b4288-09f6-4979-94a3-ea37ae86aac0",
+        "name": "BeatNewGamePlus",
+        "unlock_tag": "NEW_ACHIEVEMENT_2_12",
+        "can_unlock_in_creative": false,
+        "unknown_fields": {
+            "PlayerStat": null,
+            "bTotalPartyPlayerStat": false,
+            "AchievementStat": "EAchievementStat::None",
+            "ComparisonOperator": "EComparisonOperator::GreaterThanOrEquals",
+            "ConditionalValue": 1,
+            "bHostMustBePresentAtValueChange": true,
+            "bClientMustBePresentAtValueChange": true
+        }
     }
-]
+}

@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Wave": {
         "key_name": "Wave",
         "tag": "Emote.Hello",
         "name": {
@@ -13,7 +13,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "ThumbsUp": {
         "key_name": "ThumbsUp",
         "tag": "Emote.ThumbsUp",
         "name": {
@@ -27,7 +27,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "Point": {
         "key_name": "Point",
         "tag": "Emote.Point",
         "name": {
@@ -41,7 +41,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "Cheer": {
         "key_name": "Cheer",
         "tag": "Emote.Cheer",
         "name": {
@@ -55,7 +55,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "Laugh": {
         "key_name": "Laugh",
         "tag": "Emote.Laugh",
         "name": {
@@ -69,7 +69,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "Headbang": {
         "key_name": "Headbang",
         "tag": "Emote.Headbang",
         "name": {
@@ -83,7 +83,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "Applaud": {
         "key_name": "Applaud",
         "tag": "Emote.Applaud",
         "name": {
@@ -97,7 +97,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "AirGuitar": {
         "key_name": "AirGuitar",
         "tag": "Emote.Air Guitar",
         "name": {
@@ -111,7 +111,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "ThumbsDown": {
         "key_name": "ThumbsDown",
         "tag": "Emote.ThumbsDown",
         "name": {
@@ -125,7 +125,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "Thanks": {
         "key_name": "Thanks",
         "tag": "Emote.Thanks",
         "name": {
@@ -139,7 +139,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "FistPump": {
         "key_name": "FistPump",
         "tag": "Emote.Happy",
         "name": {
@@ -153,7 +153,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "Flex": {
         "key_name": "Flex",
         "tag": "Emote.ShowOff",
         "name": {
@@ -167,7 +167,7 @@
         "looping": true,
         "unknown_fields": {}
     },
-    {
+    "PowerUp": {
         "key_name": "PowerUp",
         "tag": "Emote.PowerUp",
         "name": {
@@ -181,7 +181,7 @@
         "looping": false,
         "unknown_fields": {}
     },
-    {
+    "Sit": {
         "key_name": "Sit",
         "tag": "Emote.Sit",
         "name": {
@@ -195,7 +195,7 @@
         "looping": true,
         "unknown_fields": {}
     },
-    {
+    "Squat": {
         "key_name": "Squat",
         "tag": "Emote.Squat",
         "name": {
@@ -209,7 +209,7 @@
         "looping": true,
         "unknown_fields": {}
     },
-    {
+    "Salute": {
         "key_name": "Salute",
         "tag": "Emote.Salute",
         "name": {
@@ -223,4 +223,4 @@
         "looping": false,
         "unknown_fields": {}
     }
-]
+}

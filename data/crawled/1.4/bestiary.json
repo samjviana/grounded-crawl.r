@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Ladybug": {
         "name": "Ladybug",
         "asset_path_name": "/Game/Blueprints/Creatures/Ladybug/Base/BP_Ladybug.BP_Ladybug_C",
         "weakpoint_tags": [
@@ -25,7 +25,7 @@
             }
         }
     },
-    {
+    "LadybugInfected": {
         "name": "LadybugInfected",
         "asset_path_name": "/Game/Blueprints/Creatures/Ladybug/Infected/BP_Ladybug_Infected.BP_Ladybug_Infected_C",
         "weakpoint_tags": [],
@@ -49,7 +49,7 @@
             }
         }
     },
-    {
+    "LadybugUpperyard": {
         "name": "LadybugUpperyard",
         "asset_path_name": "/Game/Blueprints/Creatures/Ladybug/Base/BP_Ladybug.BP_Ladybug_C",
         "weakpoint_tags": [
@@ -75,7 +75,7 @@
             }
         }
     },
-    {
+    "SpiderOrb": {
         "name": "SpiderOrb",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/OrbWeaver/BP_Spider_Web.BP_Spider_Web_C",
         "weakpoint_tags": [],
@@ -99,7 +99,7 @@
             }
         }
     },
-    {
+    "SpiderOrbJr": {
         "name": "SpiderOrbJr",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/Small/BP_Spider_Small.BP_Spider_Small_C",
         "weakpoint_tags": [],
@@ -123,7 +123,7 @@
             }
         }
     },
-    {
+    "Spiderling": {
         "name": "Spiderling",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/Spiderling/BP_Spiderling.BP_Spiderling_C",
         "weakpoint_tags": [],
@@ -147,7 +147,7 @@
             }
         }
     },
-    {
+    "SpiderWolf": {
         "name": "SpiderWolf",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/Wolf/BP_Spider_Wolf.BP_Spider_Wolf_C",
         "weakpoint_tags": [],
@@ -171,7 +171,7 @@
             }
         }
     },
-    {
+    "Aphid": {
         "name": "Aphid",
         "asset_path_name": "/Game/Blueprints/Creatures/Aphid/Base/BP_Aphid.BP_Aphid_C",
         "weakpoint_tags": [],
@@ -195,7 +195,7 @@
             }
         }
     },
-    {
+    "Weevil": {
         "name": "Weevil",
         "asset_path_name": "/Game/Blueprints/Creatures/Weevil/Base/BP_Weevil.BP_Weevil_C",
         "weakpoint_tags": [],
@@ -219,7 +219,7 @@
             }
         }
     },
-    {
+    "WeevilInfected": {
         "name": "WeevilInfected",
         "asset_path_name": "/Game/Blueprints/Creatures/Weevil/Infected/BP_Weevil_Evil.BP_Weevil_Evil_C",
         "weakpoint_tags": [],
@@ -243,7 +243,7 @@
             }
         }
     },
-    {
+    "WaterFlea": {
         "name": "WaterFlea",
         "asset_path_name": "/Game/Blueprints/Creatures/WaterFlea/Base/BP_WaterFlea.BP_WaterFlea_C",
         "weakpoint_tags": [],
@@ -267,7 +267,7 @@
             }
         }
     },
-    {
+    "WaterBoatman": {
         "name": "WaterBoatman",
         "asset_path_name": "/Game/Blueprints/Creatures/Water_Boatman/Base/BP_WaterBoatman.BP_WaterBoatman_C",
         "weakpoint_tags": [],
@@ -291,7 +291,7 @@
             }
         }
     },
-    {
+    "TermiteSoldier": {
         "name": "TermiteSoldier",
         "asset_path_name": "/Game/Blueprints/Creatures/Termite/Base/BP_Termite_Soldier.BP_Termite_Soldier_C",
         "weakpoint_tags": [],
@@ -315,7 +315,7 @@
             }
         }
     },
-    {
+    "TermiteWorker": {
         "name": "TermiteWorker",
         "asset_path_name": "/Game/Blueprints/Creatures/Termite/Base/BP_Termite_Worker.BP_Termite_Worker_C",
         "weakpoint_tags": [],
@@ -339,7 +339,7 @@
             }
         }
     },
-    {
+    "TermiteKing": {
         "name": "TermiteKing",
         "asset_path_name": "/Game/Blueprints/Creatures/Termite/King/BP_Termite_King.BP_Termite_King_C",
         "weakpoint_tags": [],
@@ -363,7 +363,7 @@
             }
         }
     },
-    {
+    "Tazt": {
         "name": "Tazt",
         "asset_path_name": "/Game/Blueprints/Creatures/TazT/TaserMelee/BP_TazT.BP_TazT_C",
         "weakpoint_tags": [
@@ -389,7 +389,7 @@
             }
         }
     },
-    {
+    "TaztRuzT": {
         "name": "TaztRuzT",
         "asset_path_name": "/Game/Blueprints/Creatures/TazT/TaserMelee/BP_TazT_Rusty.BP_TazT_Rusty_C",
         "weakpoint_tags": [
@@ -415,7 +415,7 @@
             }
         }
     },
-    {
+    "ArcR": {
         "name": "ArcR",
         "asset_path_name": "/Game/Blueprints/Creatures/TazT/ElectricRanged/BP_ArcR.BP_ArcR_C",
         "weakpoint_tags": [],
@@ -439,7 +439,7 @@
             }
         }
     },
-    {
+    "Tadpole": {
         "name": "Tadpole",
         "asset_path_name": "/Game/Blueprints/Creatures/Tadpole/Base/BP_Tadpole.BP_Tadpole_C",
         "weakpoint_tags": [],
@@ -463,7 +463,7 @@
             }
         }
     },
-    {
+    "Stinkbug": {
         "name": "Stinkbug",
         "asset_path_name": "/Game/Blueprints/Creatures/StinkBug/Base/BP_StinkBug.BP_StinkBug_C",
         "weakpoint_tags": [],
@@ -487,7 +487,7 @@
             }
         }
     },
-    {
+    "RolyPolySickly": {
         "name": "RolyPolySickly",
         "asset_path_name": "/Game/Blueprints/Creatures/RolyPoly/Base/BP_RolyPoly_Sickly.BP_RolyPoly_Sickly_C",
         "weakpoint_tags": [
@@ -513,7 +513,7 @@
             }
         }
     },
-    {
+    "Mosquito": {
         "name": "Mosquito",
         "asset_path_name": "/Game/Blueprints/Creatures/Mosquito/Base/BP_Mosquito.BP_Mosquito_C",
         "weakpoint_tags": [],
@@ -537,7 +537,7 @@
             }
         }
     },
-    {
+    "Mite": {
         "name": "Mite",
         "asset_path_name": "/Game/Blueprints/Creatures/Mite/Base/BP_Mite.BP_Mite_C",
         "weakpoint_tags": [],
@@ -561,7 +561,7 @@
             }
         }
     },
-    {
+    "MiteInfected": {
         "name": "MiteInfected",
         "asset_path_name": "/Game/Blueprints/Creatures/Mite/Infected/BP_Mite_Haze.BP_Mite_Haze_C",
         "weakpoint_tags": [],
@@ -585,7 +585,7 @@
             }
         }
     },
-    {
+    "MiteDust": {
         "name": "MiteDust",
         "asset_path_name": "/Game/Blueprints/Creatures/Mite/Dust/BP_Mite_Dust.BP_Mite_Dust_C",
         "weakpoint_tags": [],
@@ -609,7 +609,7 @@
             }
         }
     },
-    {
+    "AntRedWorker": {
         "name": "AntRedWorker",
         "asset_path_name": "/Game/Blueprints/Creatures/Ant/Red/Worker/BP_Ant.BP_Ant_C",
         "weakpoint_tags": [
@@ -635,7 +635,7 @@
             }
         }
     },
-    {
+    "AntRedSoldier": {
         "name": "AntRedSoldier",
         "asset_path_name": "/Game/Blueprints/Creatures/Ant/Red/Soldier/BP_Ant_Soldier.BP_Ant_Soldier_C",
         "weakpoint_tags": [
@@ -661,7 +661,7 @@
             }
         }
     },
-    {
+    "AntBlackWorker": {
         "name": "AntBlackWorker",
         "asset_path_name": "/Game/Blueprints/Creatures/Ant/Black/Worker/BP_Ant_Black.BP_Ant_Black_C",
         "weakpoint_tags": [
@@ -687,7 +687,7 @@
             }
         }
     },
-    {
+    "AntBlackSoldier": {
         "name": "AntBlackSoldier",
         "asset_path_name": "/Game/Blueprints/Creatures/Ant/Black/Soldier/BP_Ant_Soldier_Black.BP_Ant_Soldier_Black_C",
         "weakpoint_tags": [
@@ -713,7 +713,7 @@
             }
         }
     },
-    {
+    "AntFireSoldier": {
         "name": "AntFireSoldier",
         "asset_path_name": "/Game/Blueprints/Creatures/Ant/Fire/Soldier/BP_Ant_Soldier_Fire.BP_Ant_Soldier_Fire_C",
         "weakpoint_tags": [
@@ -739,7 +739,7 @@
             }
         }
     },
-    {
+    "AntFireWorker": {
         "name": "AntFireWorker",
         "asset_path_name": "/Game/Blueprints/Creatures/Ant/Fire/Worker/BP_Ant_Fire.BP_Ant_Fire_C",
         "weakpoint_tags": [
@@ -765,7 +765,7 @@
             }
         }
     },
-    {
+    "ArcRBoss": {
         "name": "ArcRBoss",
         "asset_path_name": "/Game/Blueprints/Creatures/TazT/ElectricRanged/Miniboss/BP_ArcR_MKII.BP_ArcR_MKII_C",
         "weakpoint_tags": [],
@@ -789,7 +789,7 @@
             }
         }
     },
-    {
+    "Bee": {
         "name": "Bee",
         "asset_path_name": "/Game/Blueprints/Creatures/Bee/Base/BP_Bee.BP_Bee_C",
         "weakpoint_tags": [
@@ -815,7 +815,7 @@
             }
         }
     },
-    {
+    "BlackOx": {
         "name": "BlackOx",
         "asset_path_name": "/Game/Blueprints/Creatures/BlackOxBeetle/Base/BP_BlackOxBeetle.BP_BlackOxBeetle_C",
         "weakpoint_tags": [
@@ -841,7 +841,7 @@
             }
         }
     },
-    {
+    "Bombardier": {
         "name": "Bombardier",
         "asset_path_name": "/Game/Blueprints/Creatures/BombardierBeetle/Base/BP_BombardierBeetle.BP_BombardierBeetle_C",
         "weakpoint_tags": [
@@ -867,7 +867,7 @@
             }
         }
     },
-    {
+    "Firefly": {
         "name": "Firefly",
         "asset_path_name": "/Game/Blueprints/Creatures/Firefly/Base/BP_Firefly.BP_Firefly_C",
         "weakpoint_tags": [],
@@ -891,7 +891,7 @@
             }
         }
     },
-    {
+    "Gnat": {
         "name": "Gnat",
         "asset_path_name": "/Game/Blueprints/Creatures/Gnat/Base/BP_Gnat.BP_Gnat_C",
         "weakpoint_tags": [],
@@ -915,7 +915,7 @@
             }
         }
     },
-    {
+    "GnatMeaty": {
         "name": "GnatMeaty",
         "asset_path_name": "/Game/Blueprints/Creatures/Gnat/Base/BP_Gnat_Big.BP_Gnat_Big_C",
         "weakpoint_tags": [],
@@ -939,7 +939,7 @@
             }
         }
     },
-    {
+    "GnatInfected": {
         "name": "GnatInfected",
         "asset_path_name": "/Game/Blueprints/Creatures/Gnat/Infected/BP_Gnat_Infected.BP_Gnat_Infected_C",
         "weakpoint_tags": [],
@@ -963,7 +963,7 @@
             }
         }
     },
-    {
+    "Grub": {
         "name": "Grub",
         "asset_path_name": "/Game/Blueprints/Creatures/Grub/Base/BP_Grub.BP_Grub_C",
         "weakpoint_tags": [],
@@ -987,7 +987,7 @@
             }
         }
     },
-    {
+    "Larva": {
         "name": "Larva",
         "asset_path_name": "/Game/Blueprints/Creatures/Larva/Base/BP_Larva.BP_Larva_C",
         "weakpoint_tags": [],
@@ -1011,7 +1011,7 @@
             }
         }
     },
-    {
+    "LarvaInfected": {
         "name": "LarvaInfected",
         "asset_path_name": "/Game/Blueprints/Creatures/Larva/Infected/BP_Larva_infected.BP_Larva_Infected_C",
         "weakpoint_tags": [],
@@ -1035,7 +1035,7 @@
             }
         }
     },
-    {
+    "LarvaCharcoal": {
         "name": "LarvaCharcoal",
         "asset_path_name": "/Game/Blueprints/Creatures/Larva/Charcoal/BP_Larva_Burrow_Charcoal.BP_Larva_Burrow_Charcoal_C",
         "weakpoint_tags": [],
@@ -1059,7 +1059,7 @@
             }
         }
     },
-    {
+    "SpiderBossBroodmother": {
         "name": "SpiderBossBroodmother",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/Boss01/BP_Spider_Boss_Hedge.BP_Spider_Boss_Hedge_C",
         "weakpoint_tags": [],
@@ -1083,7 +1083,7 @@
             }
         }
     },
-    {
+    "Antlion": {
         "name": "Antlion",
         "asset_path_name": "/Game/Blueprints/Creatures/Antlion/Base/BP_Antlion_Pit.BP_Antlion_Pit_C",
         "weakpoint_tags": [],
@@ -1107,7 +1107,7 @@
             }
         }
     },
-    {
+    "SpiderDivingBell": {
         "name": "SpiderDivingBell",
         "asset_path_name": "/Game/Blueprints/Creatures/DivingBellSpider/Base/BP_DivingBellSpider.BP_DivingBellSpider_C",
         "weakpoint_tags": [],
@@ -1131,7 +1131,7 @@
             }
         }
     },
-    {
+    "StinkbugGreenShield": {
         "name": "StinkbugGreenShield",
         "asset_path_name": "/Game/Blueprints/Creatures/StinkBug/Upperyard/BP_StinkBug_Upperyard.BP_StinkBug_Upperyard_C",
         "weakpoint_tags": [],
@@ -1155,7 +1155,7 @@
             }
         }
     },
-    {
+    "Scarab": {
         "name": "Scarab",
         "asset_path_name": "/Game/Blueprints/Creatures/CrystalBeetle/BP_CrystalBeetle.BP_CrystalBeetle_C",
         "weakpoint_tags": [],
@@ -1179,7 +1179,7 @@
             }
         }
     },
-    {
+    "SpiderWolfInfected": {
         "name": "SpiderWolfInfected",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/Wolf/BP_Spider_Wolf_Infected.BP_Spider_Wolf_Infected_C",
         "weakpoint_tags": [],
@@ -1203,7 +1203,7 @@
             }
         }
     },
-    {
+    "SpiderBlackWidow": {
         "name": "SpiderBlackWidow",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/BlackWidow/BP_Spider_BlackWidow.BP_Spider_BlackWidow_C",
         "weakpoint_tags": [],
@@ -1227,7 +1227,7 @@
             }
         }
     },
-    {
+    "RolyPoly": {
         "name": "RolyPoly",
         "asset_path_name": "/Game/Blueprints/Creatures/RolyPoly/Base/BP_RolyPoly.BP_RolyPoly_C",
         "weakpoint_tags": [
@@ -1253,7 +1253,7 @@
             }
         }
     },
-    {
+    "WaterFleaSpiny": {
         "name": "WaterFleaSpiny",
         "asset_path_name": "/Game/Blueprints/Creatures/WaterFlea/UpperYard/BP_WaterFlea_UpperYard.BP_WaterFlea_UpperYard_C",
         "weakpoint_tags": [],
@@ -1277,7 +1277,7 @@
             }
         }
     },
-    {
+    "MosquitoTiger": {
         "name": "MosquitoTiger",
         "asset_path_name": "/Game/Blueprints/Creatures/Mosquito/Variant/BP_Mosquito_Tiger.BP_Mosquito_Tiger_C",
         "weakpoint_tags": [],
@@ -1301,7 +1301,7 @@
             }
         }
     },
-    {
+    "MiteTick": {
         "name": "MiteTick",
         "asset_path_name": "/Game/Blueprints/Creatures/Mite/Tick/BP_Mite_Tick.BP_Mite_Tick_C",
         "weakpoint_tags": [],
@@ -1325,7 +1325,7 @@
             }
         }
     },
-    {
+    "SpiderlingWidow": {
         "name": "SpiderlingWidow",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/Spiderling/BP_Spiderling_BlackWidow.BP_Spiderling_BlackWidow_C",
         "weakpoint_tags": [],
@@ -1349,7 +1349,7 @@
             }
         }
     },
-    {
+    "Moth": {
         "name": "Moth",
         "asset_path_name": "/Game/Blueprints/Creatures/Moth/Base/BP_Moth.BP_Moth_C",
         "weakpoint_tags": [],
@@ -1373,7 +1373,7 @@
             }
         }
     },
-    {
+    "Mant": {
         "name": "Mant",
         "asset_path_name": "/Game/Blueprints/Creatures/Mant/BP_Mant.BP_Mant_C",
         "weakpoint_tags": [],
@@ -1397,7 +1397,7 @@
             }
         }
     },
-    {
+    "Mantis": {
         "name": "Mantis",
         "asset_path_name": "/Game/Blueprints/Creatures/Mantis/BP_Mantis.BP_Mantis_C",
         "weakpoint_tags": [
@@ -1423,7 +1423,7 @@
             }
         }
     },
-    {
+    "Schmector": {
         "name": "Schmector",
         "asset_path_name": "/Game/Blueprints/Creatures/TazT/Boss/BP_Ominent_Robot.BP_Ominent_Robot_C",
         "weakpoint_tags": [],
@@ -1447,7 +1447,7 @@
             }
         }
     },
-    {
+    "Wasp": {
         "name": "Wasp",
         "asset_path_name": "/Game/Blueprints/Creatures/Wasp/Base/BP_Wasp.BP_Wasp_C",
         "weakpoint_tags": [],
@@ -1471,7 +1471,7 @@
             }
         }
     },
-    {
+    "WaspQueen": {
         "name": "WaspQueen",
         "asset_path_name": "/Game/Blueprints/Creatures/Wasp/Wicklow/BP_Wicklow.BP_Wicklow_C",
         "weakpoint_tags": [],
@@ -1495,7 +1495,7 @@
             }
         }
     },
-    {
+    "WaspDrone": {
         "name": "WaspDrone",
         "asset_path_name": "/Game/Blueprints/Creatures/Wasp/Base/BP_Wasp_Support.BP_Wasp_Support_C",
         "weakpoint_tags": [],
@@ -1519,7 +1519,7 @@
             }
         }
     },
-    {
+    "SpiderBossBroodmotherIBM": {
         "name": "SpiderBossBroodmotherIBM",
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/Test01/BP_Spider_Boss_Infected.BP_Spider_Boss_Infected_C",
         "weakpoint_tags": [],
@@ -1543,7 +1543,7 @@
             }
         }
     },
-    {
+    "Koi": {
         "name": "Koi",
         "asset_path_name": "/Game/Blueprints/Creatures/KoiFish/BP_KoiFish.BP_KoiFish_C",
         "weakpoint_tags": [],
@@ -1561,5 +1561,209 @@
                 }
             }
         }
+    },
+    "AntQueenRedDummy": {
+        "name": "AntQueenRedDummy",
+        "asset_path_name": "None",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAntQueenRedDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "AntQueenBlackDummy": {
+        "name": "AntQueenBlackDummy",
+        "asset_path_name": "None",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAntQueenBlackDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "AntQueenFireDummy": {
+        "name": "AntQueenFireDummy",
+        "asset_path_name": "None",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAntQueenFireDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "CrowDummy": {
+        "name": "CrowDummy",
+        "asset_path_name": "None",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryCrowDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "AntInfectedWorker": {
+        "name": "AntInfectedWorker",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Infected/BP_Ant_Worker_Infected.BP_Ant_Worker_Infected_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryAntInfectedWorkerGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_AntInfected_Worker_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_AntInfected_Worker_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "AntInfectedSoldier": {
+        "name": "AntInfectedSoldier",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Infected/BP_Ant_Soldier_Infected.BP_Ant_Soldier_Infected_C",
+        "weakpoint_tags": [
+            "Weakpoint.Eyes"
+        ],
+        "rare_unlock_item_name": "BestiaryAntInfectedSoldierGold",
+        "rare_drop_chance": 0.01,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [
+                {
+                    "ObjectName": "StatKillConfig'Stat_Party_AntInfected_Soldier_Kills'",
+                    "ObjectPath": "/Game/Design/Perks/Stats/Kills/Bestiary/Stat_Party_AntInfected_Soldier_Kills.0"
+                }
+            ],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "AntQueenInfectedDummy": {
+        "name": "AntQueenInfectedDummy",
+        "asset_path_name": "None",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAntQueenInfectedDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "AntBabyRed": {
+        "name": "AntBabyRed",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Antrim/Red/BP_Ant_Baby_Queen_Red.BP_Ant_Baby_Queen_Red_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAntBabyRedDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "AntBabyBlack": {
+        "name": "AntBabyBlack",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Antrim/Black/BP_Ant_Baby_Queen_Black.BP_Ant_Baby_Queen_Black_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAntBabyBlackDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
+    },
+    "AntBabyFire": {
+        "name": "AntBabyFire",
+        "asset_path_name": "/Game/Blueprints/Creatures/Ant/Antrim/Fire/BP_Ant_Baby_Queen_Fire.BP_Ant_Baby_Queen_Fire_C",
+        "weakpoint_tags": [],
+        "rare_unlock_item_name": "BestiaryAntBabyFireDummy",
+        "rare_drop_chance": 1.0,
+        "unknown_fields": {
+            "Creature": {
+                "SubPathString": ""
+            },
+            "Stats": [],
+            "RareUnlockItemData": {
+                "DataTable": {
+                    "ObjectName": "CompositeDataTable'Table_AllItems'",
+                    "ObjectPath": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        }
     }
-]
+}

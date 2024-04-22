@@ -1,5 +1,5 @@
-[
-    {
+{
+    "Health": {
         "name": {
             "table_id": 1,
             "string_id": 1508,
@@ -86,7 +86,7 @@
             ]
         }
     },
-    {
+    "Stamina": {
         "name": {
             "table_id": 1,
             "string_id": 1510,
@@ -161,7 +161,7 @@
             ]
         }
     },
-    {
+    "Thirst": {
         "name": {
             "table_id": 1,
             "string_id": 1407,
@@ -271,7 +271,7 @@
             ]
         }
     },
-    {
+    "Healing": {
         "name": {
             "table_id": 1,
             "string_id": 1682,
@@ -346,7 +346,7 @@
             ]
         }
     },
-    {
+    "Perks": {
         "name": {
             "table_id": 1,
             "string_id": 1507,
@@ -373,4 +373,4 @@
             ]
         }
     }
-]
+}

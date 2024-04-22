@@ -1,8 +1,8 @@
-[
-    {
+{
+    "Aphid": {
         "name": "Aphid",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Aphid.png",
-        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/UI/Images/System/T_UI_PetAphid.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Aphid.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/UI/Images/System/T_UI_PetAphid.png",
         "character_name": {
             "table_id": 9,
             "string_id": 7,
@@ -822,9 +822,9 @@
             }
         }
     },
-    {
+    "Ant_Worker_Brown": {
         "name": "Ant_Worker_Brown",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Brown.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Brown.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -913,9 +913,9 @@
             }
         }
     },
-    {
+    "Ant_Worker_Black": {
         "name": "Ant_Worker_Black",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Black.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Black.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1004,9 +1004,9 @@
             }
         }
     },
-    {
+    "Ladybug": {
         "name": "Ladybug",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybug.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybug.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1095,9 +1095,9 @@
             }
         }
     },
-    {
+    "Bee": {
         "name": "Bee",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Bee.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Bee.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1187,9 +1187,9 @@
             }
         }
     },
-    {
+    "Firefly": {
         "name": "Firefly",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Firefly.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Firefly.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1279,9 +1279,9 @@
             }
         }
     },
-    {
+    "RolyPoly_Sickly": {
         "name": "RolyPoly_Sickly",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1370,9 +1370,9 @@
             }
         }
     },
-    {
+    "RolyPoly": {
         "name": "RolyPoly",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1461,9 +1461,9 @@
             }
         }
     },
-    {
+    "Moth": {
         "name": "Moth",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Moth.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Moth.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1553,9 +1553,9 @@
             }
         }
     },
-    {
+    "Ant_Soldier_Brown": {
         "name": "Ant_Soldier_Brown",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Brown_Soldier.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Brown_Soldier.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1644,9 +1644,9 @@
             }
         }
     },
-    {
+    "Mite": {
         "name": "Mite",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1735,9 +1735,9 @@
             }
         }
     },
-    {
+    "Larva": {
         "name": "Larva",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1826,9 +1826,9 @@
             }
         }
     },
-    {
+    "TayzTRuzT": {
         "name": "TayzTRuzT",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_RUZ_T.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_RUZ_T.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -1916,9 +1916,9 @@
             }
         }
     },
-    {
+    "WaterFlea": {
         "name": "WaterFlea",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_WaterFlea.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_WaterFlea.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2007,9 +2007,9 @@
             }
         }
     },
-    {
+    "Spider_OrbWeaverJr": {
         "name": "Spider_OrbWeaverJr",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orb_Weaver_JR.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orb_Weaver_JR.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2098,9 +2098,9 @@
             }
         }
     },
-    {
+    "Spiderling": {
         "name": "Spiderling",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spiderling.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spiderling.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2189,9 +2189,9 @@
             }
         }
     },
-    {
+    "Ant_Soldier_Black": {
         "name": "Ant_Soldier_Black",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Black_Soldier.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Black_Soldier.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2280,9 +2280,9 @@
             }
         }
     },
-    {
+    "TayzT": {
         "name": "TayzT",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_TAZ_T.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_TAZ_T.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2370,9 +2370,9 @@
             }
         }
     },
-    {
+    "ArcR": {
         "name": "ArcR",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ARC_R.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ARC_R.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2460,9 +2460,9 @@
             }
         }
     },
-    {
+    "Mosquito": {
         "name": "Mosquito",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mosquito.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mosquito.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2552,9 +2552,9 @@
             }
         }
     },
-    {
+    "Weevil_Evil": {
         "name": "Weevil_Evil",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Weevil_Infected.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Weevil_Infected.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2644,9 +2644,9 @@
             }
         }
     },
-    {
+    "Mite_Infected": {
         "name": "Mite_Infected",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite_Infected.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite_Infected.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2736,9 +2736,9 @@
             }
         }
     },
-    {
+    "Ladybug_Infected": {
         "name": "Ladybug_Infected",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybug_Infected.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybug_Infected.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2829,9 +2829,9 @@
             }
         }
     },
-    {
+    "Larva_Infected": {
         "name": "Larva_Infected",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva_Infected.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva_Infected.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -2921,9 +2921,9 @@
             }
         }
     },
-    {
+    "Gnat_Infected": {
         "name": "Gnat_Infected",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat-Infected.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat-Infected.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3014,9 +3014,9 @@
             }
         }
     },
-    {
+    "StinkBug": {
         "name": "StinkBug",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Stinkbug.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Stinkbug.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3105,9 +3105,9 @@
             }
         }
     },
-    {
+    "Spider_OrbWeaver": {
         "name": "Spider_OrbWeaver",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Orbweaver.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Orbweaver.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3196,9 +3196,9 @@
             }
         }
     },
-    {
+    "Spider_DivingBell": {
         "name": "Spider_DivingBell",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_DivingBell.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_DivingBell.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3287,9 +3287,9 @@
             }
         }
     },
-    {
+    "Spider_Wolf": {
         "name": "Spider_Wolf",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Wolf.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Wolf.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3378,9 +3378,9 @@
             }
         }
     },
-    {
+    "BombardierBeetle": {
         "name": "BombardierBeetle",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Bombardier.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Bombardier.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3469,9 +3469,9 @@
             }
         }
     },
-    {
+    "Ant_Worker_Fire": {
         "name": "Ant_Worker_Fire",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Fire.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Fire.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3560,9 +3560,9 @@
             }
         }
     },
-    {
+    "Ant_Soldier_Fire": {
         "name": "Ant_Soldier_Fire",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Fire_Soldier.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Fire_Soldier.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3651,9 +3651,9 @@
             }
         }
     },
-    {
+    "Mite_Dust": {
         "name": "Mite_Dust",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite_Dust.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite_Dust.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3742,9 +3742,9 @@
             }
         }
     },
-    {
+    "LarvaLadybug": {
         "name": "LarvaLadybug",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva_Ladybird.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva_Ladybird.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3833,9 +3833,9 @@
             }
         }
     },
-    {
+    "Antlion": {
         "name": "Antlion",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Antlion.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Antlion.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -3924,9 +3924,9 @@
             }
         }
     },
-    {
+    "Termite_Worker": {
         "name": "Termite_Worker",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4015,9 +4015,9 @@
             }
         }
     },
-    {
+    "Termite_Soldier": {
         "name": "Termite_Soldier",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite_Soldier.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite_Soldier.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4106,9 +4106,9 @@
             }
         }
     },
-    {
+    "Termite_King": {
         "name": "Termite_King",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite_King.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite_King.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4197,9 +4197,9 @@
             }
         }
     },
-    {
+    "BlackOxBeetle": {
         "name": "BlackOxBeetle",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_BOB.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_BOB.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4288,9 +4288,9 @@
             }
         }
     },
-    {
+    "LadybugAggressive": {
         "name": "LadybugAggressive",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybird.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybird.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4379,9 +4379,9 @@
             }
         }
     },
-    {
+    "StinkbugGreen": {
         "name": "StinkbugGreen",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Stinkbug_Greenshield.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Stinkbug_Greenshield.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4470,9 +4470,9 @@
             }
         }
     },
-    {
+    "Spider_Wolf_Infected": {
         "name": "Spider_Wolf_Infected",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Wolf_Infected.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Wolf_Infected.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4562,9 +4562,9 @@
             }
         }
     },
-    {
+    "Spider_BlackWidow": {
         "name": "Spider_BlackWidow",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_BlackWidow.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_BlackWidow.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4653,9 +4653,9 @@
             }
         }
     },
-    {
+    "WaterFleaSpiny": {
         "name": "WaterFleaSpiny",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_WaterFlea_Spiny.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_WaterFlea_Spiny.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4744,9 +4744,9 @@
             }
         }
     },
-    {
+    "Mosquito_Tiger": {
         "name": "Mosquito_Tiger",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mosquito_Tiger.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mosquito_Tiger.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4836,9 +4836,9 @@
             }
         }
     },
-    {
+    "Mite_Tick": {
         "name": "Mite_Tick",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Tick.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Tick.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -4927,9 +4927,9 @@
             }
         }
     },
-    {
+    "SpiderlingWidow": {
         "name": "SpiderlingWidow",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spiderling_Widow.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spiderling_Widow.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5018,9 +5018,9 @@
             }
         }
     },
-    {
+    "Wasp": {
         "name": "Wasp",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Wasp.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Wasp.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5110,9 +5110,9 @@
             }
         }
     },
-    {
+    "WaspDrone": {
         "name": "WaspDrone",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Wasp_Drone.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Wasp_Drone.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5202,9 +5202,9 @@
             }
         }
     },
-    {
+    "ArcRMiniboss": {
         "name": "ArcRMiniboss",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Assistant_Manager.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Assistant_Manager.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5292,9 +5292,9 @@
             }
         }
     },
-    {
+    "Spider_Boss_Broodmother": {
         "name": "Spider_Boss_Broodmother",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Broodmother.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Broodmother.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5383,9 +5383,9 @@
             }
         }
     },
-    {
+    "Mant": {
         "name": "Mant",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mant.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mant.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5473,9 +5473,9 @@
             }
         }
     },
-    {
+    "Mantis": {
         "name": "Mantis",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mantis.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mantis.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5564,9 +5564,9 @@
             }
         }
     },
-    {
+    "WaspQueen": {
         "name": "WaspQueen",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Wasp_Queen.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Wasp_Queen.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5656,9 +5656,9 @@
             }
         }
     },
-    {
+    "Schmector": {
         "name": "Schmector",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Director_Shmector.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Director_Shmector.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5746,9 +5746,9 @@
             }
         }
     },
-    {
+    "Spider_Boss_Broodmother_IBM": {
         "name": "Spider_Boss_Broodmother_IBM",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_IBM.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_IBM.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5837,9 +5837,9 @@
             }
         }
     },
-    {
+    "Koi": {
         "name": "Koi",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Koi.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Koi.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -5926,10 +5926,10 @@
             }
         }
     },
-    {
+    "Weevil": {
         "name": "Weevil",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Weevil.png",
-        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/UI/Images/System/T_UI_PetWeevil.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Weevil.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/UI/Images/System/T_UI_PetWeevil.png",
         "character_name": {
             "table_id": 9,
             "string_id": 15,
@@ -6749,9 +6749,9 @@
             }
         }
     },
-    {
+    "Grub": {
         "name": "Grub",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Grub.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Grub.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -6840,10 +6840,10 @@
             }
         }
     },
-    {
+    "Gnat": {
         "name": "Gnat",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat.png",
-        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/UI/Images/System/T_UI_PetGnat.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/UI/Images/System/T_UI_PetGnat.png",
         "character_name": {
             "table_id": 9,
             "string_id": 13,
@@ -7662,9 +7662,9 @@
             }
         }
     },
-    {
+    "GnatMeaty": {
         "name": "GnatMeaty",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -8476,9 +8476,9 @@
             }
         }
     },
-    {
+    "Tadpole": {
         "name": "Tadpole",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Tadpole.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Tadpole.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -8567,9 +8567,9 @@
             }
         }
     },
-    {
+    "WaterBoatman": {
         "name": "WaterBoatman",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Waterboatman.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Waterboatman.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -8658,9 +8658,9 @@
             }
         }
     },
-    {
+    "Scarab": {
         "name": "Scarab",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Scarab.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Scarab.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -8749,7 +8749,7 @@
             }
         }
     },
-    {
+    "Leech": {
         "name": "Leech",
         "icon": ".",
         "hud_icon": ".",
@@ -8838,7 +8838,7 @@
             }
         }
     },
-    {
+    "WaterStrider": {
         "name": "WaterStrider",
         "icon": ".",
         "hud_icon": ".",
@@ -8927,7 +8927,7 @@
             }
         }
     },
-    {
+    "AntQueen": {
         "name": "AntQueen",
         "icon": ".",
         "hud_icon": ".",
@@ -9016,7 +9016,7 @@
             }
         }
     },
-    {
+    "Silverfish": {
         "name": "Silverfish",
         "icon": ".",
         "hud_icon": ".",
@@ -9836,10 +9836,10 @@
             }
         }
     },
-    {
+    "WendellBot": {
         "name": "WendellBot",
         "icon": ".",
-        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/UI/Images/System/T_UI_HUD_Wendell.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/UI/Images/System/T_UI_HUD_Wendell.png",
         "character_name": {
             "table_id": 9,
             "string_id": 19,
@@ -9925,7 +9925,7 @@
             }
         }
     },
-    {
+    "Ant_Guardian_Antrim": {
         "name": "Ant_Guardian_Antrim",
         "icon": ".",
         "hud_icon": ".",
@@ -10012,7 +10012,7 @@
             }
         }
     },
-    {
+    "Ant_Spitter_Antrim": {
         "name": "Ant_Spitter_Antrim",
         "icon": ".",
         "hud_icon": ".",
@@ -10099,7 +10099,7 @@
             }
         }
     },
-    {
+    "Ant_Young_Antrim": {
         "name": "Ant_Young_Antrim",
         "icon": ".",
         "hud_icon": ".",
@@ -10186,7 +10186,7 @@
             }
         }
     },
-    {
+    "Ant_Worker_Brown_Wave": {
         "name": "Ant_Worker_Brown_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -10278,7 +10278,7 @@
             }
         }
     },
-    {
+    "Ant_Soldier_Brown_Wave": {
         "name": "Ant_Soldier_Brown_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -10370,7 +10370,7 @@
             }
         }
     },
-    {
+    "Ant_Worker_Black_Wave": {
         "name": "Ant_Worker_Black_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -10462,7 +10462,7 @@
             }
         }
     },
-    {
+    "Ant_Soldier_Black_Wave": {
         "name": "Ant_Soldier_Black_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -10554,7 +10554,7 @@
             }
         }
     },
-    {
+    "Bee_Wave": {
         "name": "Bee_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -10647,7 +10647,7 @@
             }
         }
     },
-    {
+    "Gnat_Infected_Wave": {
         "name": "Gnat_Infected_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -10740,7 +10740,7 @@
             }
         }
     },
-    {
+    "Ladybug_Infected_Wave": {
         "name": "Ladybug_Infected_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -10834,7 +10834,7 @@
             }
         }
     },
-    {
+    "Larva_Infected_Wave": {
         "name": "Larva_Infected_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -10927,7 +10927,7 @@
             }
         }
     },
-    {
+    "Mite_Infected_Wave": {
         "name": "Mite_Infected_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11020,7 +11020,7 @@
             }
         }
     },
-    {
+    "Weevil_Evil_Wave": {
         "name": "Weevil_Evil_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11113,7 +11113,7 @@
             }
         }
     },
-    {
+    "Spider_Wolf_Infected_Wave": {
         "name": "Spider_Wolf_Infected_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11206,7 +11206,7 @@
             }
         }
     },
-    {
+    "Mosquito_Wave": {
         "name": "Mosquito_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11299,7 +11299,7 @@
             }
         }
     },
-    {
+    "Termite_Worker_Wave": {
         "name": "Termite_Worker_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11391,7 +11391,7 @@
             }
         }
     },
-    {
+    "Termite_Soldier_Wave": {
         "name": "Termite_Soldier_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11483,7 +11483,7 @@
             }
         }
     },
-    {
+    "Termite_King_Wave": {
         "name": "Termite_King_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11575,7 +11575,7 @@
             }
         }
     },
-    {
+    "Mite_Wave": {
         "name": "Mite_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11667,7 +11667,7 @@
             }
         }
     },
-    {
+    "Antlion_Wave": {
         "name": "Antlion_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11759,7 +11759,7 @@
             }
         }
     },
-    {
+    "Larva_Wave": {
         "name": "Larva_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11851,7 +11851,7 @@
             }
         }
     },
-    {
+    "Spider_OrbWeaver_Wave": {
         "name": "Spider_OrbWeaver_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -11943,7 +11943,7 @@
             }
         }
     },
-    {
+    "Spider_OrbWeaverJr_Wave": {
         "name": "Spider_OrbWeaverJr_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -12035,7 +12035,7 @@
             }
         }
     },
-    {
+    "Mite_Tick_Wave": {
         "name": "Mite_Tick_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -12127,7 +12127,7 @@
             }
         }
     },
-    {
+    "Mosquito_Tiger_Wave": {
         "name": "Mosquito_Tiger_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -12220,7 +12220,7 @@
             }
         }
     },
-    {
+    "Ant_Soldier_Fire_Wave": {
         "name": "Ant_Soldier_Fire_Wave",
         "icon": ".",
         "hud_icon": ".",
@@ -12312,7 +12312,7 @@
             }
         }
     },
-    {
+    "WaspWave": {
         "name": "WaspWave",
         "icon": ".",
         "hud_icon": ".",
@@ -12405,9 +12405,9 @@
             }
         }
     },
-    {
+    "Ant_Soldier_Fire_ORC": {
         "name": "Ant_Soldier_Fire_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ant_Fire_Soldier.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ant_Fire_Soldier.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -12498,9 +12498,9 @@
             }
         }
     },
-    {
+    "Ant_Worker_Fire_ORC": {
         "name": "Ant_Worker_Fire_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ant_Fire.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ant_Fire.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -12591,9 +12591,9 @@
             }
         }
     },
-    {
+    "Mosquito_ORC": {
         "name": "Mosquito_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Mosquito_Tiger.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Mosquito_Tiger.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -12685,9 +12685,9 @@
             }
         }
     },
-    {
+    "BombardierBeetle_ORC": {
         "name": "BombardierBeetle_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Bombardier.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Bombardier.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -12778,9 +12778,9 @@
             }
         }
     },
-    {
+    "BlackOxBeetle_ORC": {
         "name": "BlackOxBeetle_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_BOB.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_BOB.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -12871,9 +12871,9 @@
             }
         }
     },
-    {
+    "Firefly_ORC": {
         "name": "Firefly_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Firefly.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Firefly.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -12965,9 +12965,9 @@
             }
         }
     },
-    {
+    "Mite_Dust_ORC": {
         "name": "Mite_Dust_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Mite_Dust.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Mite_Dust.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -13058,9 +13058,9 @@
             }
         }
     },
-    {
+    "LadybugAggressive_ORC": {
         "name": "LadybugAggressive_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ladybird.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ladybird.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -13151,7 +13151,7 @@
             }
         }
     },
-    {
+    "SpiderlingSummon": {
         "name": "SpiderlingSummon",
         "icon": ".",
         "hud_icon": ".",
@@ -13238,7 +13238,7 @@
             }
         }
     },
-    {
+    "SpiderlingWidowSummon": {
         "name": "SpiderlingWidowSummon",
         "icon": ".",
         "hud_icon": ".",
@@ -13325,7 +13325,7 @@
             }
         }
     },
-    {
+    "MantSummon": {
         "name": "MantSummon",
         "icon": ".",
         "hud_icon": ".",
@@ -13412,7 +13412,7 @@
             }
         }
     },
-    {
+    "WaspSummon": {
         "name": "WaspSummon",
         "icon": ".",
         "hud_icon": ".",
@@ -13501,7 +13501,7 @@
             }
         }
     },
-    {
+    "Player": {
         "name": "Player",
         "icon": ".",
         "hud_icon": ".",
@@ -13590,9 +13590,9 @@
             }
         }
     },
-    {
+    "Spider_OrbWeaverJr_ORC": {
         "name": "Spider_OrbWeaverJr_ORC",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Weaver_JR.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Weaver_JR.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -13683,9 +13683,9 @@
             }
         }
     },
-    {
+    "Spider_BlackWidow_Wave": {
         "name": "Spider_BlackWidow_Wave",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_BlackWidow.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_BlackWidow.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -13775,9 +13775,9 @@
             }
         }
     },
-    {
+    "RolyPoly_Sickly_Wave": {
         "name": "RolyPoly_Sickly_Wave",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -13867,9 +13867,9 @@
             }
         }
     },
-    {
+    "RolyPoly_Wave": {
         "name": "RolyPoly_Wave",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.3/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
         "hud_icon": ".",
         "character_name": {
             "table_id": 9,
@@ -13959,4 +13959,4 @@
             }
         }
     }
-]
+}

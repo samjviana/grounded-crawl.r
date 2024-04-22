@@ -1,0 +1,1124 @@
+{
+    "Slippery": {
+        "key_name": "Slippery",
+        "name": {
+            "table_id": 197,
+            "string_id": 0,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Agape": {
+        "key_name": "Agape",
+        "name": {
+            "table_id": 197,
+            "string_id": 1,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Curious": {
+        "key_name": "Curious",
+        "name": {
+            "table_id": 197,
+            "string_id": 2,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Furtive": {
+        "key_name": "Furtive",
+        "name": {
+            "table_id": 197,
+            "string_id": 3,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Carefree": {
+        "key_name": "Carefree",
+        "name": {
+            "table_id": 197,
+            "string_id": 4,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "LawfulGood": {
+        "key_name": "LawfulGood",
+        "name": {
+            "table_id": 197,
+            "string_id": 5,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "NeutralGood": {
+        "key_name": "NeutralGood",
+        "name": {
+            "table_id": 197,
+            "string_id": 6,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "ChaoticGood": {
+        "key_name": "ChaoticGood",
+        "name": {
+            "table_id": 197,
+            "string_id": 7,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "LawfulNeutral": {
+        "key_name": "LawfulNeutral",
+        "name": {
+            "table_id": 197,
+            "string_id": 8,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "TrueNeutral": {
+        "key_name": "TrueNeutral",
+        "name": {
+            "table_id": 197,
+            "string_id": 9,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "ChaoticNeutral": {
+        "key_name": "ChaoticNeutral",
+        "name": {
+            "table_id": 197,
+            "string_id": 10,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "LawfulEvil": {
+        "key_name": "LawfulEvil",
+        "name": {
+            "table_id": 197,
+            "string_id": 11,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "NeutralEvil": {
+        "key_name": "NeutralEvil",
+        "name": {
+            "table_id": 197,
+            "string_id": 12,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "ChaoticEvil": {
+        "key_name": "ChaoticEvil",
+        "name": {
+            "table_id": 197,
+            "string_id": 13,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Goofball": {
+        "key_name": "Goofball",
+        "name": {
+            "table_id": 197,
+            "string_id": 14,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Reckless": {
+        "key_name": "Reckless",
+        "name": {
+            "table_id": 197,
+            "string_id": 15,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Audacious": {
+        "key_name": "Audacious",
+        "name": {
+            "table_id": 197,
+            "string_id": 16,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Fearless": {
+        "key_name": "Fearless",
+        "name": {
+            "table_id": 197,
+            "string_id": 17,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Brave": {
+        "key_name": "Brave",
+        "name": {
+            "table_id": 197,
+            "string_id": 18,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Smart": {
+        "key_name": "Smart",
+        "name": {
+            "table_id": 197,
+            "string_id": 19,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Dumb": {
+        "key_name": "Dumb",
+        "name": {
+            "table_id": 197,
+            "string_id": 20,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Mean": {
+        "key_name": "Mean",
+        "name": {
+            "table_id": 197,
+            "string_id": 21,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Bashful": {
+        "key_name": "Bashful",
+        "name": {
+            "table_id": 197,
+            "string_id": 22,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Sleezy": {
+        "key_name": "Sleezy",
+        "name": {
+            "table_id": 197,
+            "string_id": 23,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Suspicious": {
+        "key_name": "Suspicious",
+        "name": {
+            "table_id": 197,
+            "string_id": 24,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Wary": {
+        "key_name": "Wary",
+        "name": {
+            "table_id": 197,
+            "string_id": 25,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Heroic": {
+        "key_name": "Heroic",
+        "name": {
+            "table_id": 197,
+            "string_id": 26,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Legendary": {
+        "key_name": "Legendary",
+        "name": {
+            "table_id": 197,
+            "string_id": 27,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Skittish": {
+        "key_name": "Skittish",
+        "name": {
+            "table_id": 197,
+            "string_id": 28,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Scared": {
+        "key_name": "Scared",
+        "name": {
+            "table_id": 197,
+            "string_id": 29,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Hotheaded": {
+        "key_name": "Hotheaded",
+        "name": {
+            "table_id": 197,
+            "string_id": 30,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Chill": {
+        "key_name": "Chill",
+        "name": {
+            "table_id": 197,
+            "string_id": 31,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Modish": {
+        "key_name": "Modish",
+        "name": {
+            "table_id": 197,
+            "string_id": 32,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Regal": {
+        "key_name": "Regal",
+        "name": {
+            "table_id": 197,
+            "string_id": 33,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Loyal": {
+        "key_name": "Loyal",
+        "name": {
+            "table_id": 197,
+            "string_id": 34,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Aloof": {
+        "key_name": "Aloof",
+        "name": {
+            "table_id": 197,
+            "string_id": 35,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Determined": {
+        "key_name": "Determined",
+        "name": {
+            "table_id": 197,
+            "string_id": 36,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Friendly": {
+        "key_name": "Friendly",
+        "name": {
+            "table_id": 197,
+            "string_id": 37,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Aggressive": {
+        "key_name": "Aggressive",
+        "name": {
+            "table_id": 197,
+            "string_id": 38,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Violent": {
+        "key_name": "Violent",
+        "name": {
+            "table_id": 197,
+            "string_id": 39,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Sedentary": {
+        "key_name": "Sedentary",
+        "name": {
+            "table_id": 197,
+            "string_id": 40,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Lazy": {
+        "key_name": "Lazy",
+        "name": {
+            "table_id": 197,
+            "string_id": 41,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Cool": {
+        "key_name": "Cool",
+        "name": {
+            "table_id": 197,
+            "string_id": 42,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Shy": {
+        "key_name": "Shy",
+        "name": {
+            "table_id": 197,
+            "string_id": 43,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Smol": {
+        "key_name": "Smol",
+        "name": {
+            "table_id": 197,
+            "string_id": 44,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Swol": {
+        "key_name": "Swol",
+        "name": {
+            "table_id": 197,
+            "string_id": 45,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Genius": {
+        "key_name": "Genius",
+        "name": {
+            "table_id": 197,
+            "string_id": 46,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Cowardly": {
+        "key_name": "Cowardly",
+        "name": {
+            "table_id": 197,
+            "string_id": 47,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Fearful": {
+        "key_name": "Fearful",
+        "name": {
+            "table_id": 197,
+            "string_id": 48,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Hateful": {
+        "key_name": "Hateful",
+        "name": {
+            "table_id": 197,
+            "string_id": 49,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Forgiving": {
+        "key_name": "Forgiving",
+        "name": {
+            "table_id": 197,
+            "string_id": 50,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Serious": {
+        "key_name": "Serious",
+        "name": {
+            "table_id": 197,
+            "string_id": 51,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Pensive": {
+        "key_name": "Pensive",
+        "name": {
+            "table_id": 197,
+            "string_id": 52,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Spontaneous": {
+        "key_name": "Spontaneous",
+        "name": {
+            "table_id": 197,
+            "string_id": 53,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Dedicated": {
+        "key_name": "Dedicated",
+        "name": {
+            "table_id": 197,
+            "string_id": 54,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Sedulous": {
+        "key_name": "Sedulous",
+        "name": {
+            "table_id": 197,
+            "string_id": 55,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Vigilant": {
+        "key_name": "Vigilant",
+        "name": {
+            "table_id": 197,
+            "string_id": 56,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Rookie": {
+        "key_name": "Rookie",
+        "name": {
+            "table_id": 197,
+            "string_id": 57,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Wholesome": {
+        "key_name": "Wholesome",
+        "name": {
+            "table_id": 197,
+            "string_id": 58,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Murderous": {
+        "key_name": "Murderous",
+        "name": {
+            "table_id": 197,
+            "string_id": 59,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Brutal": {
+        "key_name": "Brutal",
+        "name": {
+            "table_id": 197,
+            "string_id": 60,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Savage": {
+        "key_name": "Savage",
+        "name": {
+            "table_id": 197,
+            "string_id": 61,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Ferocious": {
+        "key_name": "Ferocious",
+        "name": {
+            "table_id": 197,
+            "string_id": 62,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Undisciplined": {
+        "key_name": "Undisciplined",
+        "name": {
+            "table_id": 197,
+            "string_id": 63,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Wishful": {
+        "key_name": "Wishful",
+        "name": {
+            "table_id": 197,
+            "string_id": 64,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Zany": {
+        "key_name": "Zany",
+        "name": {
+            "table_id": 197,
+            "string_id": 65,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Ignorant": {
+        "key_name": "Ignorant",
+        "name": {
+            "table_id": 197,
+            "string_id": 66,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Clumsy": {
+        "key_name": "Clumsy",
+        "name": {
+            "table_id": 197,
+            "string_id": 67,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Anxious": {
+        "key_name": "Anxious",
+        "name": {
+            "table_id": 197,
+            "string_id": 68,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Logical": {
+        "key_name": "Logical",
+        "name": {
+            "table_id": 197,
+            "string_id": 69,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Old-fashioned": {
+        "key_name": "Old-fashioned",
+        "name": {
+            "table_id": 197,
+            "string_id": 70,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Disrespectful": {
+        "key_name": "Disrespectful",
+        "name": {
+            "table_id": 197,
+            "string_id": 71,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Frivolous": {
+        "key_name": "Frivolous",
+        "name": {
+            "table_id": 197,
+            "string_id": 72,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Whimsical": {
+        "key_name": "Whimsical",
+        "name": {
+            "table_id": 197,
+            "string_id": 73,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Dignified": {
+        "key_name": "Dignified",
+        "name": {
+            "table_id": 197,
+            "string_id": 74,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Reliable": {
+        "key_name": "Reliable",
+        "name": {
+            "table_id": 197,
+            "string_id": 75,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Curmudgeony": {
+        "key_name": "Curmudgeony",
+        "name": {
+            "table_id": 197,
+            "string_id": 76,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Obedient": {
+        "key_name": "Obedient",
+        "name": {
+            "table_id": 197,
+            "string_id": 77,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Ordinary": {
+        "key_name": "Ordinary",
+        "name": {
+            "table_id": 197,
+            "string_id": 78,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Mellow": {
+        "key_name": "Mellow",
+        "name": {
+            "table_id": 197,
+            "string_id": 79,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Big-thinking": {
+        "key_name": "Big-thinking",
+        "name": {
+            "table_id": 197,
+            "string_id": 80,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Absentminded": {
+        "key_name": "Absentminded",
+        "name": {
+            "table_id": 197,
+            "string_id": 81,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Stoic": {
+        "key_name": "Stoic",
+        "name": {
+            "table_id": 197,
+            "string_id": 82,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Playful": {
+        "key_name": "Playful",
+        "name": {
+            "table_id": 197,
+            "string_id": 83,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Impressive": {
+        "key_name": "Impressive",
+        "name": {
+            "table_id": 197,
+            "string_id": 84,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Focused": {
+        "key_name": "Focused",
+        "name": {
+            "table_id": 197,
+            "string_id": 85,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Decent": {
+        "key_name": "Decent",
+        "name": {
+            "table_id": 197,
+            "string_id": 86,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Calm": {
+        "key_name": "Calm",
+        "name": {
+            "table_id": 197,
+            "string_id": 87,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Adaptable": {
+        "key_name": "Adaptable",
+        "name": {
+            "table_id": 197,
+            "string_id": 88,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Bristly": {
+        "key_name": "Bristly",
+        "name": {
+            "table_id": 197,
+            "string_id": 89,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Earnest": {
+        "key_name": "Earnest",
+        "name": {
+            "table_id": 197,
+            "string_id": 90,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Gracious": {
+        "key_name": "Gracious",
+        "name": {
+            "table_id": 197,
+            "string_id": 91,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Folksy": {
+        "key_name": "Folksy",
+        "name": {
+            "table_id": 197,
+            "string_id": 92,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Iconoclastic": {
+        "key_name": "Iconoclastic",
+        "name": {
+            "table_id": 197,
+            "string_id": 93,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Pure": {
+        "key_name": "Pure",
+        "name": {
+            "table_id": 197,
+            "string_id": 94,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Degenerate": {
+        "key_name": "Degenerate",
+        "name": {
+            "table_id": 197,
+            "string_id": 95,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Bizarre": {
+        "key_name": "Bizarre",
+        "name": {
+            "table_id": 197,
+            "string_id": 96,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Bland": {
+        "key_name": "Bland",
+        "name": {
+            "table_id": 197,
+            "string_id": 97,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Devious": {
+        "key_name": "Devious",
+        "name": {
+            "table_id": 197,
+            "string_id": 98,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Obnoxious": {
+        "key_name": "Obnoxious",
+        "name": {
+            "table_id": 197,
+            "string_id": 99,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Pompous": {
+        "key_name": "Pompous",
+        "name": {
+            "table_id": 197,
+            "string_id": 100,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    },
+    "Spicy": {
+        "key_name": "Spicy",
+        "name": {
+            "table_id": 197,
+            "string_id": 101,
+            "string_table_name": "None"
+        },
+        "unknown_fields": {
+            "Weight": 1.0
+        }
+    }
+}

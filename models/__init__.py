@@ -8,6 +8,11 @@ from .emote import Emote
 from .pet_personality import PetPersonality
 from .placeable_static_meshes import PlaceableStaticMeshes
 from .player_upgrade import PlayerUpgrade
+from .block_action_info import BlockActionInfo
+from .status_effect import StatusEffect
+from .item_effects_info import ItemEffectsInfo
+from .recipe_component import RecipeComponent
+from .tool_weapon import ToolWeapon
 
 from .ue_object import UEObject
 from .ue_datatable_reference import UEDataTableReference
