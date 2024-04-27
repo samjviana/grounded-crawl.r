@@ -35,8 +35,26 @@ class RecipeComponent:
         return {
             'item_key': self.item_key,
             'quantity': self.quantity,
-            'display_name': self.display_name.get_string(),
-            'description': self.description.get_string(),
+            'display_name': self.display_name.to_dict(),
+            'description': self.description.to_dict(),
             'icon_path': self.icon_path.as_posix(),
             'icon_modifier_path': self.icon_modifier_path.as_posix()
         }
+    
+    def from_dict(data: dict) -> 'RecipeComponent':
+        """
+        This method is responsible for creating a RecipeComponent from a dictionary.
+        #### Parameters
+        - `data` : `dict`
+            - The dictionary data.
+        #### Returns
+        - `RecipeComponent` : The created RecipeComponent.
+        """
+        return RecipeComponent(
+            data['item_key'],
+            data['quantity'],
+            DisplayName.from_dict(data['display_name']),
+            DisplayName.from_dict(data['description']),
+            Path(data['icon_path']),
+            Path(data['icon_modifier_path'])
+        )

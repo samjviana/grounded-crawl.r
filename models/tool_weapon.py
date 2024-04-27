@@ -1,4 +1,4 @@
-from models import DisplayName, BlockActionInfo, ItemEffectsInfo, RecipeComponent
+from models import DisplayName, BlockActionInfo, ItemEffectsInfo, RecipeComponent, AttacksInfo
 from pathlib import Path
 
 class ToolWeapon:
@@ -49,18 +49,8 @@ class ToolWeapon:
         - The item effects information of the tool or weapon.
     - `repair_recipe` : list[RecipeComponent]
         - The repair recipe of the tool or weapon
-    - `main_attack_combo` : `list[str]`
-        - The main attack combo of the tool or weapon.
-    - `main_scaling_type` : `str`
-        - The scaling type of the main attack of the tool or weapon.
-    - `alternate_attack_combo` : `list[str]`
-        - The alternate attack combo of the tool or weapon.
-    - `alternate_scaling_type` : `str`
-        - The scaling stat of the alternate attack of the tool or weapon.
-    - `swimming_attack_combo` : `list[str]`
-        - The underwater attack combo of the tool or weapon.
-    - `swimming_scaling_type` : `float`
-        - The scaling stat of the underwater attack of the tool or weapon.
+    - `melee_attacks_info`: `AttacksInfo`
+        - The melee attacks information of the tool or weapon.
     - `ammo_attack_reference` : `str`
         - The ammo attack reference of the tool or weapon.
     - `ammo_attack_data` : `list`
@@ -79,8 +69,7 @@ class ToolWeapon:
     def __init__(self, key_name: str, display_name: DisplayName, keywords: list[DisplayName], description: DisplayName, icon_path: Path, icon_modifier_path: Path, item_type: str,
                  new_game_plus: bool, duplicate_cost: int, recycle_reward: int, rarity_tag: str, stack_size_tag: str, tier: int, can_enhance: bool, enhancement_tags: list[str],
                  slot: str, two_handed: bool, block_action_info: BlockActionInfo, durability: float, item_effects_info: ItemEffectsInfo,
-                 repair_recipe: list[RecipeComponent], main_attack_combo: list[str], main_scaling_type: str, alternate_attack_combo: list[str], alternate_scaling_type: str,
-                 swimming_attack_combo: list[str], swimming_scaling_type: float, ammo_attack_reference: str, ammo_attack_data: list, consumable_data: list, tags: list[str],
+                 repair_recipe: list[RecipeComponent], melee_attacks_info: AttacksInfo, ammo_attack_reference: str, ammo_attack_data: list, consumable_data: list, tags: list[str],
                  world_actor_path: str, equipped_actor_path: str, unknown_fields: dict):
         self.key_name = key_name
         self.display_name = display_name
@@ -103,12 +92,7 @@ class ToolWeapon:
         self.durability = durability
         self.item_effects_info = item_effects_info
         self.repair_recipe = repair_recipe
-        self.main_attack_combo = main_attack_combo
-        self.main_scaling_type = main_scaling_type
-        self.alternate_attack_combo = alternate_attack_combo
-        self.alternate_scaling_type = alternate_scaling_type
-        self.swimming_attack_combo = swimming_attack_combo
-        self.swimming_scaling_type = swimming_scaling_type
+        self.melee_attacks_info = melee_attacks_info
         self.ammo_attack_reference = ammo_attack_reference
         self.ammo_attack_data = ammo_attack_data
         self.consumable_data = consumable_data
@@ -125,9 +109,9 @@ class ToolWeapon:
         """
         return {
             'key_name': self.key_name,
-            'display_name': self.display_name.get_string(),
-            'keywords': [keyword.get_string() for keyword in self.keywords],
-            'description': self.description.get_string(),
+            'display_name': self.display_name.to_dict(),
+            'keywords': [keyword.to_dict() for keyword in self.keywords],
+            'description': self.description.to_dict(),
             'icon_path': self.icon_path.as_posix(),
             'icon_modifier_path': self.icon_modifier_path.as_posix(),
             'item_type': self.item_type,
@@ -145,12 +129,7 @@ class ToolWeapon:
             'durability': self.durability,
             'item_effects_info': self.item_effects_info.to_dict(),
             'repair_recipe': [recipe_component.to_dict() for recipe_component in self.repair_recipe],
-            'main_attack_combo': self.main_attack_combo,
-            'main_scaling_type': self.main_scaling_type,
-            'alternate_attack_combo': self.alternate_attack_combo,
-            'alternate_scaling_type': self.alternate_scaling_type,
-            'swimming_attack_combo': self.swimming_attack_combo,
-            'swimming_scaling_type': self.swimming_scaling_type,
+            'melee_attacks_info': self.melee_attacks_info.to_dict(),
             'ammo_attack_reference': self.ammo_attack_reference,
             'ammo_attack_data': self.ammo_attack_data,
             'consumable_data': self.consumable_data,
@@ -159,6 +138,47 @@ class ToolWeapon:
             'equipped_actor_path': self.equipped_actor_path,
             'unknown_fields': self.unknown_fields
         }
+
+    def from_dict(data: dict) -> 'ToolWeapon':
+        """
+        This method is responsible for creating a ToolWeapon object from a dictionary.
+        #### Parameters
+        - `data` : `dict`
+            - The dictionary containing the ToolWeapon data.
+        #### Returns
+        - `ToolWeapon` : The ToolWeapon object created from the dictionary.
+        """
+        return ToolWeapon(
+            data['key_name'],
+            DisplayName.from_dict(data['display_name']),
+            [DisplayName.from_dict(keyword) for keyword in data['keywords']],
+            DisplayName.from_dict(data['description']),
+            Path(data['icon_path']),
+            Path(data['icon_modifier_path']),
+            data['item_type'],
+            data['new_game_plus'],
+            data['duplicate_cost'],
+            data['recycle_reward'],
+            data['rarity_tag'],
+            data['stack_size_tag'],
+            data['tier'],
+            data['can_enhance'],
+            data['enhancement_tags'],
+            data['slot'],
+            data['two_handed'],
+            BlockActionInfo.from_dict(data['block_action_info']),
+            data['durability'],
+            ItemEffectsInfo.from_dict(data['item_effects_info']),
+            [RecipeComponent.from_dict(recipe_component) for recipe_component in data['repair_recipe']],
+            AttacksInfo.from_dict(data['melee_attacks_info']),
+            data['ammo_attack_reference'],
+            data['ammo_attack_data'],
+            data['consumable_data'],
+            data['tags'],
+            data['world_actor_path'],
+            data['equipped_actor_path'],
+            data['unknown_fields']
+        )
 
     @staticmethod
     def get_unknown_fields() -> dict:

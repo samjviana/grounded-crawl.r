@@ -23,10 +23,10 @@ class BaseCrawler:
     """
     root_path: Path = None
 
-    def __init__(self, name: str, json_path: Path, locale: str = 'enus', hide_unknown_fields: bool = False):
+    def __init__(self, name: str, json_path: Path, hide_unknown_fields: bool = False):
         self.crawler_name = name
         self.json_path = self.root_path / 'json_data' / json_path
-        self.lang_path = self.root_path / 'json_data/Maine/Content/Exported/BaseGame/Localized' / locale / f'Text/Text_{locale}.json'
+        self.lang_path = self.root_path / 'json_data/Maine/Content/Exported/BaseGame/Localized' / BaseCrawler.locale / f'Text/Text_{BaseCrawler.locale}.json'
         self.media_path = self.root_path / 'media_data'
         self.hide_unknown_fields = hide_unknown_fields
         self.unknown_field_list = []
@@ -34,7 +34,7 @@ class BaseCrawler:
         DisplayName.init(self.lang_path)
 
     @staticmethod
-    def init(root_path: Path, version: str):
+    def init(root_path: Path, version: str, locale: str = 'enus'):
         """
         This method is responsible for initializing the crawler.
         #### Parameters
@@ -43,6 +43,7 @@ class BaseCrawler:
         """
         BaseCrawler.version = version
         BaseCrawler.root_path = Path(f'{root_path}/{version}')
+        BaseCrawler.locale = locale
 
     def dispose(self) -> None:
         """
@@ -104,6 +105,9 @@ class BaseCrawler:
         #### Returns
         - `dict` : The unknown fields of the creature.
         """
+        if self.hide_unknown_fields:
+            return None
+
         unknown_fields = {}
         for field in fields:
             if '>' in field:
@@ -115,7 +119,7 @@ class BaseCrawler:
                 unknown_fields[field] = value[field]
 
         return unknown_fields
-    
+
     def _get_media_path(self, value: dict) -> Path:
         """
         This method is responsible for getting the media path of the harvest node.

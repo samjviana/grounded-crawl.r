@@ -4,7 +4,7 @@ from .base_crawler import BaseCrawler
 from pathlib import Path
 from typing import Any
 from models import PlayerUpgrade, DisplayName, ToolWeapon, BlockActionInfo, StatusEffect, ItemEffectsInfo
-from models import RecipeComponent
+from models import RecipeComponent, Attack, DamageData, AttacksInfo
 
 class ToolsWeaponsCrawler(BaseCrawler):
     """
@@ -21,6 +21,13 @@ class ToolsWeaponsCrawler(BaseCrawler):
             hide_unknown_fields=hide_unknown_fields
         )
         self.unknown_field_list = ToolWeapon.get_unknown_fields()
+
+        global_combat_data_path = self.root_path / 'json_data/Maine/Content/Blueprints/Global/GlobalCombatData.json'
+        global_combat_data = json.loads(global_combat_data_path.read_text(encoding='utf-8'))[0]['Properties']
+        self.combo_scaling_types = {}
+        for scaling_type in global_combat_data['ComboScalingTypes']:
+            tag_name = scaling_type['Tag']['TagName']
+            self.combo_scaling_types[tag_name] = scaling_type['ScalingValue']
     
     def dispose(self) -> None:
         ToolsWeaponsCrawler.status_effects_table = None
@@ -51,9 +58,7 @@ class ToolsWeaponsCrawler(BaseCrawler):
         )
         icon_path = self._get_media_path(status_effect_json['DisplayData']['Icon'])
 
-        unknown_fields = []
-        if self.hide_unknown_fields is False:
-            unknown_fields = self._get_unknown_fields(status_effect_json, StatusEffect.get_unknown_fields())
+        unknown_fields = self._get_unknown_fields(status_effect_json, StatusEffect.get_unknown_fields())
 
         return StatusEffect(
             key_name=key_name,
@@ -105,6 +110,83 @@ class ToolsWeaponsCrawler(BaseCrawler):
             icon_modifier_path=icon_modifier_path
         )
 
+    def _parse_attack(self, attack: dict[str, Any]) -> Attack:
+        # TODO: Move this to a separate crawler
+        key_name = attack['RowName']
+        datatable_path = self._get_object_path(attack['DataTable'])
+        if 'ItemAttacks' in datatable_path.name:
+            datatable_path = datatable_path.parent / 'AllAttacks.json'
+
+        if ToolsWeaponsCrawler.attacks_table is None and 'AllAttacks' in datatable_path.name:
+            ToolsWeaponsCrawler.attacks_table = json.loads(datatable_path.read_text(encoding='utf-8'))[0]['Rows']
+        elif 'AllAttacks' not in datatable_path.name and 'ItemAttacks' not in datatable_path.name:
+            raise ValueError('The provided object path is not an attacks table.')
+        
+        attack_json = ToolsWeaponsCrawler.attacks_table[key_name]
+
+        unknown_fields = self._get_unknown_fields(attack_json['DamageData'], DamageData.get_unknown_fields())
+        damage_type = attack_json['DamageData']['DamageType']
+        if damage_type is not None and 'ObjectPath' in damage_type:
+            damage_type = damage_type['ObjectPath'].split('/')[-1].split('.')[0]
+
+        main_damage_data = DamageData(
+            damage=attack_json['DamageData']['Damage'],
+            damage_type=damage_type,
+            stun_damage=attack_json['DamageData']['HitStun'],
+            pushback_damage=attack_json['DamageData']['Pushback'],
+            unknown_fields=unknown_fields
+        )
+        
+        secondary_damage_data = []
+        for secondary_damage in attack_json['DamageDataSecondary']:
+            unknown_fields = self._get_unknown_fields(secondary_damage, DamageData.get_unknown_fields())
+            damage_type = secondary_damage['DamageType']
+            if damage_type is not None and 'ObjectPath' in damage_type:
+                damage_type = damage_type['ObjectPath'].split('/')[-1].split('.')[0]
+
+            secondary_damage_data.append(DamageData(
+                damage=secondary_damage['Damage'],
+                damage_type=damage_type,
+                stun_damage=secondary_damage['HitStun'],
+                pushback_damage=secondary_damage['Pushback'],
+                unknown_fields=unknown_fields
+            ))
+
+        unknown_fields = self._get_unknown_fields(attack_json['ChargedDamageData'], DamageData.get_unknown_fields())
+        damage_type = attack_json['ChargedDamageData']['DamageType']
+        if damage_type is not None and 'ObjectPath' in damage_type:
+            damage_type = damage_type['ObjectPath'].split('/')[-1].split('.')[0]
+
+        charged_damage_data = DamageData(
+            damage=attack_json['ChargedDamageData']['Damage'],
+            damage_type=damage_type,
+            stun_damage=attack_json['ChargedDamageData']['HitStun'],
+            pushback_damage=attack_json['ChargedDamageData']['Pushback'],
+            unknown_fields=unknown_fields
+        )
+
+        unknown_fields = self._get_unknown_fields(attack_json, Attack.get_unknown_fields())
+
+        return Attack(
+            key_name=key_name,
+            main_damage_data=main_damage_data,
+            secondary_damage_data=secondary_damage_data,
+            charged_damage_data=charged_damage_data,
+            charge_time=attack_json['ChargeTime'],
+            range=attack_json['Range'],
+            stamina_cost=attack_json['StaminaCost'],
+            ranged_attack=attack_json['bRangedAttack'],
+            throw_attack=attack_json['bThrowAttack'],
+            tags=attack_json['Tags'],
+            unknown_fields=unknown_fields
+        )
+
+    def _get_scaling_values(self, scaling_type: str, attack_count: int) -> list[float]:
+        if scaling_type == 'None':
+            return [1.0] * attack_count
+
+        return self.combo_scaling_types[scaling_type]
+
     def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> PlayerUpgrade:
         display_name = DisplayName(
             table_id=value['LocalizedDisplayName']['StringTableID'],
@@ -154,6 +236,27 @@ class ToolsWeaponsCrawler(BaseCrawler):
         for component in value['EquippableData']['RepairRecipe']:
             recipe.append(self._parse_recipe_component(component))
 
+        main_combo = []
+        for attack in value['AttackComboData']['Attacks']:
+            main_combo.append(self._parse_attack(attack))
+
+        alternate_combo = []
+        for attack in value['AlternateAttackComboData']['Attacks']:
+            alternate_combo.append(self._parse_attack(attack))
+
+        swimming_combo = []
+        for attack in value['SwimmingAttackComboData']['Attacks']:
+            swimming_combo.append(self._parse_attack(attack))
+
+        melee_attacks_info = AttacksInfo(
+            main_combo=main_combo,
+            main_scaling=self._get_scaling_values(value['AttackComboData']['ScalingType']['TagName'], len(main_combo)),
+            alternate_combo=alternate_combo,
+            alternate_scaling=self._get_scaling_values(value['AlternateAttackComboData']['ScalingType']['TagName'], len(alternate_combo)),
+            swimming_combo=swimming_combo,
+            swimming_scaling=self._get_scaling_values(value['SwimmingAttackComboData']['ScalingType']['TagName'], len(swimming_combo))
+        )
+
         tool_weapon = ToolWeapon(
             key_name=key,
             display_name=display_name,
@@ -176,12 +279,7 @@ class ToolsWeaponsCrawler(BaseCrawler):
             durability=value['EquippableData']['Durability'],
             item_effects_info=item_effects_info,
             repair_recipe=recipe,
-            main_attack_combo=value['AttackComboData']['Attacks'],
-            main_scaling_type=value['AttackComboData']['ScalingType']['TagName'],
-            alternate_attack_combo=value['AlternateAttackComboData']['Attacks'],
-            alternate_scaling_type=value['AlternateAttackComboData']['ScalingType']['TagName'],
-            swimming_attack_combo=value['SwimmingAttackComboData']['Attacks'],
-            swimming_scaling_type=value['SwimmingAttackComboData']['ScalingType']['TagName'],
+            melee_attacks_info=melee_attacks_info,
             ammo_attack_reference=value['AmmoAttackReference'],
             ammo_attack_data=value['AmmoAttackData'],
             consumable_data=value['ConsumableData'],

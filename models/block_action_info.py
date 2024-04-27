@@ -33,3 +33,20 @@ class BlockActionInfo:
             'block_stamina_cost': self.block_stamina_cost,
             'block_stamina_regen_multiplier': self.block_stamina_regen_multiplier
         }
+    
+    def from_dict(data: dict) -> 'BlockActionInfo':
+        """
+        This method is responsible for converting the dictionary to a BlockActionInfo object.
+        #### Parameters
+        - `data`: `dict`
+            - The dictionary to convert.
+        #### Returns
+        - `BlockActionInfo` : The converted BlockActionInfo object.
+        """
+        return BlockActionInfo(
+            data['can_block'],
+            data['cannot_block_while_attacking'],
+            data['block_damage_reduction'],
+            data['block_stamina_cost'],
+            data['block_stamina_regen_multiplier']
+        )

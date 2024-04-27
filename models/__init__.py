@@ -12,6 +12,9 @@ from .block_action_info import BlockActionInfo
 from .status_effect import StatusEffect
 from .item_effects_info import ItemEffectsInfo
 from .recipe_component import RecipeComponent
+from .damage_data import DamageData
+from .attack import Attack
+from .attacks_info import AttacksInfo
 from .tool_weapon import ToolWeapon
 
 from .ue_object import UEObject

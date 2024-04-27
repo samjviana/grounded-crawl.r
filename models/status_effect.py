@@ -54,8 +54,8 @@ class StatusEffect:
         """
         return {
             'key_name': self.key_name,
-            'display_name': self.display_name.get_string(),
-            'description': self.description.get_string(),
+            'display_name': self.display_name.to_dict(),
+            'description': self.description.to_dict(),
             'icon_path': str(self.icon_path),
             'effect_type': self.effect_type,
             'value': self.value,
@@ -67,6 +67,30 @@ class StatusEffect:
             'unknown_fields': self.unknown_fields
         }
     
+    def from_dict(data: dict) -> 'StatusEffect':
+        """
+        This method is responsible for creating a StatusEffect from a dictionary.
+        #### Parameters
+        - `data` : `dict`
+            - The dictionary data.
+        #### Returns
+        - `StatusEffect` : The created StatusEffect.
+        """
+        return StatusEffect(
+            data['key_name'],
+            DisplayName.from_dict(data['display_name']),
+            DisplayName.from_dict(data['description']),
+            Path(data['icon_path']),
+            data['effect_type'],
+            data['value'],
+            data['duration_type'],
+            data['duration'],
+            data['interval'],
+            data['max_stack'],
+            data['is_negative_effect'],
+            data['unknown_fields']
+        )
+
     @staticmethod
     def get_unknown_fields() -> list[str]:
         """

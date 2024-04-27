@@ -21,10 +21,11 @@ class DisplayName:
         342: 'game/props'
     }
     
-    def __init__(self, table_id: int, string_id: int, string_table_name: str):
+    def __init__(self, table_id: int, string_id: int, string_table_name: str, text: str = None):
         self.table_id = table_id
         self.string_id = string_id
         self.string_table_name = string_table_name
+        self.text = text if text else self.get_string()
     
     @staticmethod
     def init(lang_path: Path):
@@ -67,6 +68,22 @@ class DisplayName:
         return {
             'table_id': self.table_id,
             'string_id': self.string_id,
-            'string_table_name': self.string_table_name
+            'string_table_name': self.string_table_name,
+            'text': self.text
         }
     
+    def from_dict(data: dict):
+        """
+        This method is responsible for creating a display name from a dictionary.
+        #### Parameters
+        - `data` : `dict`
+            - The dictionary data.
+        #### Returns
+        - `DisplayName` : The created display name.
+        """
+        return DisplayName(
+            data['table_id'],
+            data['string_id'],
+            data['string_table_name'],
+            data['text']
+        )
