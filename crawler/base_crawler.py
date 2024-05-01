@@ -143,6 +143,20 @@ class BaseCrawler:
         icon_path = str(self.media_path) + icon_ingame_path
         return Path(icon_path)
 
+    def _build_real_path(self, path: str) -> str:
+        """
+        This method is responsible for building the real path of a "game file path".
+        #### Parameters
+        - `path` : `str`
+            - The game file path to be built.
+        #### Returns
+        - `str` : The real path of the path.
+        """
+        real_path = path.replace('Game/', 'Maine/Content/')
+        real_path = f'{real_path.split('.')[0]}.json'
+        real_path = str(self.root_path) + '/json_data/' + real_path
+        return real_path
+
     def _get_object_path(self, value: dict) -> Path:
         """
         This method is responsible for getting the object path of the harvest node.

@@ -67,6 +67,7 @@ class StatusEffect:
             'unknown_fields': self.unknown_fields
         }
     
+    @staticmethod
     def from_dict(data: dict) -> 'StatusEffect':
         """
         This method is responsible for creating a StatusEffect from a dictionary.

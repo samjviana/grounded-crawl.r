@@ -34,6 +34,7 @@ class DamageData:
             'unknown_fields': self.unknown_fields
         }
     
+    @staticmethod
     def from_dict(data: dict) -> 'DamageData':
         """
         This method is responsible for converting the dictionary to a DamageData object.
