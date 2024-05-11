@@ -1,0 +1,3377 @@
+{
+    "Aphid": {
+        "name": "Aphid",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Aphid.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/System/T_UI_PetAphid.png",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 7,
+            "string_table_name": "game/characters",
+            "text": "Aphid"
+        },
+        "character_tags": [
+            "Stats.Creatures.Aphid",
+            "Boss.Mantis.Consume",
+            "StatusEffect.Loot.Harmless",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": true,
+        "taming_food": [
+            {
+                "row_name": "PlantSlurry",
+                "data_table": {
+                    "name": "CompositeDataTable'Table_AllItems'",
+                    "path": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        ],
+        "active_pet_passive_effects": [
+            {
+                "row_name": "PetPassiveAphid",
+                "data_table": {
+                    "name": "DataTable'Table_StatusEffects'",
+                    "path": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                }
+            }
+        ],
+        "bestiary_item": {
+            "row_name": "BestiaryAphid",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Worker_Brown": {
+        "name": "Ant_Worker_Brown",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Brown.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 8,
+            "string_table_name": "game/characters",
+            "text": "Red Worker Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Worker.Brown",
+            "StatusEffect.Loot.RedAnts",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntRedWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Worker_Black": {
+        "name": "Ant_Worker_Black",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Black.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 39,
+            "string_table_name": "game/characters",
+            "text": "Black Worker Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Worker.Black",
+            "StatusEffect.Loot.BlackAnt",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntBlackWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ladybug": {
+        "name": "Ladybug",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybug.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 11,
+            "string_table_name": "game/characters",
+            "text": "Ladybug"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ladybug.Normal",
+            "StatusEffect.Loot.Ladybug",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLadybug",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Bee": {
+        "name": "Bee",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Bee.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 10,
+            "string_table_name": "game/characters",
+            "text": "Bee"
+        },
+        "character_tags": [
+            "Stats.Creatures.Bee",
+            "Stats.Creatures.Flying",
+            "StatusEffect.Loot.Bee",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryBee",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Firefly": {
+        "name": "Firefly",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Firefly.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 22,
+            "string_table_name": "game/characters",
+            "text": "Firefly"
+        },
+        "character_tags": [
+            "Stats.Creatures.Firefly",
+            "Stats.Creatures.Flying",
+            "StatusEffect.Loot.Firefly",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryFirefly",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "RolyPoly_Sickly": {
+        "name": "RolyPoly_Sickly",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 49,
+            "string_table_name": "game/characters",
+            "text": "Sickly Roly Poly"
+        },
+        "character_tags": [
+            "Stats.Creatures.RolyPoly.Sickly",
+            "StatusEffect.Loot.RolyPoly",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryRolyPolySickly",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "RolyPoly": {
+        "name": "RolyPoly",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 48,
+            "string_table_name": "game/characters",
+            "text": "Roly Poly"
+        },
+        "character_tags": [
+            "Stats.Creatures.RolyPoly.Normal",
+            "StatusEffect.Loot.RolyPoly",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryRolyPoly",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Moth": {
+        "name": "Moth",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Moth.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 104,
+            "string_table_name": "game/characters",
+            "text": "Moth"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Moth",
+            "StatusEffect.Loot.Moth",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMoth",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Soldier_Brown": {
+        "name": "Ant_Soldier_Brown",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Brown_Soldier.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 9,
+            "string_table_name": "game/characters",
+            "text": "Red Soldier Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Soldier.Brown",
+            "StatusEffect.Loot.RedAnts",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntRedSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mite": {
+        "name": "Mite",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 16,
+            "string_table_name": "game/characters",
+            "text": "Lawn Mite"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mite.Lawn",
+            "StatusEffect.Loot.Mite",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMite",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Larva": {
+        "name": "Larva",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 26,
+            "string_table_name": "game/characters",
+            "text": "Larva"
+        },
+        "character_tags": [
+            "Stats.Creatures.Larva.Normal",
+            "StatusEffect.Loot.Larva",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLarva",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "TayzTRuzT": {
+        "name": "TayzTRuzT",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_RUZ_T.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 64,
+            "string_table_name": "game/characters",
+            "text": "RUZ.T"
+        },
+        "character_tags": [
+            "Stats.Creatures.Science.TayzT.RuzT",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTazTRuzT",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WaterFlea": {
+        "name": "WaterFlea",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_WaterFlea.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 36,
+            "string_table_name": "game/characters",
+            "text": "Water Flea"
+        },
+        "character_tags": [
+            "Stats.Creatures.WaterFlea",
+            "StatusEffect.Loot.Waterflea",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWaterFlea",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_OrbWeaverJr": {
+        "name": "Spider_OrbWeaverJr",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orb_Weaver_JR.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 37,
+            "string_table_name": "game/characters",
+            "text": "Orb Weaver Jr."
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.OrbWeaver.Jr",
+            "StatusEffect.Loot.SpiderOrbWeaver",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderOrbJr",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spiderling": {
+        "name": "Spiderling",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spiderling.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 24,
+            "string_table_name": "game/characters",
+            "text": "Spiderling"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.Spiderling",
+            "StatusEffect.Loot.Spiderling",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderling",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Soldier_Black": {
+        "name": "Ant_Soldier_Black",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Black_Soldier.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 40,
+            "string_table_name": "game/characters",
+            "text": "Black Soldier Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Soldier.Black",
+            "StatusEffect.Loot.BlackAnt",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntBlackSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "TayzT": {
+        "name": "TayzT",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_TAZ_T.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 35,
+            "string_table_name": "game/characters",
+            "text": "TAYZ.T"
+        },
+        "character_tags": [
+            "Stats.Creatures.Science.TayzT.MK1",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTazT",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "ArcR": {
+        "name": "ArcR",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ARC_R.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 38,
+            "string_table_name": "game/characters",
+            "text": "ARC.R"
+        },
+        "character_tags": [
+            "Stats.Creatures.Science.ArcR.MK1",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryArcR",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mosquito": {
+        "name": "Mosquito",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mosquito.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 21,
+            "string_table_name": "game/characters",
+            "text": "Mosquito"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Mosquito.Normal",
+            "StatusEffect.Loot.Mosquito",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMosquito",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Weevil_Evil": {
+        "name": "Weevil_Evil",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Weevil_Infected.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 34,
+            "string_table_name": "game/characters",
+            "text": "Infected Weevil"
+        },
+        "character_tags": [
+            "Stats.Creatures.Weevil.Evil",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWeevilInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mite_Infected": {
+        "name": "Mite_Infected",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite_Infected.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 33,
+            "string_table_name": "game/characters",
+            "text": "Infected Mite"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mite.Infected",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMiteInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ladybug_Infected": {
+        "name": "Ladybug_Infected",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybug_Infected.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 45,
+            "string_table_name": "game/characters",
+            "text": "Infected Ladybug"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ladybug.Infected",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "StatusEffect.Loot.Ladybug",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLadybugInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Larva_Infected": {
+        "name": "Larva_Infected",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva_Infected.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 46,
+            "string_table_name": "game/characters",
+            "text": "Infected Larva"
+        },
+        "character_tags": [
+            "Stats.Creatures.Larva.Infected",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLarvaInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Gnat_Infected": {
+        "name": "Gnat_Infected",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat-Infected.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 47,
+            "string_table_name": "game/characters",
+            "text": "Infected Gnat"
+        },
+        "character_tags": [
+            "Stats.Creatures.Gnat.Evil",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Harmless",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryGnatInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "StinkBug": {
+        "name": "StinkBug",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Stinkbug.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 12,
+            "string_table_name": "game/characters",
+            "text": "Stinkbug"
+        },
+        "character_tags": [
+            "Stats.Creatures.StinkBug.Normal",
+            "StatusEffect.Loot.Stinkbug",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryStinkbug",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_OrbWeaver": {
+        "name": "Spider_OrbWeaver",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Orbweaver.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 17,
+            "string_table_name": "game/characters",
+            "text": "Orb Weaver"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.OrbWeaver.Normal",
+            "StatusEffect.Loot.SpiderOrbWeaver",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderOrb",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_DivingBell": {
+        "name": "Spider_DivingBell",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_DivingBell.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 32,
+            "string_table_name": "game/characters",
+            "text": "Diving Bell Spider"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.DivingBell",
+            "StatusEffect.Loot.SpiderDivingBell",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderDivingBell",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_Wolf": {
+        "name": "Spider_Wolf",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Wolf.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 18,
+            "string_table_name": "game/characters",
+            "text": "Wolf Spider"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.Wolf.Normal",
+            "StatusEffect.Loot.SpiderWolf",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderWolf",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "BombardierBeetle": {
+        "name": "BombardierBeetle",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Bombardier.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 20,
+            "string_table_name": "game/characters",
+            "text": "Bombardier Beetle"
+        },
+        "character_tags": [
+            "Stats.Creatures.Bombardier",
+            "StatusEffect.Loot.Bombardier",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryBombardier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Worker_Fire": {
+        "name": "Ant_Worker_Fire",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Fire.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 65,
+            "string_table_name": "game/characters",
+            "text": "Fire Worker Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Worker.Fire",
+            "StatusEffect.Loot.FireAnt",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntFireWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Soldier_Fire": {
+        "name": "Ant_Soldier_Fire",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ant_Fire_Soldier.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 78,
+            "string_table_name": "game/characters",
+            "text": "Fire Soldier Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Soldier.Fire",
+            "StatusEffect.Loot.FireAnt",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntFireSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mite_Dust": {
+        "name": "Mite_Dust",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mite_Dust.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 53,
+            "string_table_name": "game/characters",
+            "text": "Dust Mite"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mite.Dust",
+            "StatusEffect.Loot.MiteDust",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMiteDust",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "LarvaLadybug": {
+        "name": "LarvaLadybug",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Larva_Ladybird.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 62,
+            "string_table_name": "game/characters",
+            "text": "Ladybird Larva"
+        },
+        "character_tags": [
+            "Stats.Creatures.Larva.Charcoal",
+            "StatusEffect.Loot.LarvaLadybird",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLarvaCharcoal",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Antlion": {
+        "name": "Antlion",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Antlion.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 44,
+            "string_table_name": "game/characters",
+            "text": "Antlion"
+        },
+        "character_tags": [
+            "Stats.Creatures.Antlion",
+            "StatusEffect.Loot.Antlion",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntlion",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Termite_Worker": {
+        "name": "Termite_Worker",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 41,
+            "string_table_name": "game/characters",
+            "text": "Termite Worker"
+        },
+        "character_tags": [
+            "Stats.Creatures.Termite.Worker",
+            "StatusEffect.Loot.Termite",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTermiteWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Termite_Soldier": {
+        "name": "Termite_Soldier",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite_Soldier.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 59,
+            "string_table_name": "game/characters",
+            "text": "Termite Soldier"
+        },
+        "character_tags": [
+            "StatusEffect.Loot.Termite",
+            "Stats.Creatures.Tier3",
+            "Stats.Creatures.Termite.Soldier"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTermiteSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Termite_King": {
+        "name": "Termite_King",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Termite_King.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 63,
+            "string_table_name": "game/characters",
+            "text": "Termite King"
+        },
+        "character_tags": [
+            "StatusEffect.Loot.TermiteKing",
+            "Stats.Creatures.Termite.King",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTermiteKing",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "BlackOxBeetle": {
+        "name": "BlackOxBeetle",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_BOB.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 54,
+            "string_table_name": "game/characters",
+            "text": "Black Ox Beetle"
+        },
+        "character_tags": [
+            "Stats.Creatures.BlackOxBeetle",
+            "StatusEffect.Loot.BlackOx",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryBlackOx",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "LadybugAggressive": {
+        "name": "LadybugAggressive",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Ladybird.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 57,
+            "string_table_name": "game/characters",
+            "text": "Ladybird"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ladybug.Ladybird",
+            "StatusEffect.Loot.Ladybird",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLadybugUpperyard",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "StinkbugGreen": {
+        "name": "StinkbugGreen",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Stinkbug_Greenshield.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 58,
+            "string_table_name": "game/characters",
+            "text": "Green Shield Bug"
+        },
+        "character_tags": [
+            "Stats.Creatures.StinkBug.GreenShield",
+            "StatusEffect.Loot.StinkbugGreenShield",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryStinkbugGreenShield",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_Wolf_Infected": {
+        "name": "Spider_Wolf_Infected",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Wolf_Infected.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 61,
+            "string_table_name": "game/characters",
+            "text": "Infected Wolf Spider"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.Wolf.Infected",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderWolfInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_BlackWidow": {
+        "name": "Spider_BlackWidow",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_BlackWidow.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 55,
+            "string_table_name": "game/characters",
+            "text": "Black Widow"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.BlackWidow",
+            "StatusEffect.Loot.SpiderBlackwidow",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderBlackWidow",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WaterFleaSpiny": {
+        "name": "WaterFleaSpiny",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_WaterFlea_Spiny.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 77,
+            "string_table_name": "game/characters",
+            "text": "Spiny Water Flea"
+        },
+        "character_tags": [
+            "Stats.Creatures.WaterFlea.Spiny",
+            "StatusEffect.Loot.WaterfleaSpiny",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWaterFleaSpiny",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mosquito_Tiger": {
+        "name": "Mosquito_Tiger",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mosquito_Tiger.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 103,
+            "string_table_name": "game/characters",
+            "text": "Tiger Mosquito"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Mosquito.Tiger",
+            "StatusEffect.Loot.MosquitoTiger",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMosquitoTiger",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mite_Tick": {
+        "name": "Mite_Tick",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Tick.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 102,
+            "string_table_name": "game/characters",
+            "text": "Tick"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mite.Tick",
+            "StatusEffect.Loot.MiteTick",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMiteTick",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "SpiderlingWidow": {
+        "name": "SpiderlingWidow",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spiderling_Widow.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 56,
+            "string_table_name": "game/characters",
+            "text": "Black Widowling"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.Spiderling",
+            "StatusEffect.Loot.Spiderling",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderlingWidow",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Wasp": {
+        "name": "Wasp",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Wasp.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 97,
+            "string_table_name": "game/characters",
+            "text": "Wasp"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Wasp.Normal",
+            "StatusEffect.Loot.Wasp",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWasp",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WaspDrone": {
+        "name": "WaspDrone",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Wasp_Drone.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 112,
+            "string_table_name": "game/characters",
+            "text": "Wasp Drone"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Wasp.Drone",
+            "StatusEffect.Loot.Wasp",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWaspDrone",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "ArcRMiniboss": {
+        "name": "ArcRMiniboss",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Assistant_Manager.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 50,
+            "string_table_name": "game/characters",
+            "text": "Assistant Manager"
+        },
+        "character_tags": [
+            "Stats.Creatures.Science.ArcR.Boss",
+            "Boss.ArcRMKII"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryArcRBoss",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_Boss_Broodmother": {
+        "name": "Spider_Boss_Broodmother",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_Broodmother.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 23,
+            "string_table_name": "game/characters",
+            "text": "Hedge Broodmother"
+        },
+        "character_tags": [
+            "StatusEffect.Loot.SpiderBroodmother",
+            "Boss.Broodmother",
+            "Stats.Creatures.Spider.Broodmother.Normal",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderBossBroodmother",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mant": {
+        "name": "Mant",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mant.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 6,
+            "string_table_name": "game/characters",
+            "text": "Mant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mant",
+            "Boss.Mant",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMant",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mantis": {
+        "name": "Mantis",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Mantis.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 52,
+            "string_table_name": "game/characters",
+            "text": "Mantis"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mantis",
+            "StatusEffect.Loot.Mantis",
+            "Boss.Mantis",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMantis",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WaspQueen": {
+        "name": "WaspQueen",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Wasp_Queen.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 94,
+            "string_table_name": "game/characters",
+            "text": "Wasp Queen"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Wasp.Queen",
+            "StatusEffect.Loot.WaspQueen",
+            "Boss.Wicklow",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWaspQueen",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Schmector": {
+        "name": "Schmector",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Director_Shmector.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 67,
+            "string_table_name": "game/characters",
+            "text": "Director Schmector"
+        },
+        "character_tags": [
+            "Stats.Creatures.Science.Ominent",
+            "Boss.Schmector"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySchmector",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_Boss_Broodmother_IBM": {
+        "name": "Spider_Boss_Broodmother_IBM",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_IBM.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 113,
+            "string_table_name": "game/characters",
+            "text": "Infected Broodmother"
+        },
+        "character_tags": [
+            "Stats.Creatures.IBM",
+            "StatusEffect.Loot.IBM",
+            "Boss.IBM",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryBossIBM",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Koi": {
+        "name": "Koi",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Koi.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 31,
+            "string_table_name": "game/characters",
+            "text": "Koi Fish"
+        },
+        "character_tags": [
+            "Stats.Creatures.Koi",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryKoiDummy",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Weevil": {
+        "name": "Weevil",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Weevil.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/System/T_UI_PetWeevil.png",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 15,
+            "string_table_name": "game/characters",
+            "text": "Weevil"
+        },
+        "character_tags": [
+            "Stats.Creatures.Weevil.Normal",
+            "Boss.Mantis.Consume",
+            "StatusEffect.Loot.Harmless",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": true,
+        "taming_food": [
+            {
+                "row_name": "MushroomSlurry",
+                "data_table": {
+                    "name": "CompositeDataTable'Table_AllItems'",
+                    "path": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        ],
+        "active_pet_passive_effects": [
+            {
+                "row_name": "PetPassiveWeevil",
+                "data_table": {
+                    "name": "DataTable'Table_StatusEffects'",
+                    "path": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                }
+            }
+        ],
+        "bestiary_item": {
+            "row_name": "BestiaryWeevil",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Grub": {
+        "name": "Grub",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Grub.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 14,
+            "string_table_name": "game/characters",
+            "text": "Grub"
+        },
+        "character_tags": [
+            "Stats.Creatures.Grub",
+            "StatusEffect.Loot.Harmless",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryGrub",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Gnat": {
+        "name": "Gnat",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/System/T_UI_PetGnat.png",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 13,
+            "string_table_name": "game/characters",
+            "text": "Gnat"
+        },
+        "character_tags": [
+            "Stats.Creatures.Gnat.Normal",
+            "StatusEffect.Loot.Harmless",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": true,
+        "taming_food": [
+            {
+                "row_name": "NectarSlurry",
+                "data_table": {
+                    "name": "CompositeDataTable'Table_AllItems'",
+                    "path": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        ],
+        "active_pet_passive_effects": [
+            {
+                "row_name": "PetPassiveGnat",
+                "data_table": {
+                    "name": "DataTable'Table_StatusEffects'",
+                    "path": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                }
+            }
+        ],
+        "bestiary_item": {
+            "row_name": "BestiaryGnat",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "GnatMeaty": {
+        "name": "GnatMeaty",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Gnat.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 51,
+            "string_table_name": "game/characters",
+            "text": "Meaty Gnat"
+        },
+        "character_tags": [
+            "Stats.Creatures.Gnat.Meaty",
+            "StatusEffect.Loot.Harmless",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": true,
+        "taming_food": [
+            {
+                "row_name": "NectarSlurry",
+                "data_table": {
+                    "name": "CompositeDataTable'Table_AllItems'",
+                    "path": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        ],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryGnatMeaty",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Tadpole": {
+        "name": "Tadpole",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Tadpole.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 27,
+            "string_table_name": "game/characters",
+            "text": "Tadpole"
+        },
+        "character_tags": [
+            "Stats.Creatures.Tadpole",
+            "StatusEffect.Loot.Harmless",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTadpole",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WaterBoatman": {
+        "name": "WaterBoatman",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Waterboatman.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 28,
+            "string_table_name": "game/characters",
+            "text": "Water Boatman"
+        },
+        "character_tags": [
+            "Stats.Creatures.WaterBoatman",
+            "StatusEffect.Loot.Harmless",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWaterBoatman",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Scarab": {
+        "name": "Scarab",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Scarab.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 60,
+            "string_table_name": "game/characters",
+            "text": "Scarab"
+        },
+        "character_tags": [
+            "Stats.Creatures.Scarab",
+            "StatusEffect.Loot.Scarab",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryScarab",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Leech": {
+        "name": "Leech",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 29,
+            "string_table_name": "game/characters",
+            "text": "Leech"
+        },
+        "character_tags": [
+            "Stats.Creatures.Leech"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "None",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WaterStrider": {
+        "name": "WaterStrider",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 30,
+            "string_table_name": "game/characters",
+            "text": "Water Strider"
+        },
+        "character_tags": [
+            "Stats.Creatures.WaterStrider"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "None",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "AntQueen": {
+        "name": "AntQueen",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 92,
+            "string_table_name": "game/characters",
+            "text": "UNKNOWN"
+        },
+        "character_tags": [
+            "Boss.AntQueen"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "None",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Silverfish": {
+        "name": "Silverfish",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 95,
+            "string_table_name": "game/characters",
+            "text": "UNKNOWN"
+        },
+        "character_tags": [
+            "Stats.Creatures.Aphid"
+        ],
+        "tameable": false,
+        "taming_food": [
+            {
+                "row_name": "PlantSlurry",
+                "data_table": {
+                    "name": "CompositeDataTable'Table_AllItems'",
+                    "path": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        ],
+        "active_pet_passive_effects": [
+            {
+                "row_name": "PetPassiveAphid",
+                "data_table": {
+                    "name": "DataTable'Table_StatusEffects'",
+                    "path": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                }
+            }
+        ],
+        "bestiary_item": {
+            "row_name": "BestiaryAphid",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WendellBot": {
+        "name": "WendellBot",
+        "icon": ".",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/System/T_UI_HUD_Wendell.png",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 19,
+            "string_table_name": "game/characters",
+            "text": "Wendell"
+        },
+        "character_tags": [
+            "Stats.Characters.WendellBot"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "None",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Guardian_Antrim": {
+        "name": "Ant_Guardian_Antrim",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 9,
+            "string_table_name": "game/characters",
+            "text": "Red Soldier Ant"
+        },
+        "character_tags": [],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "None",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Spitter_Antrim": {
+        "name": "Ant_Spitter_Antrim",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 9,
+            "string_table_name": "game/characters",
+            "text": "Red Soldier Ant"
+        },
+        "character_tags": [],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "None",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Young_Antrim": {
+        "name": "Ant_Young_Antrim",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 9,
+            "string_table_name": "game/characters",
+            "text": "Red Soldier Ant"
+        },
+        "character_tags": [],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "None",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Worker_Brown_Wave": {
+        "name": "Ant_Worker_Brown_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 8,
+            "string_table_name": "game/characters",
+            "text": "Red Worker Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Worker.Brown",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.RedAnts",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntRedWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Soldier_Brown_Wave": {
+        "name": "Ant_Soldier_Brown_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 9,
+            "string_table_name": "game/characters",
+            "text": "Red Soldier Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Soldier.Brown",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.RedAnts",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntRedSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Worker_Black_Wave": {
+        "name": "Ant_Worker_Black_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 39,
+            "string_table_name": "game/characters",
+            "text": "Black Worker Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Worker.Black",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.BlackAnt",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntBlackWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Soldier_Black_Wave": {
+        "name": "Ant_Soldier_Black_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 40,
+            "string_table_name": "game/characters",
+            "text": "Black Soldier Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Soldier.Black",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.BlackAnt",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntBlackSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Bee_Wave": {
+        "name": "Bee_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 10,
+            "string_table_name": "game/characters",
+            "text": "Bee"
+        },
+        "character_tags": [
+            "Stats.Creatures.Bee",
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Bee",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryBee",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Gnat_Infected_Wave": {
+        "name": "Gnat_Infected_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 47,
+            "string_table_name": "game/characters",
+            "text": "Infected Gnat"
+        },
+        "character_tags": [
+            "Stats.Creatures.Gnat.Evil",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryGnatInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ladybug_Infected_Wave": {
+        "name": "Ladybug_Infected_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 45,
+            "string_table_name": "game/characters",
+            "text": "Infected Ladybug"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ladybug.Infected",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "StatusEffect.Loot.Ladybug",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLadybugInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Larva_Infected_Wave": {
+        "name": "Larva_Infected_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 46,
+            "string_table_name": "game/characters",
+            "text": "Infected Larva"
+        },
+        "character_tags": [
+            "Stats.Creatures.Larva.Infected",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLarvaInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mite_Infected_Wave": {
+        "name": "Mite_Infected_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 33,
+            "string_table_name": "game/characters",
+            "text": "Infected Mite"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mite.Infected",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMiteInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Weevil_Evil_Wave": {
+        "name": "Weevil_Evil_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 34,
+            "string_table_name": "game/characters",
+            "text": "Infected Weevil"
+        },
+        "character_tags": [
+            "Stats.Creatures.Weevil.Evil",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWeevilInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_Wolf_Infected_Wave": {
+        "name": "Spider_Wolf_Infected_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 61,
+            "string_table_name": "game/characters",
+            "text": "Infected Wolf Spider"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.Wolf.Infected",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.Infected",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderWolfInfected",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mosquito_Wave": {
+        "name": "Mosquito_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 21,
+            "string_table_name": "game/characters",
+            "text": "Mosquito"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mosquito",
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Mosquito",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMosquito",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Termite_Worker_Wave": {
+        "name": "Termite_Worker_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 41,
+            "string_table_name": "game/characters",
+            "text": "Termite Worker"
+        },
+        "character_tags": [
+            "Stats.Creatures.Termite.Worker",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Termite",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTermiteWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Termite_Soldier_Wave": {
+        "name": "Termite_Soldier_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 59,
+            "string_table_name": "game/characters",
+            "text": "Termite Soldier"
+        },
+        "character_tags": [
+            "Stats.Creatures.Termite.Soldier",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Termite",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTermiteSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Termite_King_Wave": {
+        "name": "Termite_King_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 63,
+            "string_table_name": "game/characters",
+            "text": "Termite King"
+        },
+        "character_tags": [
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.TermiteKing",
+            "Stats.Creatures.Termite.King",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryTermiteKing",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mite_Wave": {
+        "name": "Mite_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 16,
+            "string_table_name": "game/characters",
+            "text": "Lawn Mite"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mite.Lawn",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Mite",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMite",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Antlion_Wave": {
+        "name": "Antlion_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 44,
+            "string_table_name": "game/characters",
+            "text": "Antlion"
+        },
+        "character_tags": [
+            "Stats.Creatures.Antlion",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Antlion",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntlion",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Larva_Wave": {
+        "name": "Larva_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 26,
+            "string_table_name": "game/characters",
+            "text": "Larva"
+        },
+        "character_tags": [
+            "Stats.Creatures.Larva.Normal",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Larva",
+            "Stats.Creatures.Tier1"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLarva",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_OrbWeaver_Wave": {
+        "name": "Spider_OrbWeaver_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 17,
+            "string_table_name": "game/characters",
+            "text": "Orb Weaver"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.OrbWeaver.Normal",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.SpiderOrbWeaver",
+            "Stats.Creatures.Tier2",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderOrb",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_OrbWeaverJr_Wave": {
+        "name": "Spider_OrbWeaverJr_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 37,
+            "string_table_name": "game/characters",
+            "text": "Orb Weaver Jr."
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.OrbWeaver.Jr",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.SpiderOrbWeaver",
+            "Stats.Creatures.Tier2"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderOrbJr",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mite_Tick_Wave": {
+        "name": "Mite_Tick_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 102,
+            "string_table_name": "game/characters",
+            "text": "Tick"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mite.Tick",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.MiteTick",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMiteTick",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mosquito_Tiger_Wave": {
+        "name": "Mosquito_Tiger_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 103,
+            "string_table_name": "game/characters",
+            "text": "Tiger Mosquito"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Mosquito.Tiger",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.MosquitoTiger",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMosquitoTiger",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Soldier_Fire_Wave": {
+        "name": "Ant_Soldier_Fire_Wave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 78,
+            "string_table_name": "game/characters",
+            "text": "Fire Soldier Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Soldier.Fire",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.FireAnt",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntFireSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WaspWave": {
+        "name": "WaspWave",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 97,
+            "string_table_name": "game/characters",
+            "text": "Wasp"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Wasp.Normal",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Wasp",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWasp",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Soldier_Fire_ORC": {
+        "name": "Ant_Soldier_Fire_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ant_Fire_Soldier.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 87,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Fire Soldier Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Soldier.Fire",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.ORC",
+            "StatusEffect.Loot.FireAnt",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntFireSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Worker_Fire_ORC": {
+        "name": "Ant_Worker_Fire_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ant_Fire.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 88,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Fire Worker Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ant.Worker.Fire",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.ORC",
+            "StatusEffect.Loot.FireAnt",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntFireWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mosquito_ORC": {
+        "name": "Mosquito_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Mosquito_Tiger.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 90,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Tiger Mosquito"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.ORC",
+            "Stats.Creatures.Mosquito.Tiger",
+            "StatusEffect.Loot.MosquitoTiger",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMosquitoTiger",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "BombardierBeetle_ORC": {
+        "name": "BombardierBeetle_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Bombardier.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 89,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Bombardier Beetle"
+        },
+        "character_tags": [
+            "Stats.Creatures.Bombardier",
+            "Stats.Creatures.ORC",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Bombardier",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryBombardier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "BlackOxBeetle_ORC": {
+        "name": "BlackOxBeetle_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_BOB.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 91,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Black Ox Beetle"
+        },
+        "character_tags": [
+            "Stats.Creatures.BlackOxBeetle",
+            "Stats.Creatures.ORC",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.BlackOx",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryBlackOx",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Firefly_ORC": {
+        "name": "Firefly_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Firefly.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 100,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Firefly"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "Stats.Creatures.Wave",
+            "Stats.Creatures.ORC",
+            "Stats.Creatures.Firefly",
+            "StatusEffect.Loot.Firefly",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryFirefly",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Mite_Dust_ORC": {
+        "name": "Mite_Dust_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Mite_Dust.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 99,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Dust Mite"
+        },
+        "character_tags": [
+            "Stats.Creatures.Mite.Dust",
+            "Stats.Creatures.ORC",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.MiteDust",
+            "Stats.Creatures.Tier3"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMiteDust",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "LadybugAggressive_ORC": {
+        "name": "LadybugAggressive_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Ladybird.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 101,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Ladybird"
+        },
+        "character_tags": [
+            "Stats.Creatures.Ladybug.Ladybird",
+            "Stats.Creatures.ORC",
+            "Stats.Creatures.Wave",
+            "StatusEffect.Loot.Ladybird",
+            "Stats.Creatures.Tier3",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryLadybugUpperyard",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "SpiderlingSummon": {
+        "name": "SpiderlingSummon",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 24,
+            "string_table_name": "game/characters",
+            "text": "Spiderling"
+        },
+        "character_tags": [],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderling",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "SpiderlingWidowSummon": {
+        "name": "SpiderlingWidowSummon",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 56,
+            "string_table_name": "game/characters",
+            "text": "Black Widowling"
+        },
+        "character_tags": [],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderlingWidow",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "MantSummon": {
+        "name": "MantSummon",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 6,
+            "string_table_name": "game/characters",
+            "text": "Mant"
+        },
+        "character_tags": [
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryMant",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "WaspSummon": {
+        "name": "WaspSummon",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 97,
+            "string_table_name": "game/characters",
+            "text": "Wasp"
+        },
+        "character_tags": [
+            "Stats.Creatures.Flying",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryWasp",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Player": {
+        "name": "Player",
+        "icon": ".",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": -1,
+            "string_table_name": "game/characters",
+            "text": "UNKNOWN"
+        },
+        "character_tags": [
+            "Stats.Player"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "None",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_OrbWeaverJr_ORC": {
+        "name": "Spider_OrbWeaverJr_ORC",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_ORC_Weaver_JR.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 106,
+            "string_table_name": "game/characters",
+            "text": "O.R.C. Weaver Jr."
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.OrbWeaver.Jr",
+            "StatusEffect.Loot.SpiderOrbWeaver",
+            "Stats.Creatures.Tier2",
+            "Stats.Creatures.ORC",
+            "Stats.Creatures.Wave"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderOrbJr",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Spider_BlackWidow_Wave": {
+        "name": "Spider_BlackWidow_Wave",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Spider_BlackWidow.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 55,
+            "string_table_name": "game/characters",
+            "text": "Black Widow"
+        },
+        "character_tags": [
+            "Stats.Creatures.Spider.BlackWidow",
+            "StatusEffect.Loot.SpiderBlackwidow",
+            "Stats.Creatures.Tier3",
+            "Stats.Creatures.Wave",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiarySpiderBlackWidow",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "RolyPoly_Sickly_Wave": {
+        "name": "RolyPoly_Sickly_Wave",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 49,
+            "string_table_name": "game/characters",
+            "text": "Sickly Roly Poly"
+        },
+        "character_tags": [
+            "Stats.Creatures.RolyPoly.Sickly",
+            "StatusEffect.Loot.RolyPoly",
+            "Stats.Creatures.Tier2",
+            "Stats.Creatures.Wave",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryRolyPolySickly",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "RolyPoly_Wave": {
+        "name": "RolyPoly_Wave",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stuffed_Rolypoly.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 48,
+            "string_table_name": "game/characters",
+            "text": "Roly Poly"
+        },
+        "character_tags": [
+            "Stats.Creatures.RolyPoly.Normal",
+            "StatusEffect.Loot.RolyPoly",
+            "Stats.Creatures.Tier2",
+            "Stats.Creatures.Wave",
+            "LargeCreature"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryRolyPoly",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Worker_Infected": {
+        "name": "Ant_Worker_Infected",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Infected_Ant_Worker_Black.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 118,
+            "string_table_name": "game/characters",
+            "text": "Infected Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Infected",
+            "Stats.Creatures.Tier3",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Ant.Worker.Infected"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntInfectedWorker",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "Ant_Soldier_Infected": {
+        "name": "Ant_Soldier_Infected",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Infected_Ant_Soldier_Black.png",
+        "hud_icon": ".",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 119,
+            "string_table_name": "game/characters",
+            "text": "Infected Soldier Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Infected",
+            "Stats.Creatures.Tier3",
+            "StatusEffect.Loot.Infected",
+            "Stats.Creatures.Ant.Soldier.Infected"
+        ],
+        "tameable": false,
+        "taming_food": [],
+        "active_pet_passive_effects": [],
+        "bestiary_item": {
+            "row_name": "BestiaryAntInfectedSoldier",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "BabyAntRed": {
+        "name": "BabyAntRed",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Baby_Ant_Red.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/System/T_UI_Pet_AntRed.png",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 115,
+            "string_table_name": "game/characters",
+            "text": "Baby Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Tier1",
+            "Stats.Creatures.Ant.Baby"
+        ],
+        "tameable": true,
+        "taming_food": [
+            {
+                "row_name": "NectarSlurry",
+                "data_table": {
+                    "name": "CompositeDataTable'Table_AllItems'",
+                    "path": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        ],
+        "active_pet_passive_effects": [
+            {
+                "row_name": "HaulingLarge",
+                "data_table": {
+                    "name": "DataTable'Table_StatusEffects'",
+                    "path": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                }
+            }
+        ],
+        "bestiary_item": {
+            "row_name": "BestiaryAntBabyRedDummy",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "BabyAntBlack": {
+        "name": "BabyAntBlack",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Baby_Ant_Black.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/System/T_UI_Pet_AntBlack.png",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 116,
+            "string_table_name": "game/characters",
+            "text": "Baby Black Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Tier1",
+            "Stats.Creatures.Ant.Baby"
+        ],
+        "tameable": true,
+        "taming_food": [
+            {
+                "row_name": "NectarSlurry",
+                "data_table": {
+                    "name": "CompositeDataTable'Table_AllItems'",
+                    "path": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        ],
+        "active_pet_passive_effects": [
+            {
+                "row_name": "HaulingLarge",
+                "data_table": {
+                    "name": "DataTable'Table_StatusEffects'",
+                    "path": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                }
+            }
+        ],
+        "bestiary_item": {
+            "row_name": "BestiaryAntBabyBlackDummy",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    },
+    "BabyAntFire": {
+        "name": "BabyAntFire",
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Baby_Ant_Fire.png",
+        "hud_icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/System/T_UI_Pet_AntFire.png",
+        "character_name": {
+            "table_id": 9,
+            "string_id": 117,
+            "string_table_name": "game/characters",
+            "text": "Baby Fire Ant"
+        },
+        "character_tags": [
+            "Stats.Creatures.Tier1",
+            "Stats.Creatures.Ant.Baby"
+        ],
+        "tameable": true,
+        "taming_food": [
+            {
+                "row_name": "NectarSlurry",
+                "data_table": {
+                    "name": "CompositeDataTable'Table_AllItems'",
+                    "path": "/Game/Blueprints/Items/Table_AllItems.0"
+                }
+            }
+        ],
+        "active_pet_passive_effects": [
+            {
+                "row_name": "HaulingLarge",
+                "data_table": {
+                    "name": "DataTable'Table_StatusEffects'",
+                    "path": "/Game/Blueprints/Attacks/Table_StatusEffects.0"
+                }
+            }
+        ],
+        "bestiary_item": {
+            "row_name": "BestiaryAntBabyFireDummy",
+            "data_table": {
+                "name": "CompositeDataTable'Table_AllItems'",
+                "path": "/Game/Blueprints/Items/Table_AllItems.0"
+            }
+        },
+        "unknown_fields": null
+    }
+}

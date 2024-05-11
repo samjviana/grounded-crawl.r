@@ -1,6 +1,7 @@
 from typing import Any
 from pathlib import Path
 from models import DisplayName
+from global_database import GlobalDatabase
 
 import json
 
@@ -73,11 +74,28 @@ class BaseCrawler:
 
             crawled_data[key] = self._get_crawled_data(key, value, unknown_fields)
         
+        GlobalDatabase.add_crawled_data(self.crawler_name, crawled_data)
+
         self._save(crawled_data, f'{self.crawler_name}.json')
 
         self.dispose()
 
         return crawled_data
+
+    def _get_display_name(self, string_json: dict) -> DisplayName:
+        """
+        This method is responsible for getting the display name.
+        #### Parameters
+        - `string_json` : `dict`
+            - The json data of the string.
+        #### Returns
+        - `DisplayName` : The display name.
+        """
+        return DisplayName(
+            table_id=string_json['StringTableID'],
+            string_id=string_json['StringID'],
+            string_table_name=string_json['StringTableName']
+        )
 
     def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> Any:
         """

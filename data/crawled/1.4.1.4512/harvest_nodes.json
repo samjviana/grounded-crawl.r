@@ -1,0 +1,1487 @@
+{
+    "GrassBlade_C": {
+        "name": "GrassBlade_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 0,
+            "string_table_name": "game/harvestnodes",
+            "text": "Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_A.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_D": {
+        "name": "GrassBlade_D",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 0,
+            "string_table_name": "game/harvestnodes",
+            "text": "Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_B.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_E": {
+        "name": "GrassBlade_E",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 0,
+            "string_table_name": "game/harvestnodes",
+            "text": "Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_C.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_F": {
+        "name": "GrassBlade_F",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 0,
+            "string_table_name": "game/harvestnodes",
+            "text": "Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_D.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_G": {
+        "name": "GrassBlade_G",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 0,
+            "string_table_name": "game/harvestnodes",
+            "text": "Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_E.png",
+        "unknown_fields": null
+    },
+    "Grass_Stems_Burned_A": {
+        "name": "Grass_Stems_Burned_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Burned_Stem_A.png",
+        "unknown_fields": null
+    },
+    "Grass_Stems_Burned_D": {
+        "name": "Grass_Stems_Burned_D",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Burned_Stem_B.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Burned_D1": {
+        "name": "GrassBlade_Burned_D1",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Burned_A.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Burned_D2": {
+        "name": "GrassBlade_Burned_D2",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Burned_B.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Burned_D3": {
+        "name": "GrassBlade_Burned_D3",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Burned_C.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Burned_E": {
+        "name": "GrassBlade_Burned_E",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Burned_D.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Burned_F": {
+        "name": "GrassBlade_Burned_F",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Burned_E.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Dead_A": {
+        "name": "GrassBlade_Dead_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 5,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dry Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Dead_A.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Dead_B": {
+        "name": "GrassBlade_Dead_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 5,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dry Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Dead_B.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Dead_C": {
+        "name": "GrassBlade_Dead_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 5,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dry Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Dead_C.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_Dead_D": {
+        "name": "GrassBlade_Dead_D",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 5,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dry Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Dead_D.png",
+        "unknown_fields": null
+    },
+    "GrassBladeDry_D": {
+        "name": "GrassBladeDry_D",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 5,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dry Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Dry_A.png",
+        "unknown_fields": null
+    },
+    "GrassBladeDry_E": {
+        "name": "GrassBladeDry_E",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 5,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dry Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Dry_B.png",
+        "unknown_fields": null
+    },
+    "GrassBladeDry_F": {
+        "name": "GrassBladeDry_F",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 5,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dry Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Grass_Blade_Dry_C.png",
+        "unknown_fields": null
+    },
+    "Eelgrass_A": {
+        "name": "Eelgrass_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 19,
+            "string_table_name": "game/harvestnodes",
+            "text": "Eelgrass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Eelgrass_A.png",
+        "unknown_fields": null
+    },
+    "Eelgrass_B": {
+        "name": "Eelgrass_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 19,
+            "string_table_name": "game/harvestnodes",
+            "text": "Eelgrass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Eelgrass_B.png",
+        "unknown_fields": null
+    },
+    "Eelgrass_C": {
+        "name": "Eelgrass_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 19,
+            "string_table_name": "game/harvestnodes",
+            "text": "Eelgrass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Eelgrass_C.png",
+        "unknown_fields": null
+    },
+    "Eelgrass_D": {
+        "name": "Eelgrass_D",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 19,
+            "string_table_name": "game/harvestnodes",
+            "text": "Eelgrass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Eelgrass_D.png",
+        "unknown_fields": null
+    },
+    "Clover_A": {
+        "name": "Clover_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 3,
+            "string_table_name": "game/harvestnodes",
+            "text": "Clover"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Clover_Plant.png",
+        "unknown_fields": null
+    },
+    "Clover_B": {
+        "name": "Clover_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 3,
+            "string_table_name": "game/harvestnodes",
+            "text": "Clover"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Clover_Plant.png",
+        "unknown_fields": null
+    },
+    "Clover_Flower": {
+        "name": "Clover_Flower",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 3,
+            "string_table_name": "game/harvestnodes",
+            "text": "Clover"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Clover_Flower.png",
+        "unknown_fields": null
+    },
+    "Hedge_Berry_A": {
+        "name": "Hedge_Berry_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 9,
+            "string_table_name": "game/harvestnodes",
+            "text": "Berry"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Hedge_Berry_A.png",
+        "unknown_fields": null
+    },
+    "Hedge_Berry_B": {
+        "name": "Hedge_Berry_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 9,
+            "string_table_name": "game/harvestnodes",
+            "text": "Berry"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Hedge_Berry_B.png",
+        "unknown_fields": null
+    },
+    "Hedge_Berry_C": {
+        "name": "Hedge_Berry_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 9,
+            "string_table_name": "game/harvestnodes",
+            "text": "Berry"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Hedge_Berry_C.png",
+        "unknown_fields": null
+    },
+    "Hosta_Flower_B": {
+        "name": "Hosta_Flower_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 18,
+            "string_table_name": "game/harvestnodes",
+            "text": "Hosta Plant"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Hosta_Flower.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Toadstool_A": {
+        "name": "Mushroom_Toadstool_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 31,
+            "string_table_name": "game/harvestnodes",
+            "text": "Toadstool"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mushroom_Toadstool_A.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Toadstool_B": {
+        "name": "Mushroom_Toadstool_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 31,
+            "string_table_name": "game/harvestnodes",
+            "text": "Toadstool"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mushroom_Toadstool_B.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Toadstool_C": {
+        "name": "Mushroom_Toadstool_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 31,
+            "string_table_name": "game/harvestnodes",
+            "text": "Toadstool"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mushroom_Toadstool_C.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Black_A": {
+        "name": "Mushroom_Black_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mushroom_Black_A.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Black_B": {
+        "name": "Mushroom_Black_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mushroom_Black_B.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Black_C": {
+        "name": "Mushroom_Black_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mushroom_Black_C.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Roundcap_A": {
+        "name": "Mushroom_Roundcap_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mushroom_Roundcap_A.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Roundcap_B": {
+        "name": "Mushroom_Roundcap_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mushroom_Roundcap_B.png",
+        "unknown_fields": null
+    },
+    "Mushroom_SmallRound_A": {
+        "name": "Mushroom_SmallRound_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fungus_Cap_A.png",
+        "unknown_fields": null
+    },
+    "Mushroom_SmallRound_B": {
+        "name": "Mushroom_SmallRound_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fungus_Cap_B.png",
+        "unknown_fields": null
+    },
+    "Pinecone_B": {
+        "name": "Pinecone_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 67,
+            "string_table_name": "game/harvestnodes",
+            "text": "Pinecone"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pinecone.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Coral_A": {
+        "name": "Mushroom_Coral_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Coral_Fungus_A.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Coral_B": {
+        "name": "Mushroom_Coral_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Coral_Fungus_B.png",
+        "unknown_fields": null
+    },
+    "Mushroom_Cluster": {
+        "name": "Mushroom_Cluster",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 30,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mushroom"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fungus_Cluster.png",
+        "unknown_fields": null
+    },
+    "Haze_Fungus": {
+        "name": "Haze_Fungus",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 37,
+            "string_table_name": "game/harvestnodes",
+            "text": "Haze Fungus"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fungus_Haze_Harvestable.png",
+        "unknown_fields": null
+    },
+    "Pond_Moss": {
+        "name": "Pond_Moss",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 69,
+            "string_table_name": "game/harvestnodes",
+            "text": "Pond Moss"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pond_moss.png",
+        "unknown_fields": null
+    },
+    "Protohive_Topple": {
+        "name": "Protohive_Topple",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 70,
+            "string_table_name": "game/harvestnodes",
+            "text": "Small Wasp Hive"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Wasp_Hive_Hanging.png",
+        "unknown_fields": null
+    },
+    "Pupa_Topple": {
+        "name": "Pupa_Topple",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 36,
+            "string_table_name": "game/harvestnodes",
+            "text": "Pupa"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pupa_Chunk.png",
+        "unknown_fields": null
+    },
+    "Lint_Node_A": {
+        "name": "Lint_Node_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 53,
+            "string_table_name": "game/harvestnodes",
+            "text": "Lint Clump"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lint_Clump.png",
+        "unknown_fields": null
+    },
+    "Rock_ArmorStone1_A_Large": {
+        "name": "Rock_ArmorStone1_A_Large",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 64,
+            "string_table_name": "game/harvestnodes",
+            "text": "Brittle Marble"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Marble_Rock_A.png",
+        "unknown_fields": null
+    },
+    "Rock_ArmorStone2_A": {
+        "name": "Rock_ArmorStone2_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 60,
+            "string_table_name": "game/harvestnodes",
+            "text": "Sturdy Marble"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Marble_Rock_B.png",
+        "unknown_fields": null
+    },
+    "Rock_ArmorStone3_A": {
+        "name": "Rock_ArmorStone3_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 65,
+            "string_table_name": "game/harvestnodes",
+            "text": "Supreme Marble"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Marble_Rock_C.png",
+        "unknown_fields": null
+    },
+    "Rock_Charcoal": {
+        "name": "Rock_Charcoal",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 33,
+            "string_table_name": "game/harvestnodes",
+            "text": "Charcoal"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Charcoal_Rock.png",
+        "unknown_fields": null
+    },
+    "Rock_Clay": {
+        "name": "Rock_Clay",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 4,
+            "string_table_name": "game/harvestnodes",
+            "text": "Clay"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Clay_Rock_A.png",
+        "unknown_fields": null
+    },
+    "Rock_Clay_Big": {
+        "name": "Rock_Clay_Big",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 4,
+            "string_table_name": "game/harvestnodes",
+            "text": "Clay"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Clay_Rock_B.png",
+        "unknown_fields": null
+    },
+    "Rock_Clay_huge": {
+        "name": "Rock_Clay_huge",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 4,
+            "string_table_name": "game/harvestnodes",
+            "text": "Clay"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Clay_Rock_C.png",
+        "unknown_fields": null
+    },
+    "Rock_Salt_A": {
+        "name": "Rock_Salt_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 45,
+            "string_table_name": "game/harvestnodes",
+            "text": "Salt Cluster"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Salt.png",
+        "unknown_fields": null
+    },
+    "Rock_Sandstone_A": {
+        "name": "Rock_Sandstone_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 16,
+            "string_table_name": "game/harvestnodes",
+            "text": "Pebble"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pebble_Rock.png",
+        "unknown_fields": null
+    },
+    "Rock_WeaponStone1_A_Large": {
+        "name": "Rock_WeaponStone1_A_Large",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 61,
+            "string_table_name": "game/harvestnodes",
+            "text": "Brittle Quartzite"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Quartzite_Rock_A.png",
+        "unknown_fields": null
+    },
+    "Rock_WeaponStone2_A": {
+        "name": "Rock_WeaponStone2_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 62,
+            "string_table_name": "game/harvestnodes",
+            "text": "Sturdy Quartzite"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Quartzite_Rock_B.png",
+        "unknown_fields": null
+    },
+    "Rock_WeaponStone3_A": {
+        "name": "Rock_WeaponStone3_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 63,
+            "string_table_name": "game/harvestnodes",
+            "text": "Supreme Quartzite"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Quartzite_Rock_C.png",
+        "unknown_fields": null
+    },
+    "Sap_Nodule_A": {
+        "name": "Sap_Nodule_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 10,
+            "string_table_name": "game/harvestnodes",
+            "text": "Sap Clump"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sap_Nodule.png",
+        "unknown_fields": null
+    },
+    "Rust_Node": {
+        "name": "Rust_Node",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 59,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rust"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Rust.png",
+        "unknown_fields": null
+    },
+    "Rusty_Bolt_A": {
+        "name": "Rusty_Bolt_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 72,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rusty Screw"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Screw_Rusted.png",
+        "unknown_fields": null
+    },
+    "Rusty_Nail_A": {
+        "name": "Rusty_Nail_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 73,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rusty Nail"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Rusted_Nail_A.png",
+        "unknown_fields": null
+    },
+    "Rusty_Nail_B": {
+        "name": "Rusty_Nail_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 73,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rusty Nail"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Rusted_Nail_B.png",
+        "unknown_fields": null
+    },
+    "Rusty_Nail_D": {
+        "name": "Rusty_Nail_D",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 73,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rusty Nail"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Rusted_Nail_C.png",
+        "unknown_fields": null
+    },
+    "Web_Sac": {
+        "name": "Web_Sac",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 26,
+            "string_table_name": "game/harvestnodes",
+            "text": "Web Sac"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Web_Sac.png",
+        "unknown_fields": null
+    },
+    "Web_Sac_Widow": {
+        "name": "Web_Sac_Widow",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 74,
+            "string_table_name": "game/harvestnodes",
+            "text": "Widow Web Sac"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Web_Sac-Black_Widow.png",
+        "unknown_fields": null
+    },
+    "Weed_Dandelion_A": {
+        "name": "Weed_Dandelion_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 2,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dandelion"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dandelion_A.png",
+        "unknown_fields": null
+    },
+    "Weed_Dandelion_B": {
+        "name": "Weed_Dandelion_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 2,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dandelion"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dandelion_B.png",
+        "unknown_fields": null
+    },
+    "Weed_Dandelion_C": {
+        "name": "Weed_Dandelion_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 2,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dandelion"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dandelion_C.png",
+        "unknown_fields": null
+    },
+    "Weed_Dandelion_E": {
+        "name": "Weed_Dandelion_E",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 2,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dandelion"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dandelion_E.png",
+        "unknown_fields": null
+    },
+    "Weed_Dandelion_D": {
+        "name": "Weed_Dandelion_D",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 2,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dandelion"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Weed_Dandelion_D.png",
+        "unknown_fields": null
+    },
+    "Weed_Dandelion_F": {
+        "name": "Weed_Dandelion_F",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 2,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dandelion"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dandelion_F.png",
+        "unknown_fields": null
+    },
+    "Weed_Spiky_A": {
+        "name": "Weed_Spiky_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 46,
+            "string_table_name": "game/harvestnodes",
+            "text": "Bur Weed"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Spiky_Weed.png",
+        "unknown_fields": null
+    },
+    "Weed_Tall_A": {
+        "name": "Weed_Tall_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 20,
+            "string_table_name": "game/harvestnodes",
+            "text": "Husky Weed"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Husky_Weed_A.png",
+        "unknown_fields": null
+    },
+    "Weed_Tall_B": {
+        "name": "Weed_Tall_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 20,
+            "string_table_name": "game/harvestnodes",
+            "text": "Husky Weed"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Husky_Weed_B.png",
+        "unknown_fields": null
+    },
+    "Weed_Tall_C": {
+        "name": "Weed_Tall_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 20,
+            "string_table_name": "game/harvestnodes",
+            "text": "Husky Weed"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Husky_Weed_C.png",
+        "unknown_fields": null
+    },
+    "Wood_Splinter": {
+        "name": "Wood_Splinter",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 54,
+            "string_table_name": "game/harvestnodes",
+            "text": "Splinter"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Wood_Splinter_Harvestable_A.png",
+        "unknown_fields": null
+    },
+    "Wood_Splinter_B": {
+        "name": "Wood_Splinter_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 54,
+            "string_table_name": "game/harvestnodes",
+            "text": "Splinter"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Wood_Splinter_Harvestable_B.png",
+        "unknown_fields": null
+    },
+    "Wood_Splinter_Termite": {
+        "name": "Wood_Splinter_Termite",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 54,
+            "string_table_name": "game/harvestnodes",
+            "text": "Splinter"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Splinter_Harvestable.png",
+        "unknown_fields": null
+    },
+    "FishBone": {
+        "name": "FishBone",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 28,
+            "string_table_name": "game/harvestnodes",
+            "text": "Sunken Bone"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Icons/ICO_FishBone.png",
+        "unknown_fields": null
+    },
+    "Dirt_Koiscale": {
+        "name": "Dirt_Koiscale",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 27,
+            "string_table_name": "game/harvestnodes",
+            "text": "Muddy Scale"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Koi_Scale_Clump.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_A": {
+        "name": "GrassBlade_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 0,
+            "string_table_name": "game/harvestnodes",
+            "text": "Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_GrassBlade_A.png",
+        "unknown_fields": null
+    },
+    "GrassBlade_B": {
+        "name": "GrassBlade_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 0,
+            "string_table_name": "game/harvestnodes",
+            "text": "Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_GrassBlade_B.png",
+        "unknown_fields": null
+    },
+    "Grass_Stems_Burned_B": {
+        "name": "Grass_Stems_Burned_B",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Grass_Stems_Burned_B.png",
+        "unknown_fields": null
+    },
+    "Grass_Stems_Burned_C": {
+        "name": "Grass_Stems_Burned_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Grass_Stems_Burned_C.png",
+        "unknown_fields": null
+    },
+    "Grass_Stems_Burned_E": {
+        "name": "Grass_Stems_Burned_E",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Grass_Stems_Burned_E.png",
+        "unknown_fields": null
+    },
+    "Grass_Stems_Burned_F": {
+        "name": "Grass_Stems_Burned_F",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 58,
+            "string_table_name": "game/harvestnodes",
+            "text": "Burnt Grass"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Grass_Stems_Burned_F.png",
+        "unknown_fields": null
+    },
+    "Protohive_Fallen": {
+        "name": "Protohive_Fallen",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 70,
+            "string_table_name": "game/harvestnodes",
+            "text": "Small Wasp Hive"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Protohive_Fallen.png",
+        "unknown_fields": null
+    },
+    "Pupa": {
+        "name": "Pupa",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 36,
+            "string_table_name": "game/harvestnodes",
+            "text": "Pupa"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Pupa.png",
+        "unknown_fields": null
+    },
+    "Rusty_Nail_C": {
+        "name": "Rusty_Nail_C",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 59,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rust"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Rusty_Nail_C.png",
+        "unknown_fields": null
+    },
+    "Acorn": {
+        "name": "Acorn",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 1,
+            "string_table_name": "game/harvestnodes",
+            "text": "Acorn"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Acorn.png",
+        "unknown_fields": null
+    },
+    "Bombable_LabDoor": {
+        "name": "Bombable_LabDoor",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 40,
+            "string_table_name": "game/harvestnodes",
+            "text": "Damaged Door"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Bombable_LabDoor.png",
+        "unknown_fields": null
+    },
+    "Bombable_Rock": {
+        "name": "Bombable_Rock",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 41,
+            "string_table_name": "game/harvestnodes",
+            "text": "Cracked Rock"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cracked_Rock.png",
+        "unknown_fields": null
+    },
+    "Candy_Spicy": {
+        "name": "Candy_Spicy",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 34,
+            "string_table_name": "game/harvestnodes",
+            "text": "Spicy Candy"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Spicy_Candy.png",
+        "unknown_fields": null
+    },
+    "Candy_Spicy2": {
+        "name": "Candy_Spicy2",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 34,
+            "string_table_name": "game/harvestnodes",
+            "text": "Spicy Candy"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sour_Candy_Spicy.png",
+        "unknown_fields": null
+    },
+    "Candy_Spicy3": {
+        "name": "Candy_Spicy3",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 34,
+            "string_table_name": "game/harvestnodes",
+            "text": "Spicy Candy"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mint_Candy_Spicy.png",
+        "unknown_fields": null
+    },
+    "Candy_Sour": {
+        "name": "Candy_Sour",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 35,
+            "string_table_name": "game/harvestnodes",
+            "text": "Sour Candy"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sour_Candy.png",
+        "unknown_fields": null
+    },
+    "Candy_Sour2": {
+        "name": "Candy_Sour2",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 35,
+            "string_table_name": "game/harvestnodes",
+            "text": "Sour Candy"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Spicy_Candy_Sour.png",
+        "unknown_fields": null
+    },
+    "Candy_Sour3": {
+        "name": "Candy_Sour3",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 35,
+            "string_table_name": "game/harvestnodes",
+            "text": "Sour Candy"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mint_Candy_Sour.png",
+        "unknown_fields": null
+    },
+    "Cap_Harvestable_A": {
+        "name": "Cap_Harvestable_A",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 55,
+            "string_table_name": "game/harvestnodes",
+            "text": "Pop Cap"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pop_Cap_Harvestable.png",
+        "unknown_fields": null
+    },
+    "DST_CaveRoot": {
+        "name": "DST_CaveRoot",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 66,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dead Root"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dead_Root.png",
+        "unknown_fields": null
+    },
+    "DST_HazeRoot": {
+        "name": "DST_HazeRoot",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 39,
+            "string_table_name": "game/harvestnodes",
+            "text": "Soggy Root"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Soggy_Root.png",
+        "unknown_fields": null
+    },
+    "Feather": {
+        "name": "Feather",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 38,
+            "string_table_name": "game/harvestnodes",
+            "text": "Crow Tail Feather"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crow_Feather_Harvest.png",
+        "unknown_fields": null
+    },
+    "Feather_Small": {
+        "name": "Feather_Small",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 24,
+            "string_table_name": "game/harvestnodes",
+            "text": "Crow Feather"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crow_FeatherI_Small.png",
+        "unknown_fields": null
+    },
+    "Food_Apple_Core": {
+        "name": "Food_Apple_Core",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 8,
+            "string_table_name": "game/harvestnodes",
+            "text": "Apple"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Food_Apple_Core.png",
+        "unknown_fields": null
+    },
+    "Food_Apple_Rotten": {
+        "name": "Food_Apple_Rotten",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 52,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rotten Apple"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Food_Apple_Core-Rotten.png",
+        "unknown_fields": null
+    },
+    "Food_Candy_Corn": {
+        "name": "Food_Candy_Corn",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 25,
+            "string_table_name": "game/harvestnodes",
+            "text": "Candy Corn"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Candy_Corn.png",
+        "unknown_fields": null
+    },
+    "Food_Cookie_Sandwich": {
+        "name": "Food_Cookie_Sandwich",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 7,
+            "string_table_name": "game/harvestnodes",
+            "text": "Cookie Sandwich"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cookie_Sandwich.png",
+        "unknown_fields": null
+    },
+    "Food_Donut": {
+        "name": "Food_Donut",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 49,
+            "string_table_name": "game/harvestnodes",
+            "text": "Donut"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Donut_A.png",
+        "unknown_fields": null
+    },
+    "Food_Donut_Bite": {
+        "name": "Food_Donut_Bite",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 49,
+            "string_table_name": "game/harvestnodes",
+            "text": "Donut"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Donut_B.png",
+        "unknown_fields": null
+    },
+    "Food_Donut_Rotten": {
+        "name": "Food_Donut_Rotten",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 51,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rotten Donut"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Donut_A_Rotten.png",
+        "unknown_fields": null
+    },
+    "Food_Donut_Rotten_Bite": {
+        "name": "Food_Donut_Rotten_Bite",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 51,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rotten Donut"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Donut_B-Rotten.png",
+        "unknown_fields": null
+    },
+    "Food_Hotdog": {
+        "name": "Food_Hotdog",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 6,
+            "string_table_name": "game/harvestnodes",
+            "text": "Billy Hog"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Hotdog.png",
+        "unknown_fields": null
+    },
+    "Food_Hotdog_Rotten": {
+        "name": "Food_Hotdog_Rotten",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 48,
+            "string_table_name": "game/harvestnodes",
+            "text": "Rotten Billy Hog"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Hotdog_Rotten.png",
+        "unknown_fields": null
+    },
+    "Food_Mint": {
+        "name": "Food_Mint",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 14,
+            "string_table_name": "game/harvestnodes",
+            "text": "Fresh Mint"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Food_Mint.png",
+        "unknown_fields": null
+    },
+    "Food_Mint2": {
+        "name": "Food_Mint2",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 14,
+            "string_table_name": "game/harvestnodes",
+            "text": "Fresh Mint"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Spicy_Candy_Mint.png",
+        "unknown_fields": null
+    },
+    "Food_Mint3": {
+        "name": "Food_Mint3",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 14,
+            "string_table_name": "game/harvestnodes",
+            "text": "Fresh Mint"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sour_Candy_Mint.png",
+        "unknown_fields": null
+    },
+    "Gum_Node": {
+        "name": "Gum_Node",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 32,
+            "string_table_name": "game/harvestnodes",
+            "text": "Chewed Gum"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Gum.png",
+        "unknown_fields": null
+    },
+    "Harvestable_Toenail": {
+        "name": "Harvestable_Toenail",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 68,
+            "string_table_name": "game/harvestnodes",
+            "text": "Toenail"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Nail_Toe.png",
+        "unknown_fields": null
+    },
+    "Milk_Nugget_Party": {
+        "name": "Milk_Nugget_Party",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 44,
+            "string_table_name": "game/harvestnodes",
+            "text": "Mega Milk Molar"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Mega_Milk_Molar.png",
+        "unknown_fields": null
+    },
+    "Milk_Nugget_Personal": {
+        "name": "Milk_Nugget_Personal",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 43,
+            "string_table_name": "game/harvestnodes",
+            "text": "Milk Molar"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Milk_Molar.png",
+        "unknown_fields": null
+    },
+    "MuscleSprout_Big": {
+        "name": "MuscleSprout_Big",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 71,
+            "string_table_name": "game/harvestnodes",
+            "text": "Muscle Sprout"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Super_Muscle_Sprout.png",
+        "unknown_fields": null
+    },
+    "Food_Apple": {
+        "name": "Food_Apple",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 8,
+            "string_table_name": "game/harvestnodes",
+            "text": "Apple"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Food_Apple.png",
+        "unknown_fields": null
+    },
+    "Food_Apple_Bite": {
+        "name": "Food_Apple_Bite",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 8,
+            "string_table_name": "game/harvestnodes",
+            "text": "Apple"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Food_Apple_Bite.png",
+        "unknown_fields": null
+    },
+    "DST_CaveRoot_Stump": {
+        "name": "DST_CaveRoot_Stump",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 66,
+            "string_table_name": "game/harvestnodes",
+            "text": "Dead Root"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_DST_CaveRoot_Stump.png",
+        "unknown_fields": null
+    },
+    "Food_Chocolate_Lips": {
+        "name": "Food_Chocolate_Lips",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 75,
+            "string_table_name": "game/harvestnodes",
+            "text": "Chocolate Smoochies"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chocolate_Lips_Node.png",
+        "unknown_fields": null
+    },
+    "Food_Chocolate_Coin": {
+        "name": "Food_Chocolate_Coin",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 76,
+            "string_table_name": "game/harvestnodes",
+            "text": "Chocolate Leprechaun's Loot"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chocolate_Coin_Node.png",
+        "unknown_fields": null
+    },
+    "Food_EasterEgg": {
+        "name": "Food_EasterEgg",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 77,
+            "string_table_name": "game/harvestnodes",
+            "text": "Easter Egg"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Easter_Egg_Node_A.png",
+        "unknown_fields": null
+    },
+    "Food_EasterEggB": {
+        "name": "Food_EasterEggB",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 78,
+            "string_table_name": "game/harvestnodes",
+            "text": "Easter Egg B"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Easter_Egg_Node_B.png",
+        "unknown_fields": null
+    },
+    "Food_EasterEggC": {
+        "name": "Food_EasterEggC",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 79,
+            "string_table_name": "game/harvestnodes",
+            "text": "Easter Egg C"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Easter_Egg_Node_C.png",
+        "unknown_fields": null
+    },
+    "Food_EasterEggD": {
+        "name": "Food_EasterEggD",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 80,
+            "string_table_name": "game/harvestnodes",
+            "text": "Easter Egg D"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Easter_Egg_Node_D.png",
+        "unknown_fields": null
+    },
+    "Food_EasterEggGold": {
+        "name": "Food_EasterEggGold",
+        "display_name": {
+            "table_id": 75,
+            "string_id": 81,
+            "string_table_name": "game/harvestnodes",
+            "text": "Easter Egg Gold"
+        },
+        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Easter_Egg_Node_E.png",
+        "unknown_fields": null
+    }
+}
