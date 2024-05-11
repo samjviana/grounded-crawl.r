@@ -17,6 +17,7 @@ from .damage_data import DamageData
 from .attack import Attack
 from .attacks_info import AttacksInfo
 from .tool_weapon import ToolWeapon
+from .item import Item
 
 from .ue_object import UEObject
 from .ue_datatable_reference import UEDataTableReference

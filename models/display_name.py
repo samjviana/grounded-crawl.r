@@ -14,10 +14,15 @@ class DisplayName:
     localization_json: dict = None
     # TODO: Add more string table names.
     string_table_names = {
+        1: 'game/gui',
         2: 'game/items',
         9: 'game/characters',
         22: 'game/buildings',
         33: 'game/statuseffects',
+        56: 'game/pointsofinterest',
+        75: 'game/harvestnodes',
+        144: 'game/chatwheel',
+        197: 'game/petpersonalities',
         342: 'game/props'
     }
     
@@ -50,6 +55,8 @@ class DisplayName:
         #### Returns
         - `str` : The string of the display name.
         """
+        if self.table_id <= 0:
+            return 'UNKNOWN'
         string_table_name = DisplayName.string_table_names[self.table_id]
         entries = DisplayName.localization_json[string_table_name]['Entries']
         for entry in entries:

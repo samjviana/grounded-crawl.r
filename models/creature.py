@@ -70,8 +70,6 @@ class Creature:
         #### Returns
         - `float` : The weakness or resistance multiplier.
         """
-        if self.key_name == 'SpiderBlackWidow':
-            print()
         if damage_type not in Creature.valid_damage_types:
             raise ValueError(f"Invalid damage type: {damage_type}")
         if self.info is None:
