@@ -27,10 +27,12 @@ class CharacterData:
         - The active pet passive effects of the character data.
     - `bestiary_item` : `UEDataTableReference`
         - The bestiary item of the character data.
+    - `actor_path`: `str`
+        - The actor path of the character data.
     - `unknown_fields` : `dict`
         - The unknown fields of the character data.
     """
-    def __init__(self, name: str, icon: Path, hud_icon: Path, character_name: 'DisplayName', character_tags: list[str], tameable: bool, taming_food: list['UEDataTableReference'], active_pet_passive_effects: list['UEDataTableReference'], bestiary_item: 'UEDataTableReference', unknown_fields: dict):
+    def __init__(self, name: str, icon: Path, hud_icon: Path, character_name: 'DisplayName', character_tags: list[str], tameable: bool, taming_food: list['UEDataTableReference'], active_pet_passive_effects: list['UEDataTableReference'], bestiary_item: 'UEDataTableReference', actor_path: str, unknown_fields: dict):
         self.name = name
         self.icon = icon
         self.hud_icon = hud_icon
@@ -40,6 +42,7 @@ class CharacterData:
         self.taming_food = taming_food
         self.active_pet_passive_effects = active_pet_passive_effects
         self.bestiary_item = bestiary_item
+        self.actor_path = actor_path
         self.unknown_fields = unknown_fields
 
     def to_dict(self) -> dict:
@@ -58,5 +61,19 @@ class CharacterData:
             'taming_food': [taming_food.to_dict() for taming_food in self.taming_food],
             'active_pet_passive_effects': [active_pet_passive_effect.to_dict() for active_pet_passive_effect in self.active_pet_passive_effects],
             'bestiary_item': self.bestiary_item.to_dict(),
+            'actor_path': self.actor_path,
             'unknown_fields': self.unknown_fields
         }
+        
+    @staticmethod
+    def get_unknown_fields() -> list[str]:
+        """
+        This method is responsible for getting the unknown fields of the character data.
+        #### Returns
+        - `list` : The unknown fields of the character data.
+        """
+        return [
+            'ModIcon',
+            'PetPersonalities',
+            'PlacementData'
+        ]

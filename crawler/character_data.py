@@ -13,23 +13,13 @@ class CharacterDataCrawler(BaseCrawler):
             json_path=Path('Maine/Content/Blueprints/DataTables/Table_CharacterData.json'),
             hide_unknown_fields=hide_unknown_fields
         )
-        self.unknown_field_list = [
-            'ModIcon',
-            'PetPersonalities',
-            'PlacementData'
-        ]
+        self.unknown_field_list = CharacterData.get_unknown_fields()
 
     def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> CharacterData:
         icon = self._get_media_path(value['Icon'])
         hud_icon = self._get_media_path(value['HudIcon'])
 
-        character_name = DisplayName(
-            table_id=value['CharacterName']['StringTableID'],
-            string_id=value['CharacterName']['StringID'],
-            string_table_name=value['CharacterName']['StringTableName']
-        )
-        if character_name.string_table_name == 'None':
-            character_name.string_table_name = DisplayName.string_table_names[character_name.table_id]
+        character_name = self._get_display_name(value['CharacterName'])
 
         active_pet_passive_effects = []
         for active_pet_passive_effect_json in value['ActivePetPassiveEffects']:
@@ -73,6 +63,7 @@ class CharacterDataCrawler(BaseCrawler):
             taming_food=taming_food,
             active_pet_passive_effects=active_pet_passive_effects,
             bestiary_item=bestiary_item,
+            actor_path=value['PlacementData']['Actor']['AssetPathName'],
             unknown_fields=unknown_fields
         )
 
