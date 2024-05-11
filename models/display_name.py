@@ -22,6 +22,7 @@ class DisplayName:
         56: 'game/pointsofinterest',
         75: 'game/harvestnodes',
         144: 'game/chatwheel',
+        195: 'game/perks',
         197: 'game/petpersonalities',
         342: 'game/props'
     }

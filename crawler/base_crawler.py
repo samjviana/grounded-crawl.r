@@ -1,6 +1,7 @@
 from typing import Any
 from pathlib import Path
 from models import DisplayName
+from global_database import GlobalDatabase
 
 import json
 
@@ -73,6 +74,8 @@ class BaseCrawler:
 
             crawled_data[key] = self._get_crawled_data(key, value, unknown_fields)
         
+        GlobalDatabase.add_crawled_data(self.crawler_name, crawled_data)
+
         self._save(crawled_data, f'{self.crawler_name}.json')
 
         self.dispose()

@@ -12,5 +12,6 @@ from .player_upgrades import PlayerUpgradesCrawler
 from .tools_weapons import ToolsWeaponsCrawler
 from .items import ItemsCrawler
 from .status_effects import StatusEffectsCrawler
+from .mutations import MutationsCrawler
 
 from .base_crawler import BaseCrawler
