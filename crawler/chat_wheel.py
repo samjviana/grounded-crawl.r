@@ -2,7 +2,6 @@ from typing import Any
 from .base_crawler import BaseCrawler
 from pathlib import Path
 from models import ChatWheel, DisplayName
-from util import string_table_names
 import uuid
 
 class ChatWheelCrawler(BaseCrawler):
@@ -25,7 +24,7 @@ class ChatWheelCrawler(BaseCrawler):
             string_table_name=value['ChatWheelName']['StringTableName']
         )
         if name.string_table_name == 'None':
-            name.string_table_name = string_table_names[name.table_id]
+            name.string_table_name = DisplayName.string_table_names[name.table_id]
 
         icon = self._get_media_path(value['ChatWheelIcon'])
 

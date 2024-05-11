@@ -1,1 +1,0 @@
-from .string_table_util import string_table_names

@@ -1,7 +1,6 @@
 from typing import Any
 from .base_crawler import BaseCrawler
 from pathlib import Path
-from util import string_table_names
 from models import CharacterData, DisplayName, UEDataTableReference, UEObject
 
 class CharacterDataCrawler(BaseCrawler):
@@ -30,7 +29,7 @@ class CharacterDataCrawler(BaseCrawler):
             string_table_name=value['CharacterName']['StringTableName']
         )
         if character_name.string_table_name == 'None':
-            character_name.string_table_name = string_table_names[character_name.table_id]
+            character_name.string_table_name = DisplayName.string_table_names[character_name.table_id]
 
         active_pet_passive_effects = []
         for active_pet_passive_effect_json in value['ActivePetPassiveEffects']:

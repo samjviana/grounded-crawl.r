@@ -17,12 +17,9 @@ from .damage_data import DamageData
 from .attack import Attack
 from .attacks_info import AttacksInfo
 from .tool_weapon import ToolWeapon
-<<<<<<< HEAD
 from .item import Item
 from .mutation_tier import MutationTier
 from .mutation import Mutation
-=======
->>>>>>> parent of e97e4f0 (added status effect crawler)
 
 from .ue_object import UEObject
 from .ue_datatable_reference import UEDataTableReference

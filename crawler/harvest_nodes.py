@@ -5,7 +5,6 @@ from pathlib import Path
 from typing import Any
 
 from models import HarvestNode, DisplayName, UEObject
-from util import string_table_names
 from .base_crawler import BaseCrawler
 
 class HarvestNodesCrawler(BaseCrawler):
@@ -32,7 +31,7 @@ class HarvestNodesCrawler(BaseCrawler):
             string_table_name=value['DisplayName']['StringTableName']
         )
         if display_name.string_table_name == 'None':
-            display_name.string_table_name = string_table_names[display_name.table_id]
+            display_name.string_table_name = DisplayName.string_table_names[display_name.table_id]
 
         icon_path = self._get_media_path(value['Icon'])
 

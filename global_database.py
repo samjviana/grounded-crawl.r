@@ -9,7 +9,7 @@ class GlobalDatabase:
     - `status_effects`: `dict[str, StatusEffect]`
         - The status effects data.
     """
-    status_effects: dict[str, StatusEffect] = {}
+    status_effects: dict[str, StatusEffect] = None
 
     def __init__(self):
         pass

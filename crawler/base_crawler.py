@@ -82,6 +82,21 @@ class BaseCrawler:
 
         return crawled_data
 
+    def _get_display_name(self, string_json: dict) -> DisplayName:
+        """
+        This method is responsible for getting the display name.
+        #### Parameters
+        - `string_json` : `dict`
+            - The json data of the string.
+        #### Returns
+        - `DisplayName` : The display name.
+        """
+        return DisplayName(
+            table_id=string_json['StringTableID'],
+            string_id=string_json['StringID'],
+            string_table_name=string_json['StringTableName']
+        )
+
     def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> Any:
         """
         This method is responsible for getting the crawled data.
