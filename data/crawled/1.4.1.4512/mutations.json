@@ -13,7 +13,7 @@
             "string_table_name": "None",
             "text": "Your tiny limbs flail and crash upon foe after foe. With every swing these bitty bones of yours harden and muscles tighten, increasing the damage of further blows.\r\nMastery Bonus: You're able to hit twice with a single punch."
         },
-        "icon_path": "Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Melee.png",
+        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Melee.png",
         "stat": "Stat_Kills_Unarmed",
         "tiers": [
             {
@@ -33,7 +33,7 @@
                             "string_table_name": "None",
                             "text": "Your tiny limbs flail and crash upon foe after foe. With every swing these bitty bones of yours harden and muscles tighten, increasing the damage of further blows.\r\nMastery Bonus: You're able to hit twice with a single punch."
                         },
-                        "icon_path": "Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Unarmed.png",
+                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Unarmed.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
