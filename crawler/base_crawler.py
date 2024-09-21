@@ -31,6 +31,7 @@ class BaseCrawler:
         self.media_path = self.root_path / 'media_data'
         self.hide_unknown_fields = hide_unknown_fields
         self.unknown_field_list = []
+        self.crawled_data = {}
 
         DisplayName.init(self.lang_path)
 
@@ -80,6 +81,8 @@ class BaseCrawler:
 
         self.dispose()
 
+        self.crawled_data = crawled_data
+
         return crawled_data
 
     def _get_display_name(self, string_json: dict) -> DisplayName:
@@ -112,6 +115,7 @@ class BaseCrawler:
         """
         pass
 
+    # TODO: Refactor this function so it can handle index based unknown fields (like the ones in the creature info)
     def _get_unknown_fields(self, value: dict, fields: list[str]) -> dict[str, Any]:
         """
         This method is responsible for getting the unknown fields of the creature.
@@ -132,7 +136,9 @@ class BaseCrawler:
                 keys = field.split('>')
                 first_key = keys[0]
                 second_key = '>'.join(keys[1:])
-                unknown_fields[first_key] = self._get_unknown_fields(value[first_key], [second_key])
+                if first_key not in unknown_fields:
+                    unknown_fields[first_key] = {}
+                unknown_fields[first_key].update(self._get_unknown_fields(value[first_key], [second_key]))
             else:
                 unknown_fields[field] = value[field]
 

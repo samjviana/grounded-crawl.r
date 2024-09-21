@@ -106,6 +106,8 @@ class BestiaryCrawler(BaseCrawler):
                 'quantity': item['Count'],
                 'drop_chance': item['DropChance'],
                 'ignore_luck': item['bIgnoreLuck'],
+                'spawn_type': item['SpawnType'],
+                'location_type': item['LocationType'],
                 'stealable': item['bStealable'],
                 'ngplus_tier': item['RequiredNewGamePlusTier']
             })

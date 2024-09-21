@@ -13,7 +13,7 @@
             "string_table_name": "None",
             "text": "Your tiny limbs flail and crash upon foe after foe. With every swing these bitty bones of yours harden and muscles tighten, increasing the damage of further blows.\r\nMastery Bonus: You're able to hit twice with a single punch."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Melee.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Melee.png",
         "stat": "Stat_Kills_Unarmed",
         "tiers": [
             {
@@ -33,7 +33,7 @@
                             "string_table_name": "None",
                             "text": "Your tiny limbs flail and crash upon foe after foe. With every swing these bitty bones of yours harden and muscles tighten, increasing the damage of further blows.\r\nMastery Bonus: You're able to hit twice with a single punch."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Unarmed.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Unarmed.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -63,7 +63,7 @@
                             "string_table_name": "None",
                             "text": "Your tiny limbs flail and crash upon foe after foe. With every swing these bitty bones of yours harden and muscles tighten, increasing the damage of further blows.\r\nMastery Bonus: You're able to hit twice with a single punch."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Unarmed.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Unarmed.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -93,7 +93,7 @@
                             "string_table_name": "None",
                             "text": "Your tiny limbs flail and crash upon foe after foe. With every swing these bitty bones of yours harden and muscles tighten, increasing the damage of further blows.\r\nMastery Bonus: You're able to hit twice with a single punch."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Unarmed.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Unarmed.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -117,7 +117,7 @@
                             "string_table_name": "None",
                             "text": "Your tiny limbs flail and crash upon foe after foe. With every swing these bitty bones of yours harden and muscles tighten, increasing the damage of further blows.\r\nMastery Bonus: You're able to hit twice with a single punch."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterUnarmed.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterUnarmed.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -146,7 +146,7 @@
             "string_table_name": "None",
             "text": "Fury and bloodlust pump through your arteries, fueling an efficient flow to hacking and chopping muscles. Axes are an extension of your angry little body, rending the armor of your enemies.\r\nMastery Bonus: Axe attacks apply a buff to you that removes the stamina regen delay when not exhausted."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Chopper.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Chopper.png",
         "stat": "Stat_Kills_Axe",
         "tiers": [
             {
@@ -166,7 +166,7 @@
                             "string_table_name": "None",
                             "text": "Fury and bloodlust pump through your arteries, fueling an efficient flow to hacking and chopping muscles. Axes are an extension of your angry little body, rending the armor of your enemies.\r\nMastery Bonus: Axe attacks apply a buff to you that removes the stamina regen delay when not exhausted."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Chop.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Chop.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -196,7 +196,7 @@
                             "string_table_name": "None",
                             "text": "Fury and bloodlust pump through your arteries, fueling an efficient flow to hacking and chopping muscles. Axes are an extension of your angry little body, rending the armor of your enemies.\r\nMastery Bonus: Axe attacks apply a buff to you that removes the stamina regen delay when not exhausted."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Chop.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Chop.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -226,7 +226,7 @@
                             "string_table_name": "None",
                             "text": "Fury and bloodlust pump through your arteries, fueling an efficient flow to hacking and chopping muscles. Axes are an extension of your angry little body, rending the armor of your enemies.\r\nMastery Bonus: Axe attacks apply a buff to you that removes the stamina regen delay when not exhausted."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Chop.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Chop.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -250,7 +250,7 @@
                             "string_table_name": "None",
                             "text": "Fury and bloodlust pump through your arteries, fueling an efficient flow to hacking and chopping muscles. Axes are an extension of your angry little body, rending the armor of your enemies.\r\nMastery Bonus: Axe attacks apply a buff to you that removes the stamina regen delay when not exhausted."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterChop.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterChop.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -279,7 +279,7 @@
             "string_table_name": "None",
             "text": "Heavy strokes of power flood your little limbs to bring hammers down with unmatched force and intensity. Your hammer attacks slow the attack speed of your enemies.\r\nMastery Bonus: Hammer attacks stun much easier."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Buster.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Buster.png",
         "stat": "Stat_Kills_Hammer",
         "tiers": [
             {
@@ -299,7 +299,7 @@
                             "string_table_name": "None",
                             "text": "Heavy strokes of power flood your little limbs to bring hammers down with unmatched force and intensity. Your hammer attacks slow the attack speed of your enemies.\r\nMastery Bonus: Hammer attacks stun much easier."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Hammer.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Hammer.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -329,7 +329,7 @@
                             "string_table_name": "None",
                             "text": "Heavy strokes of power flood your little limbs to bring hammers down with unmatched force and intensity. Your hammer attacks slow the attack speed of your enemies.\r\nMastery Bonus: Hammer attacks stun much easier."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Hammer.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Hammer.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -359,7 +359,7 @@
                             "string_table_name": "None",
                             "text": "Heavy strokes of power flood your little limbs to bring hammers down with unmatched force and intensity. Your hammer attacks slow the attack speed of your enemies.\r\nMastery Bonus: Hammer attacks stun much easier."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Hammer.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Hammer.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -383,7 +383,7 @@
                             "string_table_name": "None",
                             "text": "Heavy strokes of power flood your little limbs to bring hammers down with unmatched force and intensity. Your hammer attacks slow the attack speed of your enemies.\r\nMastery Bonus: Hammer attacks stun much easier."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterHammer.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterHammer.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -412,7 +412,7 @@
             "string_table_name": "None",
             "text": "Range is your greatest ally as you reach or throw from afar. Spears deal additional damage when thrown, and you're able to counter poke enemy attacks to reflect a portion of damage back.\r\nMastery Bonus: Charge attacks with spears deal additional damage."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Spear.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Spear.png",
         "stat": "Stat_Kills_Spear",
         "tiers": [
             {
@@ -432,7 +432,7 @@
                             "string_table_name": "None",
                             "text": "Range is your greatest ally as you reach or throw from afar. Spears deal additional damage when thrown, and you're able to counter poke enemy attacks to reflect a portion of damage back.\r\nMastery Bonus: Charge attacks with spears deal additional damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Spear.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Spear.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -456,7 +456,7 @@
                             "string_table_name": "None",
                             "text": "Attacks with a spear deal more damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackDmg.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackDmg.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.1,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -486,7 +486,7 @@
                             "string_table_name": "None",
                             "text": "Range is your greatest ally as you reach or throw from afar. Spears deal additional damage when thrown, and you're able to counter poke enemy attacks to reflect a portion of damage back.\r\nMastery Bonus: Charge attacks with spears deal additional damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Spear.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Spear.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -510,7 +510,7 @@
                             "string_table_name": "None",
                             "text": "Attacks with a spear deal more damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackDmg.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackDmg.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -540,7 +540,7 @@
                             "string_table_name": "None",
                             "text": "Range is your greatest ally as you reach or throw from afar. Spears deal additional damage when thrown, and you're able to counter poke enemy attacks to reflect a portion of damage back.\r\nMastery Bonus: Charge attacks with spears deal additional damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Spear.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Spear.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -564,7 +564,7 @@
                             "string_table_name": "None",
                             "text": "Attacks with a spear deal more damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackDmg.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackDmg.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.3,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -588,7 +588,7 @@
                             "string_table_name": "None",
                             "text": "Range is your greatest ally as you reach or throw from afar. Spears deal additional damage when thrown, and you're able to counter poke enemy attacks to reflect a portion of damage back.\r\nMastery Bonus: Charge attacks with spears deal additional damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterSpear.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterSpear.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.3,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -617,7 +617,7 @@
             "string_table_name": "None",
             "text": "Small blades blur in your hands as you swing them with absolute precision. Daggers are your weapon of choice and cause your enemies to bleed.\r\nMastery Bonus: Attacks with daggers rip open new opportunities, increasing damage enemies take from bleed effects."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Dagger.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Dagger.png",
         "stat": "Stat_Kills_Dagger",
         "tiers": [
             {
@@ -637,7 +637,7 @@
                             "string_table_name": "None",
                             "text": "Small blades blur in your hands as you swing them with absolute precision. Daggers are your weapon of choice and cause your enemies to bleed.\r\nMastery Bonus: Attacks with daggers rip open new opportunities, increasing damage enemies take from bleed effects."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Dagger.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Dagger.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -667,7 +667,7 @@
                             "string_table_name": "None",
                             "text": "Small blades blur in your hands as you swing them with absolute precision. Daggers are your weapon of choice and cause your enemies to bleed.\r\nMastery Bonus: Attacks with daggers rip open new opportunities, increasing damage enemies take from bleed effects."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Dagger.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Dagger.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -697,7 +697,7 @@
                             "string_table_name": "None",
                             "text": "Small blades blur in your hands as you swing them with absolute precision. Daggers are your weapon of choice and cause your enemies to bleed.\r\nMastery Bonus: Attacks with daggers rip open new opportunities, increasing damage enemies take from bleed effects."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Dagger.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Dagger.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -721,7 +721,7 @@
                             "string_table_name": "None",
                             "text": "Small blades blur in your hands as you swing them with absolute precision. Daggers are your weapon of choice and cause your enemies to bleed.\r\nMastery Bonus: Attacks with daggers rip open new opportunities, increasing damage enemies take from bleed effects."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterDagger.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterDagger.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -750,7 +750,7 @@
             "string_table_name": "None",
             "text": "A film crawls across the surface of your eyes, allowing you to focus with deadly clarity. Bows and Crossbows have increased critical hit chance.\r\nMastery Bonus: Candy arrows unlock their special properties. Spicy burns, fresh slows, and sour stuns."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Archer.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Archer.png",
         "stat": "Stat_Kills_Bow",
         "tiers": [
             {
@@ -770,7 +770,7 @@
                             "string_table_name": "None",
                             "text": "A film crawls across the surface of your eyes, allowing you to focus with deadly clarity. Bows and Crossbows have increased critical hit chance.\r\nMastery Bonus: Candy arrows unlock their special properties. Spicy burns, fresh slows, and sour stuns."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Bow.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Bow.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.1,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -800,7 +800,7 @@
                             "string_table_name": "None",
                             "text": "A film crawls across the surface of your eyes, allowing you to focus with deadly clarity. Bows and Crossbows have increased critical hit chance.\r\nMastery Bonus: Candy arrows unlock their special properties. Spicy burns, fresh slows, and sour stuns."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Bow.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Bow.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.15,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -830,7 +830,7 @@
                             "string_table_name": "None",
                             "text": "A film crawls across the surface of your eyes, allowing you to focus with deadly clarity. Bows and Crossbows have increased critical hit chance.\r\nMastery Bonus: Candy arrows unlock their special properties. Spicy burns, fresh slows, and sour stuns."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Bow.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Bow.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -854,7 +854,7 @@
                             "string_table_name": "None",
                             "text": "A film crawls across the surface of your eyes, allowing you to focus with deadly clarity. Bows and Crossbows have increased critical hit chance.\r\nMastery Bonus: Candy arrows unlock their special properties. Spicy burns, fresh slows, and sour stuns."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterBow.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterBow.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -878,7 +878,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stun.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stun.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -902,7 +902,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stun.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stun.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -926,7 +926,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stun.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stun.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -955,7 +955,7 @@
             "string_table_name": "None",
             "text": "Strong and reckless, you pride yourself in using the biggest weapons possible. Your muscular arms have no problems swinging clubs with great force and blind rage. You deal largely increased damage while raged but cannot time your blocks correctly.\r\nMastery Bonus: Constantly regenerate health while enraged."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Barbarian.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Barbarian.png",
         "stat": "Stat_Kills_Club",
         "tiers": [
             {
@@ -975,7 +975,7 @@
                             "string_table_name": "None",
                             "text": "Strong and reckless, you pride yourself in using the biggest weapons possible. Your muscular arms have no problems swinging clubs with great force and blind rage. You deal largely increased damage while raged but cannot time your blocks correctly.\r\nMastery Bonus: Constantly regenerate health while enraged."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Club.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Club.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1005,7 +1005,7 @@
                             "string_table_name": "None",
                             "text": "Strong and reckless, you pride yourself in using the biggest weapons possible. Your muscular arms have no problems swinging clubs with great force and blind rage. You deal largely increased damage while raged but cannot time your blocks correctly.\r\nMastery Bonus: Constantly regenerate health while enraged."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Club.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Club.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1035,7 +1035,7 @@
                             "string_table_name": "None",
                             "text": "Strong and reckless, you pride yourself in using the biggest weapons possible. Your muscular arms have no problems swinging clubs with great force and blind rage. You deal largely increased damage while raged but cannot time your blocks correctly.\r\nMastery Bonus: Constantly regenerate health while enraged."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Club.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Club.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1059,7 +1059,7 @@
                             "string_table_name": "None",
                             "text": "Strong and reckless, you pride yourself in using the biggest weapons possible. Your muscular arms have no problems swinging clubs with great force and blind rage. You deal largely increased damage while raged but cannot time your blocks correctly.\r\nMastery Bonus: Constantly regenerate health while enraged."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterClub.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterClub.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1088,7 +1088,7 @@
             "string_table_name": "None",
             "text": "Honing the art of the blade, your keen mind knows exactly where to slice enemies to reduce their effectiveness. Sword attacks lower the damage enemies deal.\r\nMastery Bonus: Attacking creatures with a sword temporarily removes your exhaustion timer."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Blade.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Blade.png",
         "stat": "Stat_Kills_Sword",
         "tiers": [
             {
@@ -1108,7 +1108,7 @@
                             "string_table_name": "None",
                             "text": "Honing the art of the blade, your keen mind knows exactly where to slice enemies to reduce their effectiveness. Sword attacks lower the damage enemies deal.\r\nMastery Bonus: Attacking creatures with a sword temporarily removes your exhaustion timer."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Blade.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Blade.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1138,7 +1138,7 @@
                             "string_table_name": "None",
                             "text": "Honing the art of the blade, your keen mind knows exactly where to slice enemies to reduce their effectiveness. Sword attacks lower the damage enemies deal.\r\nMastery Bonus: Attacking creatures with a sword temporarily removes your exhaustion timer."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Blade.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Blade.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1168,7 +1168,7 @@
                             "string_table_name": "None",
                             "text": "Honing the art of the blade, your keen mind knows exactly where to slice enemies to reduce their effectiveness. Sword attacks lower the damage enemies deal.\r\nMastery Bonus: Attacking creatures with a sword temporarily removes your exhaustion timer."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Blade.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Blade.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1192,7 +1192,7 @@
                             "string_table_name": "None",
                             "text": "Honing the art of the blade, your keen mind knows exactly where to slice enemies to reduce their effectiveness. Sword attacks lower the damage enemies deal.\r\nMastery Bonus: Attacking creatures with a sword temporarily removes your exhaustion timer."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterBlade.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterBlade.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1221,7 +1221,7 @@
             "string_table_name": "None",
             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
         "stat": "Stat_Kills_Staff",
         "tiers": [
             {
@@ -1241,7 +1241,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Staff.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Staff.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1265,7 +1265,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stave_Mint.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stave_Mint.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1289,7 +1289,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1313,7 +1313,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1343,7 +1343,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Staff.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Staff.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1367,7 +1367,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1391,7 +1391,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1415,7 +1415,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1445,7 +1445,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Staff.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Staff.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1469,7 +1469,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1493,7 +1493,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1517,7 +1517,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::ApplyAttackEffect",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1541,7 +1541,7 @@
                             "string_table_name": "None",
                             "text": "Mastering sufficiently advanced culinary technology, the apparent magic within candy staves is unlocked. Different damage types apply unique status effects to creatures. Spiciness burns, mintiness slows, and sourness stuns.\r\nMastery Bonus: Attacking with a staff reduces the stamina cost of additional staff attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterStave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MasterStave.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1570,7 +1570,7 @@
             "string_table_name": "None",
             "text": "Your impeccable timing gives you an extreme advantage when blocking attacks."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Parry.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Parry.png",
         "stat": "Stat_Perfect_Blocks_Total",
         "tiers": [
             {
@@ -1590,7 +1590,7 @@
                             "string_table_name": "None",
                             "text": "Your impeccable timing gives you an extreme advantage when blocking attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Parry.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Parry.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1620,7 +1620,7 @@
                             "string_table_name": "None",
                             "text": "Your impeccable timing gives you an extreme advantage when blocking attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Parry.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Parry.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1650,7 +1650,7 @@
                             "string_table_name": "None",
                             "text": "Your impeccable timing gives you an extreme advantage when blocking attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Parry.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Perk_Parry.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1679,7 +1679,7 @@
             "string_table_name": "None",
             "text": "Your size to meat ratio is off the charts and you take hits like a champ."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Meat.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Meat.png",
         "stat": null,
         "tiers": [
             {
@@ -1699,7 +1699,7 @@
                             "string_table_name": "None",
                             "text": "More max health."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MaxHealth.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MaxHealth.png",
                         "effect_type": "EStatusEffectType::MaxHealth",
                         "value": 50.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1728,7 +1728,7 @@
             "string_table_name": "None",
             "text": "You inhale and your cells burn bright with an enhanced energy capacity."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_StaminaBuff.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_StaminaBuff.png",
         "stat": null,
         "tiers": [
             {
@@ -1748,7 +1748,7 @@
                             "string_table_name": "None",
                             "text": "More max stamina."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MaxStamina.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MaxStamina.png",
                         "effect_type": "EStatusEffectType::MaxStamina",
                         "value": 50.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1777,7 +1777,7 @@
             "string_table_name": "None",
             "text": "Powered by a perpetual flow of adrenaline as you skitter and leap through the yard, risk assessment has no place in your moment to moment thoughts. Repeated trial and error lets you take leaps of faith with confidence."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Daredevil.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Daredevil.png",
         "stat": null,
         "tiers": [
             {
@@ -1797,7 +1797,7 @@
                             "string_table_name": "None",
                             "text": "Decreases fall damage taken."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_FallDamage.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_FallDamage.png",
                         "effect_type": "EStatusEffectType::FallDamage",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1826,7 +1826,7 @@
             "string_table_name": "None",
             "text": "Like an insatiable lumberjack you're becoming a living lawn mower. Your intimate knowledge of chopping grass allows you to topple them with increasing ease."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Chop.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Chop.png",
         "stat": "Stat_Harvest_Grass",
         "tiers": [
             {
@@ -1846,7 +1846,7 @@
                             "string_table_name": "None",
                             "text": "Cut down grass in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Chop.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Chop.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1870,7 +1870,7 @@
                             "string_table_name": "None",
                             "text": "Cut down grass in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackStamina.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackStamina.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1900,7 +1900,7 @@
                             "string_table_name": "None",
                             "text": "Cut down grass in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Chop.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Chop.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1924,7 +1924,7 @@
                             "string_table_name": "None",
                             "text": "Cut down grass in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackStamina.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackStamina.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1954,7 +1954,7 @@
                             "string_table_name": "None",
                             "text": "Cut down grass in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Chop.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Chop.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 2.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -1978,7 +1978,7 @@
                             "string_table_name": "None",
                             "text": "Cut down grass in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackStamina.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AttackStamina.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2007,7 +2007,7 @@
             "string_table_name": "None",
             "text": "A path of destruction is left in your wake and it's clear that busting makes you feel good. Your little arms bring hammers down with an ever-growing efficiency."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Busting.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Busting.png",
         "stat": "Stat_Harvest_Rock",
         "tiers": [
             {
@@ -2027,7 +2027,7 @@
                             "string_table_name": "None",
                             "text": "Bust open pebbles in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Bust.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Bust.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2057,7 +2057,7 @@
                             "string_table_name": "None",
                             "text": "Bust open pebbles in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Bust.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Bust.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2087,7 +2087,7 @@
                             "string_table_name": "None",
                             "text": "Bust open pebbles in fewer hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Bust.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Faster_Bust.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 2.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2116,7 +2116,7 @@
             "string_table_name": "None",
             "text": "A compelling urge to construct grand and intricate edifices has honed your back and shoulder muscles to perfection. Now, you possess the strength to bear a remarkable load of haulable treasures."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Hauling.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Hauling.png",
         "stat": "Stat_Coziness",
         "tiers": [
             {
@@ -2136,7 +2136,7 @@
                             "string_table_name": "None",
                             "text": "Haul more Items."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Hauling.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Hauling.png",
                         "effect_type": "EStatusEffectType::MaxHauling",
                         "value": 5.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2166,7 +2166,7 @@
                             "string_table_name": "None",
                             "text": "Haul more Items."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Hauling.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Hauling.png",
                         "effect_type": "EStatusEffectType::MaxHauling",
                         "value": 10.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2196,7 +2196,7 @@
                             "string_table_name": "None",
                             "text": "Haul more Items."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Hauling.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Hauling.png",
                         "effect_type": "EStatusEffectType::MaxHauling",
                         "value": 15.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2225,7 +2225,7 @@
             "string_table_name": "None",
             "text": "Discovering a beacon of hope in the darkness lifts your will to survive. Bursts of inspiration flash before your eyes in the heat of battle as you land blows one can only describe as lucky."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Clover.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Clover.png",
         "stat": "Stat_Lucky_Finds",
         "tiers": [
             {
@@ -2245,7 +2245,7 @@
                             "string_table_name": "None",
                             "text": "Attacks gain a chance to deal massive bonus damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_CritChance.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_CritChance.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.025,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2275,7 +2275,7 @@
                             "string_table_name": "None",
                             "text": "Attacks gain a chance to deal massive bonus damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_CritChance.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_CritChance.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.05,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2304,7 +2304,7 @@
             "string_table_name": "None",
             "text": "Skills as a keen gatherer meld with your hunting prowess. Deep knowledge of the yard's creatures etched into your memory gives you a chance to perform powerful critical hits."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Golden.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Golden.png",
         "stat": "Stat_Pickup_GoldCard",
         "tiers": [
             {
@@ -2324,7 +2324,7 @@
                             "string_table_name": "None",
                             "text": "Increases the damage multiplier of critical hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_YokedBlows.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_YokedBlows.png",
                         "effect_type": "EStatusEffectType::CriticalDamage",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2354,7 +2354,7 @@
                             "string_table_name": "None",
                             "text": "Increases the damage multiplier of critical hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_YokedBlows.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_YokedBlows.png",
                         "effect_type": "EStatusEffectType::CriticalDamage",
                         "value": 0.4,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2384,7 +2384,7 @@
                             "string_table_name": "None",
                             "text": "Increases the damage multiplier of critical hits."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_YokedBlows.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_YokedBlows.png",
                         "effect_type": "EStatusEffectType::CriticalDamage",
                         "value": 0.6,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2413,7 +2413,7 @@
             "string_table_name": "None",
             "text": "A masterful grasp of your adversaries' intricate anatomy empowers you to effortlessly harvest their rare and elusive resources."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Dissection.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Dissection.png",
         "stat": null,
         "tiers": [
             {
@@ -2433,7 +2433,7 @@
                             "string_table_name": "None",
                             "text": "More likely to obtain rare resources from creatures."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_LootLuck.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_LootLuck.png",
                         "effect_type": "EStatusEffectType::Luck",
                         "value": 0.1,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2462,7 +2462,7 @@
             "string_table_name": "None",
             "text": "A desire to take things that don't belong to you seeps into your fighting style. Attacks with melee weapons have a chance to steal items from your opponents."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Rascal.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Rascal.png",
         "stat": "Stat_Pickup_Statue",
         "tiers": [
             {
@@ -2482,7 +2482,7 @@
                             "string_table_name": "None",
                             "text": "Attacking creatures in melee grants a small chance to steal resources that they can drop. Stacking multiple sources of this effect allows you to steal additional items."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Steal.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Steal.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.02,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2512,7 +2512,7 @@
                             "string_table_name": "None",
                             "text": "Attacking creatures in melee grants a small chance to steal resources that they can drop. Stacking multiple sources of this effect allows you to steal additional items."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Steal.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Steal.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.05,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2542,7 +2542,7 @@
                             "string_table_name": "None",
                             "text": "Attacking creatures in melee grants a small chance to steal resources that they can drop. Stacking multiple sources of this effect allows you to steal additional items."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Steal.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Steal.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.1,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2571,7 +2571,7 @@
             "string_table_name": "None",
             "text": "Like a true bookworm, you can't resist a wall of text. A encyclopedic knowledge of beverage ingredients enriches you."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Juicy.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Juicy.png",
         "stat": "Stat_Discover_JuiceBox",
         "tiers": [
             {
@@ -2591,7 +2591,7 @@
                             "string_table_name": "None",
                             "text": "You're absorbent and porous and retain water very well."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_WaterRate.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_WaterRate.png",
                         "effect_type": "EStatusEffectType::ThirstRate",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2622,7 +2622,7 @@
             "string_table_name": "None",
             "text": "Tendrils of your memory map every bump, crack, and path between each new landmark found until the lawn becomes as familiar as the back of your hand. Powered by intuition, your tiny feet skitter through the muck and weeds ever quicker."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Movement.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Movement.png",
         "stat": "Stat_Discover_AllPOI",
         "tiers": [
             {
@@ -2642,7 +2642,7 @@
                             "string_table_name": "None",
                             "text": "Run faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MoveUp.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MoveUp.png",
                         "effect_type": "EStatusEffectType::MoveSpeed",
                         "value": 1.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2666,7 +2666,7 @@
                             "string_table_name": "None",
                             "text": "Run slower."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MoveDown.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MoveDown.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2696,7 +2696,7 @@
                             "string_table_name": "None",
                             "text": "Run faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MoveUp.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MoveUp.png",
                         "effect_type": "EStatusEffectType::MoveSpeed",
                         "value": 1.35,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2720,7 +2720,7 @@
                             "string_table_name": "None",
                             "text": "Run slower."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Watched.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Watched.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2750,7 +2750,7 @@
                             "string_table_name": "None",
                             "text": "Run faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MoveUp.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MoveUp.png",
                         "effect_type": "EStatusEffectType::MoveSpeed",
                         "value": 1.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2774,7 +2774,7 @@
                             "string_table_name": "None",
                             "text": "Run slower."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Watched.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Watched.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2803,7 +2803,7 @@
             "string_table_name": "None",
             "text": "The push and pull of thick, rich pond water coaxes your gummy little body into becoming a part of this world. Your permeable skin begins to utilize an electrochemical gradient that propels your limbs like mighty flagella and aids in respiration."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Merteen.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Merteen.png",
         "stat": "Stat_Discover_Pond",
         "tiers": [
             {
@@ -2823,7 +2823,7 @@
                             "string_table_name": "None",
                             "text": "Swim faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Swim.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Swim.png",
                         "effect_type": "EStatusEffectType::SwimSpeed",
                         "value": 1.15,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2847,7 +2847,7 @@
                             "string_table_name": "None",
                             "text": "Hold more breath."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MaxBreath.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MaxBreath.png",
                         "effect_type": "EStatusEffectType::WaterBreathingRate",
                         "value": 0.9,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2876,7 +2876,7 @@
             "string_table_name": "None",
             "text": "Exhausting your tiny body over and over again, your cells adopt a more efficient respiration process."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Cardio.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Cardio.png",
         "stat": "Stat_Depletion_Stamina",
         "tiers": [
             {
@@ -2896,7 +2896,7 @@
                             "string_table_name": "None",
                             "text": "Regain stamina faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StaminaRegen.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StaminaRegen.png",
                         "effect_type": "EStatusEffectType::StaminaRegenRate",
                         "value": 1.15,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2920,7 +2920,7 @@
                             "string_table_name": "None",
                             "text": "Lowers the amount of time you spend exhausted after using all of your stamina."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stamina.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stamina.png",
                         "effect_type": "EStatusEffectType::ExhaustionTimeMultiplier",
                         "value": 0.9,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2950,7 +2950,7 @@
                             "string_table_name": "None",
                             "text": "Regain stamina faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StaminaRegen.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StaminaRegen.png",
                         "effect_type": "EStatusEffectType::StaminaRegenRate",
                         "value": 1.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -2974,7 +2974,7 @@
                             "string_table_name": "None",
                             "text": "Lowers the amount of time you spend exhausted after using all of your stamina."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stamina.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stamina.png",
                         "effect_type": "EStatusEffectType::ExhaustionTimeMultiplier",
                         "value": 0.8,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3004,7 +3004,7 @@
                             "string_table_name": "None",
                             "text": "Regain stamina faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StaminaRegen.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StaminaRegen.png",
                         "effect_type": "EStatusEffectType::StaminaRegenRate",
                         "value": 1.3,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3028,7 +3028,7 @@
                             "string_table_name": "None",
                             "text": "Lowers the amount of time you spend exhausted after using all of your stamina."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stamina.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Stamina.png",
                         "effect_type": "EStatusEffectType::ExhaustionTimeMultiplier",
                         "value": 0.7,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3057,7 +3057,7 @@
             "string_table_name": "None",
             "text": "Life in the lawn is filled with narrow escapes and you've been right there for all of it. Your muscle memory, mixed with hope and determination, makes a harrowing rescue all the more probable.\r\n"
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Rez.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Rez.png",
         "stat": "Stat_Multiplayer_Revives",
         "tiers": [
             {
@@ -3077,7 +3077,7 @@
                             "string_table_name": "None",
                             "text": "Revive your downed friends faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_TeamChange.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_TeamChange.png",
                         "effect_type": "EStatusEffectType::ReviveTime",
                         "value": 0.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3107,7 +3107,7 @@
                             "string_table_name": "None",
                             "text": "Revive your downed friends faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_TeamChange.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_TeamChange.png",
                         "effect_type": "EStatusEffectType::ReviveTime",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3137,7 +3137,7 @@
                             "string_table_name": "None",
                             "text": "Revive your downed friends faster."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_TeamChange.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_TeamChange.png",
                         "effect_type": "EStatusEffectType::ReviveTime",
                         "value": 0.25,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3166,7 +3166,7 @@
             "string_table_name": "None",
             "text": "A plume of mint dust envelopes you and sends a cool wave rippling through your skin. Cells activate a freshness layer to combat the sting of all that stinks and burns."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Fresh.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Fresh.png",
         "stat": "Stat_Use_Item_Mint",
         "tiers": [
             {
@@ -3186,7 +3186,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GasResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GasResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3210,7 +3210,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BurnResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BurnResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3234,7 +3234,7 @@
                             "string_table_name": "None",
                             "text": "Slows the rate at which The Sizzle boils your insides."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Sizzle.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Sizzle.png",
                         "effect_type": "EStatusEffectType::SizzleRateMultiplier",
                         "value": 0.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3264,7 +3264,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GasResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GasResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3288,7 +3288,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BurnResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BurnResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3312,7 +3312,7 @@
                             "string_table_name": "None",
                             "text": "Slows the rate at which The Sizzle boils your insides."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Sizzle.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Sizzle.png",
                         "effect_type": "EStatusEffectType::SizzleRateMultiplier",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3342,7 +3342,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GasResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GasResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3366,7 +3366,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BurnResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BurnResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3390,7 +3390,7 @@
                             "string_table_name": "None",
                             "text": "Slows the rate at which The Sizzle boils your insides."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Sizzle.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Sizzle.png",
                         "effect_type": "EStatusEffectType::SizzleRateMultiplier",
                         "value": 0.25,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3419,7 +3419,7 @@
             "string_table_name": "None",
             "text": "Spicy sediment seeps inside your bloodstream. The fiery wall protects from all that stabs and smashes."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Spicy.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Spicy.png",
         "stat": "Stat_Use_Item_SpicyCandy",
         "tiers": [
             {
@@ -3439,7 +3439,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BustResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BustResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3463,7 +3463,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StabResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StabResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3493,7 +3493,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BustResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BustResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3517,7 +3517,7 @@
                             "string_table_name": "None",
                             "text": "Increases your resistance to taking damage."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StabResist.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_StabResist.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3546,7 +3546,7 @@
             "string_table_name": "None",
             "text": "Electrifying sour sensations have pushed your taste receptors to their limits, igniting a cascade of static shocks that fiercely strike back at your adversaries."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Sour.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Sour.png",
         "stat": "Stat_Use_Item_SourCandy",
         "tiers": [
             {
@@ -3566,7 +3566,7 @@
                             "string_table_name": "None",
                             "text": "Reflects some damage back at attacker."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Thorn.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Thorn.png",
                         "effect_type": "EStatusEffectType::ReflectDamage",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3596,7 +3596,7 @@
                             "string_table_name": "None",
                             "text": "Reflects some damage back at attacker."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Thorn.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Thorn.png",
                         "effect_type": "EStatusEffectType::ReflectDamage",
                         "value": 1.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3626,7 +3626,7 @@
                             "string_table_name": "None",
                             "text": "Reflects some damage back at attacker."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Thorn.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Thorn.png",
                         "effect_type": "EStatusEffectType::ReflectDamage",
                         "value": 1.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3655,7 +3655,7 @@
             "string_table_name": "None",
             "text": "The ant has become a familiar threat, and you begin to know your enemy inside and out. Death and devastation greet all ants that face you."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Assassin.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Assassin.png",
         "stat": "Stat_Kills_Ant",
         "tiers": [
             {
@@ -3675,7 +3675,7 @@
                             "string_table_name": "None",
                             "text": "Increases damage against ants."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AntDmg.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AntDmg.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.05,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3705,7 +3705,7 @@
                             "string_table_name": "None",
                             "text": "Increases damage against ants."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AntDmg.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AntDmg.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.15,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3735,7 +3735,7 @@
                             "string_table_name": "None",
                             "text": "Increases defense against ants."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AntDef.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AntDef.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.9,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3759,7 +3759,7 @@
                             "string_table_name": "None",
                             "text": "Increases damage against ants."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AntDmg.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_AntDmg.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.25,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3788,7 +3788,7 @@
             "string_table_name": "None",
             "text": "Your vocal chords stretch to form spiderling summoning motherly cries."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_MomGenes.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_MomGenes.png",
         "stat": "Stats_Party_Kills_Broodmother",
         "tiers": [
             {
@@ -3808,7 +3808,7 @@
                             "string_table_name": "None",
                             "text": "Your vocal chords stretch to form spiderling summoning motherly cries."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\GlobalImage\\T_UI_Spider2.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\GlobalImage\\T_UI_Spider2.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.1,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3832,7 +3832,7 @@
                             "string_table_name": "None",
                             "text": "Increases the amount of damage of all poison effects caused by you."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_ApplyPoison.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_ApplyPoison.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3861,7 +3861,7 @@
             "string_table_name": "None",
             "text": "Your body has been ravaged by the thrilling surge of poison coursing through so many times that it has built up a permanent resistance."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Mithrisomething.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Mithrisomething.png",
         "stat": "Stat_Kills_Spider_Wolf",
         "tiers": [
             {
@@ -3881,7 +3881,7 @@
                             "string_table_name": "None",
                             "text": "Reduces damage taken from poison based effects."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_PoisonUp.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_PoisonUp.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.75,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3911,7 +3911,7 @@
                             "string_table_name": "None",
                             "text": "Reduces damage taken from poison based effects."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_PoisonUp.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_PoisonUp.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3941,7 +3941,7 @@
                             "string_table_name": "None",
                             "text": "Reduces damage taken from poison based effects."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_PoisonUp.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_PoisonUp.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.25,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -3970,7 +3970,7 @@
             "string_table_name": "None",
             "text": "The fungus of the haze has seeped in to your tiny being, lending its power to your unarmed attacks."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Truffle.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Truffle.png",
         "stat": "Stats_Party_Kills_InfectedLadybugLab",
         "tiers": [
             {
@@ -3990,7 +3990,7 @@
                             "string_table_name": "None",
                             "text": "The fungus of the haze has seeped in to your tiny being, lending its power to your unarmed attacks."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_TruffleTussle.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_TruffleTussle.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.1,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4019,7 +4019,7 @@
             "string_table_name": "None",
             "text": "You feel as though an unlikely ally is always looking out for you."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Stranger.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Stranger.png",
         "stat": "Stat_Party_Mant_Kills",
         "tiers": [
             {
@@ -4039,7 +4039,7 @@
                             "string_table_name": "None",
                             "text": "You feel as though an unlikely ally is always looking out for you."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MysteryMant.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_MysteryMant.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.02,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4068,7 +4068,7 @@
             "string_table_name": "None",
             "text": "You've become the strongest creature in the backyard, and are able to bring out the hidden strength in weapons made from bosses."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
         "stat": "Stat_Party_Mantis_Kills",
         "tiers": [
             {
@@ -4088,7 +4088,7 @@
                             "string_table_name": "None",
                             "text": "You've become the strongest creature in the backyard, and are able to bring out the hidden strength in weapons made from bosses."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_ApexPred.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_ApexPred.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4112,7 +4112,7 @@
                             "string_table_name": "None",
                             "text": "You've become the strongest creature in the backyard, and are able to bring out the hidden strength in weapons made from bosses."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4136,7 +4136,7 @@
                             "string_table_name": "None",
                             "text": "You've become the strongest creature in the backyard, and are able to bring out the hidden strength in weapons made from bosses."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4160,7 +4160,7 @@
                             "string_table_name": "None",
                             "text": "You've become the strongest creature in the backyard, and are able to bring out the hidden strength in weapons made from bosses."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4184,7 +4184,7 @@
                             "string_table_name": "None",
                             "text": "You've become the strongest creature in the backyard, and are able to bring out the hidden strength in weapons made from bosses."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Apex.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4213,7 +4213,7 @@
             "string_table_name": "None",
             "text": "Retaliate against the weak. Blocking enemy attacks enables your own attacks to steal health."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Corporate.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Corporate.png",
         "stat": "Stat_Party_Schmector_Kills",
         "tiers": [
             {
@@ -4233,7 +4233,7 @@
                             "string_table_name": "None",
                             "text": "Retaliate against the weak. Blocking enemy attacks enables your own attacks to steal health."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Kickback.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Kickback.png",
                         "effect_type": "EStatusEffectType::ApplyBlockEffectSelf",
                         "value": 0.05,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4262,7 +4262,7 @@
             "string_table_name": "None",
             "text": "Fits of anger become fierce retaliation. Blocked attacks convert their energy to static electricity, occasionally unleashing a powerful burst."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Shocking.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_Mut_Shocking.png",
         "stat": "Stat_Party_AssistantManager_Kills",
         "tiers": [
             {
@@ -4282,7 +4282,7 @@
                             "string_table_name": "None",
                             "text": "Fits of anger become fierce retaliation. Blocked attacks convert their energy to static electricity, occasionally unleashing a powerful burst."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_ShockingDismissal.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_ShockingDismissal.png",
                         "effect_type": "EStatusEffectType::ApplyBlockEffectSelf",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4311,7 +4311,7 @@
             "string_table_name": "None",
             "text": "The twing of your bow string mimics that of a harp empowering your allies as you shoot."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Bardic.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Bardic.png",
         "stat": "Stat_Party_WaspQueen_Kills",
         "tiers": [
             {
@@ -4331,7 +4331,7 @@
                             "string_table_name": "None",
                             "text": "The twing of your bow string mimics that of a harp empowering your allies as you shoot."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BardicInspo.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_BardicInspo.png",
                         "effect_type": "EStatusEffectType::CriticalHitChance",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4355,7 +4355,7 @@
                             "string_table_name": "None",
                             "text": "The twing of your bow string mimics that of a harp empowering your allies as you shoot."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4379,7 +4379,7 @@
                             "string_table_name": "None",
                             "text": "The twing of your bow string mimics that of a harp empowering your allies as you shoot."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4403,7 +4403,7 @@
                             "string_table_name": "None",
                             "text": "The twing of your bow string mimics that of a harp empowering your allies as you shoot."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.2,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4427,7 +4427,7 @@
                             "string_table_name": "None",
                             "text": "The twing of your bow string mimics that of a harp empowering your allies as you shoot."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Stave.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4456,7 +4456,7 @@
             "string_table_name": "None",
             "text": "Guarding locations against mobs of angry creatures has awakened your protective instincts. Deal increased damage to creatures involved in defense events."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_GuardDog.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_GuardDog.png",
         "stat": "Stat_Defense_Points_Completed",
         "tiers": [
             {
@@ -4476,7 +4476,7 @@
                             "string_table_name": "None",
                             "text": "Increases damage dealt to creatures that are attacking your turf."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GuardDog.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GuardDog.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.1,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4506,7 +4506,7 @@
                             "string_table_name": "None",
                             "text": "Increases damage dealt to creatures that are attacking your turf."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GuardDog.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GuardDog.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.25,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4536,7 +4536,7 @@
                             "string_table_name": "None",
                             "text": "Increases damage dealt to creatures that are attacking your turf."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GuardDog.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_GuardDog.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 1.5,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4565,7 +4565,7 @@
             "string_table_name": "None",
             "text": "Toppling the mother of infection has granted you domain over all things fungal. Dealing damage with explosives gives you a stacking random buff that lasts until combat ends."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_SporeLord.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_SporeLord.png",
         "stat": "Stats_Party_Kills_Broodmother_IBM",
         "tiers": [
             {
@@ -4585,7 +4585,7 @@
                             "string_table_name": "None",
                             "text": "Toppling the mother of infection grants you domain over all things fungal. Dealing explosive damage applies a stacking random buff lasting until combat ends."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SporeLord.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SporeLord.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.05,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4609,7 +4609,7 @@
                             "string_table_name": "None",
                             "text": "Toppling the mother of infection grants you domain over all things fungal. Dealing explosive damage applies a stacking random buff lasting until combat ends."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StorageIcons\\T_UI_Storage_Bombs.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StorageIcons\\T_UI_Storage_Bombs.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.1,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4633,7 +4633,7 @@
                             "string_table_name": "None",
                             "text": "Toppling the mother of infection grants you domain over all things fungal. Dealing explosive damage applies a stacking random buff lasting until combat ends."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StorageIcons\\T_UI_Storage_Bombs.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StorageIcons\\T_UI_Storage_Bombs.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.05,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4657,7 +4657,7 @@
                             "string_table_name": "None",
                             "text": "Toppling the mother of infection grants you domain over all things fungal. Dealing explosive damage applies a stacking random buff lasting until combat ends."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StorageIcons\\T_UI_Storage_Bombs.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StorageIcons\\T_UI_Storage_Bombs.png",
                         "effect_type": "EStatusEffectType::TriggerExtraAttack",
                         "value": 0.05,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4686,7 +4686,7 @@
             "string_table_name": "None",
             "text": "Fighting alongside your friends has improved your coordination substantially. Deal and take less friendly fire damage from your fellow teens."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Battlebuddies.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_Battlebuddies.png",
         "stat": null,
         "tiers": [
             {
@@ -4706,7 +4706,7 @@
                             "string_table_name": "None",
                             "text": "Reduces the amount of friendly fire damage you deal to buildings and fellow teens."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_FF_Dmg.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_FF_Dmg.png",
                         "effect_type": "EStatusEffectType::AttackDamage",
                         "value": 0.25,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4730,7 +4730,7 @@
                             "string_table_name": "None",
                             "text": "Reduces the amount of friendly fire damage you receive from fellow teens."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_FF_Def.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_FF_Def.png",
                         "effect_type": "EStatusEffectType::DamageReduction",
                         "value": 0.25,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4759,7 +4759,7 @@
             "string_table_name": "None",
             "text": "Your kind demeanor and actions, a bridge between species, have granted you a place amongst the ants."
         },
-        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_AntQueen.png",
+        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\Perks\\T_UI_Mut_AntQueen.png",
         "stat": null,
         "tiers": [
             {
@@ -4779,7 +4779,7 @@
                             "string_table_name": "None",
                             "text": "Red ants see you as one of them."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_HuMant_A.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_HuMant_A.png",
                         "effect_type": "EStatusEffectType::TeamChange",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4809,7 +4809,7 @@
                             "string_table_name": "None",
                             "text": "Red and black ants see you as one of their own."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_HuMant_B.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_HuMant_B.png",
                         "effect_type": "EStatusEffectType::TeamChange",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",
@@ -4839,7 +4839,7 @@
                             "string_table_name": "None",
                             "text": "Red, black, and fire ants see you as one of their own."
                         },
-                        "icon_path": "C:\\Users\\PC-SAMUEL\\Desktop\\data_mining\\grounded\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_HuMant_C.png",
+                        "icon_path": "D:\\Grounded DataMining\\1.4.1.4512\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_HuMant_C.png",
                         "effect_type": "EStatusEffectType::TeamChange",
                         "value": 0.0,
                         "duration_type": "EStatusEffectDurationType::Infinite",

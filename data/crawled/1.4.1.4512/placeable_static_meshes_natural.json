@@ -14,8 +14,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -63,8 +63,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -112,8 +112,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -161,8 +161,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_D.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -210,8 +210,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_E.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -259,8 +259,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_F.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Cobweb_F.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Cobweb/SM_Cobweb_F.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -308,8 +308,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Cap_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/UGC_Art_Assets/Placeable_Objects/SM_UGC_Dirt_Cap_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Cap_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/UGC_Art_Assets/Placeable_Objects/SM_UGC_Dirt_Cap_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 15.0,
         "placement_data": {
@@ -357,8 +357,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Cap_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/UGC_Art_Assets/Placeable_Objects/SM_UGC_Dirt_Cap_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Cap_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/UGC_Art_Assets/Placeable_Objects/SM_UGC_Dirt_Cap_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 15.0,
         "placement_data": {
@@ -406,8 +406,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -455,8 +455,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -504,8 +504,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -553,8 +553,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_D.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -602,8 +602,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Dirt_Clump_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Dirt_Clumps/SM_Dirt_Clump_E.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -651,8 +651,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anthill_Tunnel_Cap.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Anthill_Tileset/TS_ANT_Donut_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anthill_Tunnel_Cap.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Anthill_Tileset/TS_ANT_Donut_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -700,7 +700,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Hamster_Skeleton.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Hamster_Skeleton.png",
         "mesh": ".",
         "model_viewer_x_rotation": -70.0,
         "model_viewer_y_rotation": 15.0,
@@ -749,8 +749,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Snail_Shell.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Miscellaneous/Snail_Shells/Snail_Shell01/SM_Snail_Shell01.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Snail_Shell.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Miscellaneous/Snail_Shells/Snail_Shell01/SM_Snail_Shell01.png",
         "model_viewer_x_rotation": 185.0,
         "model_viewer_y_rotation": -80.0,
         "placement_data": {
@@ -798,8 +798,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_A.png",
         "model_viewer_x_rotation": 30.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -847,8 +847,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_B.png",
         "model_viewer_x_rotation": 55.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -896,8 +896,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_C.png",
         "model_viewer_x_rotation": 80.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -945,8 +945,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_D.png",
         "model_viewer_x_rotation": 30.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -994,8 +994,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_E.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -1043,8 +1043,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_F.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_F.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_F.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -1092,8 +1092,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_G.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_G.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_G.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_G.png",
         "model_viewer_x_rotation": 40.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -1141,8 +1141,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_H.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_H.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_H.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_H.png",
         "model_viewer_x_rotation": 15.0,
         "model_viewer_y_rotation": 35.0,
         "placement_data": {
@@ -1190,8 +1190,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_I.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_I.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_I.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_I.png",
         "model_viewer_x_rotation": 30.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -1239,8 +1239,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_J.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_J.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_J.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_J.png",
         "model_viewer_x_rotation": 15.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -1288,8 +1288,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_K.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_K.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_K.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_K.png",
         "model_viewer_x_rotation": 115.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -1337,8 +1337,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_L.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_L.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_L.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_L.png",
         "model_viewer_x_rotation": 25.0,
         "model_viewer_y_rotation": 35.0,
         "placement_data": {
@@ -1386,8 +1386,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_Large_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_Large_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Haze_Fungus_Large_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/Haze_Fungus/SM_Haze_Fungus_Large_A.png",
         "model_viewer_x_rotation": 50.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -1435,8 +1435,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lichen_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Lichen_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lichen_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Lichen_A.png",
         "model_viewer_x_rotation": -175.0,
         "model_viewer_y_rotation": -35.0,
         "placement_data": {
@@ -1484,8 +1484,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lichen_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Lichen_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lichen_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Lichen_B.png",
         "model_viewer_x_rotation": -40.0,
         "model_viewer_y_rotation": 35.0,
         "placement_data": {
@@ -1533,8 +1533,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lichen_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Lichen_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lichen_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Lichen_C.png",
         "model_viewer_x_rotation": -15.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -1582,8 +1582,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -1631,8 +1631,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -1680,8 +1680,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -1729,8 +1729,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_D.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -1778,8 +1778,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_Small_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_Small_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_Small_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_Small_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -1827,8 +1827,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_Small_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_Small_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_Small_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_Small_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -1876,8 +1876,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_Small_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_Small_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bracket_Mushroom_Small_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Mushrooms/SM_Mushroom_Bracket_Small_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -1925,8 +1925,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Flagstone_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Flagstones/SM_Rock_Flagstone_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Flagstone_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Flagstones/SM_Rock_Flagstone_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -1974,8 +1974,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Flagstone_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Flagstones/SM_Rock_Flagstone_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Flagstone_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Flagstones/SM_Rock_Flagstone_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2023,8 +2023,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Flagstone_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Flagstones/SM_Rock_Flagstone_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Flagstone_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Flagstones/SM_Rock_Flagstone_C.png",
         "model_viewer_x_rotation": 180.0,
         "model_viewer_y_rotation": -40.0,
         "placement_data": {
@@ -2072,8 +2072,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Flagstone_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Flagstones/SM_Rock_Flagstone_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Flagstone_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Flagstones/SM_Rock_Flagstone_D.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2121,8 +2121,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_A.png",
         "model_viewer_x_rotation": -50.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2170,8 +2170,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_B.png",
         "model_viewer_x_rotation": -50.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2219,8 +2219,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2268,8 +2268,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_C_Thin.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_C_Thin.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_C_Thin.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_C_Thin.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2317,8 +2317,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_D.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2366,8 +2366,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_D_Thin.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_D_Thin.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_D_Thin.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_D_Thin.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2415,8 +2415,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Rock_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_RetainingWall_Rock_E.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2464,8 +2464,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Brick_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_Brick_Retaining_Wall_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Brick_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_Brick_Retaining_Wall_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2513,8 +2513,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Brick_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_Brick_Retaining_Wall_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Retaining_Wall_Brick_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/Retaining_Wall/SM_Brick_Retaining_Wall_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2562,8 +2562,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Gray_Rock_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/rock_angular_gray_a_dark.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Gray_Rock_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/rock_angular_gray_a_dark.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2611,8 +2611,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Gray_Rock_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/rock_angular_gray_b_dark.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Gray_Rock_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/rock_angular_gray_b_dark.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2660,8 +2660,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Gray_Rock_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/rock_angular_gray_c.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Gray_Rock_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/rock_angular_gray_c.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2709,8 +2709,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Rock_Pile.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/rock_angular_pile_A_gray.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Rock_Pile.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/rock_angular_pile_A_gray.png",
         "model_viewer_x_rotation": -20.0,
         "model_viewer_y_rotation": 230.0,
         "placement_data": {
@@ -2758,8 +2758,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Unmineable_Rock_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/SM_Rock_Unmineable_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Unmineable_Rock_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/SM_Rock_Unmineable_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2807,8 +2807,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Unmineable_Rock_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/SM_Rock_Unmineable_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Unmineable_Rock_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/SM_Rock_Unmineable_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2856,8 +2856,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Unmineable_Rock_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/SM_Rock_Unmineable_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Unmineable_Rock_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/SM_Rock_Unmineable_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -2905,8 +2905,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -2954,8 +2954,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3003,8 +3003,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3052,8 +3052,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3101,8 +3101,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_D.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3150,8 +3150,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_E.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3199,8 +3199,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_F.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_F.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_F.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3248,8 +3248,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_G.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_G.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_G.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_G.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3297,8 +3297,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_H.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_H.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Single_H.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Single_H.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3346,8 +3346,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Trio_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Trio_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Trio_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Trio_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3395,8 +3395,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Trio_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Trio_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Crabgrass_Trio_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Crabgrass/SM_Crabgrass_Trio_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3444,7 +3444,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_A.png",
         "mesh": ".",
         "model_viewer_x_rotation": 130.0,
         "model_viewer_y_rotation": -10.0,
@@ -3493,7 +3493,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_B.png",
         "mesh": ".",
         "model_viewer_x_rotation": 130.0,
         "model_viewer_y_rotation": -10.0,
@@ -3542,7 +3542,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_C.png",
         "mesh": ".",
         "model_viewer_x_rotation": 130.0,
         "model_viewer_y_rotation": -10.0,
@@ -3591,7 +3591,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_D.png",
         "mesh": ".",
         "model_viewer_x_rotation": 130.0,
         "model_viewer_y_rotation": -10.0,
@@ -3640,7 +3640,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_E.png",
         "mesh": ".",
         "model_viewer_x_rotation": 130.0,
         "model_viewer_y_rotation": -10.0,
@@ -3689,7 +3689,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_F.png",
         "mesh": ".",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
@@ -3738,7 +3738,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_G.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_G.png",
         "mesh": ".",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
@@ -3787,8 +3787,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_H.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ferns/SM_Baby_Fern_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_H.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ferns/SM_Baby_Fern_A.png",
         "model_viewer_x_rotation": 80.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3836,8 +3836,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_I.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ferns/SM_Baby_Fern_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Fern_I.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ferns/SM_Baby_Fern_B.png",
         "model_viewer_x_rotation": 80.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3885,8 +3885,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Daffodil_Plant.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Flowers/SM_Daffodil_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Daffodil_Plant.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Flowers/SM_Daffodil_A.png",
         "model_viewer_x_rotation": 110.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -3934,7 +3934,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Rose_Bush.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Rose_Bush.png",
         "mesh": ".",
         "model_viewer_x_rotation": -10.0,
         "model_viewer_y_rotation": 0.0,
@@ -3983,8 +3983,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Ivy_Leaf_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ivy/SM_Ivy_Leaf_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Ivy_Leaf_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ivy/SM_Ivy_Leaf_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -4032,8 +4032,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Ivy_Leaf_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ivy/SM_Ivy_Leaf_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Ivy_Leaf_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ivy/SM_Ivy_Leaf_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -4081,8 +4081,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Ivy_Leaf_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ivy/SM_Ivy_Leaf_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Ivy_Leaf_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ivy/SM_Ivy_Leaf_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -4130,8 +4130,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Ivy_Leaf_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ivy/SM_Ivy_Leaf_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Ivy_Leaf_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Ivy/SM_Ivy_Leaf_D.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -4179,8 +4179,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 80.0,
         "placement_data": {
@@ -4228,8 +4228,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 80.0,
         "placement_data": {
@@ -4277,8 +4277,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 80.0,
         "placement_data": {
@@ -4326,8 +4326,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_D.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 90.0,
         "placement_data": {
@@ -4375,8 +4375,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_E.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 90.0,
         "placement_data": {
@@ -4424,8 +4424,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_F.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Bark_Chunk_F.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Bark_Chunk_F.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 90.0,
         "placement_data": {
@@ -4473,8 +4473,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_A.png",
         "model_viewer_x_rotation": 60.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -4522,8 +4522,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_B.png",
         "model_viewer_x_rotation": 60.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -4571,8 +4571,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_C.png",
         "model_viewer_x_rotation": 210.0,
         "model_viewer_y_rotation": -40.0,
         "placement_data": {
@@ -4620,8 +4620,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_D.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -4669,8 +4669,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_E.png",
         "model_viewer_x_rotation": -60.0,
         "model_viewer_y_rotation": 120.0,
         "placement_data": {
@@ -4718,8 +4718,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_F.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Branch_F.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Branch_F.png",
         "model_viewer_x_rotation": -60.0,
         "model_viewer_y_rotation": 120.0,
         "placement_data": {
@@ -4767,8 +4767,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -4816,8 +4816,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -4865,8 +4865,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -4914,8 +4914,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_A_Dead.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_A_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_A_Dead.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_A_Dead.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -4963,8 +4963,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_B_Dead.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_B_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_B_Dead.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_B_Dead.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5012,8 +5012,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_C_Dead.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_C_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Maple_Leaf_C_Dead.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_C_Dead.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5061,8 +5061,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_Red_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_Red_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_Red_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_Red_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5110,8 +5110,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_Red_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_Red_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_Red_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_Red_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5159,8 +5159,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_Red_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_Red_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_Red_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_Red_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5208,8 +5208,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5257,8 +5257,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5306,8 +5306,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5355,8 +5355,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_A_Dead.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_A_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_A_Dead.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_A_Dead.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5404,8 +5404,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_B_Dead.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_B_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_B_Dead.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_B_Dead.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5453,8 +5453,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_C_Dead.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_C_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leaf_Oak_White_C_Dead.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Oak_White_C_Dead.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5502,8 +5502,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pond_Root_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Pond_Root_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pond_Root_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Pond_Root_A.png",
         "model_viewer_x_rotation": -120.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -5551,8 +5551,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pond_Root_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Pond_Root_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pond_Root_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Pond_Root_B.png",
         "model_viewer_x_rotation": 80.0,
         "model_viewer_y_rotation": -40.0,
         "placement_data": {
@@ -5600,8 +5600,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pond_Root_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Pond_Root_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pond_Root_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Pond_Root_C.png",
         "model_viewer_x_rotation": -120.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -5649,8 +5649,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": -40.0,
         "placement_data": {
@@ -5698,8 +5698,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_B.png",
         "model_viewer_x_rotation": 30.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -5747,8 +5747,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_C.png",
         "model_viewer_x_rotation": 180.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -5796,8 +5796,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_D.png",
         "model_viewer_x_rotation": 150.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -5845,8 +5845,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_E.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -5894,8 +5894,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_F.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_F.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_F.png",
         "model_viewer_x_rotation": 150.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -5943,8 +5943,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_G.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_G.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_G.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_G.png",
         "model_viewer_x_rotation": 150.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -5992,8 +5992,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_H.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_H.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_H.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_H.png",
         "model_viewer_x_rotation": 150.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -6041,8 +6041,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_I.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_I.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_I.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_I.png",
         "model_viewer_x_rotation": 150.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -6090,8 +6090,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_J.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_J.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_J.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_J.png",
         "model_viewer_x_rotation": 150.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -6139,8 +6139,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_K.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_K.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_Chunky_K.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_Chunky_K.png",
         "model_viewer_x_rotation": 180.0,
         "model_viewer_y_rotation": 120.0,
         "placement_data": {
@@ -6188,8 +6188,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_A.png",
         "model_viewer_x_rotation": 140.0,
         "model_viewer_y_rotation": -30.0,
         "placement_data": {
@@ -6237,8 +6237,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_B.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -6286,8 +6286,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_C.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -6335,8 +6335,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_D.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -6384,8 +6384,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_E.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_E.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_E.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": -30.0,
         "placement_data": {
@@ -6433,8 +6433,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_F.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Tree_F.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Root_Tree_F.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": -30.0,
         "placement_data": {
@@ -6482,7 +6482,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_A.png",
         "mesh": ".",
         "model_viewer_x_rotation": 60.0,
         "model_viewer_y_rotation": -10.0,
@@ -6531,7 +6531,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_B.png",
         "mesh": ".",
         "model_viewer_x_rotation": 60.0,
         "model_viewer_y_rotation": -10.0,
@@ -6580,7 +6580,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_C.png",
         "mesh": ".",
         "model_viewer_x_rotation": 75.0,
         "model_viewer_y_rotation": 10.0,
@@ -6629,7 +6629,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_A_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_A_Dead.png",
         "mesh": ".",
         "model_viewer_x_rotation": 60.0,
         "model_viewer_y_rotation": -10.0,
@@ -6678,7 +6678,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_B_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_B_Dead.png",
         "mesh": ".",
         "model_viewer_x_rotation": 60.0,
         "model_viewer_y_rotation": -10.0,
@@ -6727,7 +6727,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_C_Dead.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Branch_C_Dead.png",
         "mesh": ".",
         "model_viewer_x_rotation": 75.0,
         "model_viewer_y_rotation": 10.0,
@@ -6776,8 +6776,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sweet_Potato_Leaf_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Leaf_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sweet_Potato_Leaf_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Leaf_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 150.0,
         "placement_data": {
@@ -6825,8 +6825,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sweet_Potato_Leaf_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Leaf_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sweet_Potato_Leaf_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Leaf_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 150.0,
         "placement_data": {
@@ -6874,8 +6874,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sweet_Potato_Leaf_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Leaf_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sweet_Potato_Leaf_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Leaf_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 150.0,
         "placement_data": {
@@ -6923,8 +6923,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sweet_Potato_Leaf_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Leaf_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sweet_Potato_Leaf_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Leaf_D.png",
         "model_viewer_x_rotation": -100.0,
         "model_viewer_y_rotation": 210.0,
         "placement_data": {
@@ -6972,8 +6972,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Potato_Plant_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Vine_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Potato_Plant_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Vine_A.png",
         "model_viewer_x_rotation": -10.0,
         "model_viewer_y_rotation": 30.0,
         "placement_data": {
@@ -7021,8 +7021,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Potato_Plant_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Vine_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Potato_Plant_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN02_Flowerbed/Swee_Potato_Vine/SM_Sweet_Potato_Vine_B.png",
         "model_viewer_x_rotation": 190.0,
         "model_viewer_y_rotation": -40.0,
         "placement_data": {
@@ -7070,7 +7070,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Crabgrass_Group_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Crabgrass_Group_A.png",
         "mesh": ".",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": -210.0,
@@ -7119,7 +7119,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Crabgrass_Group_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Crabgrass_Group_B.png",
         "mesh": ".",
         "model_viewer_x_rotation": 100.0,
         "model_viewer_y_rotation": -120.0,
@@ -7168,7 +7168,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Crabgrass_Group_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Crabgrass_Group_C.png",
         "mesh": ".",
         "model_viewer_x_rotation": 30.0,
         "model_viewer_y_rotation": -270.0,
@@ -7217,7 +7217,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Crabgrass_Group_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Crabgrass_Group_D.png",
         "mesh": ".",
         "model_viewer_x_rotation": 45.0,
         "model_viewer_y_rotation": 60.0,
@@ -7266,8 +7266,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_SM_Root_Grass_G.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Grass_G.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_SM_Root_Grass_G.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Grass_G.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -7315,8 +7315,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Small_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Small_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Small_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Small_A.png",
         "model_viewer_x_rotation": -90.0,
         "model_viewer_y_rotation": -20.0,
         "placement_data": {
@@ -7364,8 +7364,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Small_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Small_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Small_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Small_C.png",
         "model_viewer_x_rotation": -90.0,
         "model_viewer_y_rotation": -10.0,
         "placement_data": {
@@ -7413,8 +7413,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Thick_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Thick_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_A.png",
         "model_viewer_x_rotation": 110.0,
         "model_viewer_y_rotation": -20.0,
         "placement_data": {
@@ -7462,8 +7462,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Thick_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Thick_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_B.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": -20.0,
         "placement_data": {
@@ -7511,8 +7511,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Thick_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Thick_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_C.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": -20.0,
         "placement_data": {
@@ -7560,8 +7560,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Thick_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Root_Thick_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_D.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": 20.0,
         "placement_data": {
@@ -7609,8 +7609,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Slime_Mold_Grass_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/SlimeMold/SM_SlimeMold_Grass_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Slime_Mold_Grass_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/SlimeMold/SM_SlimeMold_Grass_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -7658,8 +7658,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Slime_Mold_Grass_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/SlimeMold/SM_SlimeMold_Grass_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Slime_Mold_Grass_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/SlimeMold/SM_SlimeMold_Grass_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -7707,8 +7707,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Chunk_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Chunk_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Chunk_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Chunk_A.png",
         "model_viewer_x_rotation": -90.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -7756,8 +7756,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Chunk_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Chunk_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Chunk_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Chunk_B.png",
         "model_viewer_x_rotation": -30.0,
         "model_viewer_y_rotation": 30.0,
         "placement_data": {
@@ -7805,8 +7805,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Chunk_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Chunk_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Chunk_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Chunk_C.png",
         "model_viewer_x_rotation": -30.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -7854,8 +7854,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Clump_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Clump_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Clump_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Clump_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -7903,8 +7903,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Clump_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Clump_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sand_Clump_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sand_Chunks/SM_Sand_Clump_B.png",
         "model_viewer_x_rotation": 190.0,
         "model_viewer_y_rotation": -20.0,
         "placement_data": {
@@ -7952,8 +7952,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sandcastle_Tower_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sandcastle/SM_Sandcastle_Tower_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sandcastle_Tower_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sandcastle/SM_Sandcastle_Tower_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 50.0,
         "placement_data": {
@@ -8001,8 +8001,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sandcastle_Wall_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sandcastle/SM_Sandcastle_Wall_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Sandcastle_Wall_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN12_Sandbox/Sandcastle/SM_Sandcastle_Wall_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 50.0,
         "placement_data": {
@@ -8050,8 +8050,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Banana.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Banana_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Banana.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Banana_A.png",
         "model_viewer_x_rotation": 20.0,
         "model_viewer_y_rotation": 80.0,
         "placement_data": {
@@ -8099,8 +8099,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Banana_Peel.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Banana_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Banana_Peel.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Banana_B.png",
         "model_viewer_x_rotation": 20.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -8148,8 +8148,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orange_Peel_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Orange_Rind_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orange_Peel_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Orange_Rind_A.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": -60.0,
         "placement_data": {
@@ -8197,8 +8197,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orange_Peel_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Orange_Rind_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orange_Peel_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Orange_Rind_B.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 120.0,
         "placement_data": {
@@ -8246,8 +8246,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orange_Peel_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Orange_Rind_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orange_Peel_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Food/SM_Orange_Rind_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 120.0,
         "placement_data": {
@@ -8295,8 +8295,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Nail_Toe.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Trash_Clutter/SM_Fingernail_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Nail_Toe.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN19_Trash/Trash_Clutter/SM_Fingernail_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -8344,7 +8344,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_A.png",
         "mesh": ".",
         "model_viewer_x_rotation": 140.0,
         "model_viewer_y_rotation": -40.0,
@@ -8393,7 +8393,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_B.png",
         "mesh": ".",
         "model_viewer_x_rotation": 140.0,
         "model_viewer_y_rotation": -40.0,
@@ -8442,7 +8442,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_C.png",
         "mesh": ".",
         "model_viewer_x_rotation": 140.0,
         "model_viewer_y_rotation": -60.0,
@@ -8491,7 +8491,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_D.png",
         "mesh": ".",
         "model_viewer_x_rotation": 140.0,
         "model_viewer_y_rotation": -20.0,
@@ -8540,7 +8540,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_E.png",
         "mesh": ".",
         "model_viewer_x_rotation": 140.0,
         "model_viewer_y_rotation": -50.0,
@@ -8589,7 +8589,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Broadleaf_F.png",
         "mesh": ".",
         "model_viewer_x_rotation": 140.0,
         "model_viewer_y_rotation": -50.0,
@@ -8638,7 +8638,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Tower_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Tower_A.png",
         "mesh": ".",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
@@ -8687,7 +8687,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Tower_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Weed_Tower_B.png",
         "mesh": ".",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
@@ -8736,8 +8736,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pine_Needle_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Pinecone/SM_Pine_Needle_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pine_Needle_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Pinecone/SM_Pine_Needle_A.png",
         "model_viewer_x_rotation": 30.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -8785,8 +8785,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pine_Needle_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Pinecone/SM_Pine_Needle_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Pine_Needle_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Pinecone/SM_Pine_Needle_B.png",
         "model_viewer_x_rotation": 120.0,
         "model_viewer_y_rotation": 60.0,
         "placement_data": {
@@ -8834,8 +8834,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Terrain_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Landscape/Terrain_Structures/SM_Terrain_Structure_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Terrain_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Landscape/Terrain_Structures/SM_Terrain_Structure_A.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -8883,8 +8883,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Terrain_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Landscape/Terrain_Structures/SM_Terrain_Structure_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Terrain_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Landscape/Terrain_Structures/SM_Terrain_Structure_B.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -8932,8 +8932,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Terrain_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Landscape/Terrain_Structures/SM_Terrain_Structure_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Terrain_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Landscape/Terrain_Structures/SM_Terrain_Structure_C.png",
         "model_viewer_x_rotation": 10.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -8981,8 +8981,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Terrain_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Landscape/Terrain_Structures/SM_Terrain_Structure_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Terrain_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Landscape/Terrain_Structures/SM_Terrain_Structure_D.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": 10.0,
         "placement_data": {
@@ -9030,8 +9030,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RockUnmineableLarge.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/SM_Rock_Unmineable_Large.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RockUnmineableLarge.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Unmineable/SM_Rock_Unmineable_Large.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9079,8 +9079,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Rock_Limestone_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Mineable/Limestone/SM_Rock_Limestone_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_Rock_Limestone_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/rocks/Mineable/Limestone/SM_Rock_Limestone_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9128,8 +9128,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SpiderWebConeA.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Spiderweb/SM_Spiderweb_Cone_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SpiderWebConeA.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Spiderweb/SM_Spiderweb_Cone_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9177,8 +9177,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SpiderWebConeB.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Spiderweb/SM_Spiderweb_Cone_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SpiderWebConeB.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Spiderweb/SM_Spiderweb_Cone_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9226,8 +9226,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SpiderWebConeC.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Spiderweb/SM_Spiderweb_Cone_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SpiderWebConeC.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Spiderweb/SM_Spiderweb_Cone_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9275,8 +9275,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SpiderWebConeD.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Spiderweb/SM_Spiderweb_Cone_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SpiderWebConeD.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Spiderweb/SM_Spiderweb_Cone_D.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9324,8 +9324,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_LeafMapleChunkA.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_Chunk_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_LeafMapleChunkA.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_Chunk_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9373,8 +9373,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_LeafMapleChunkB.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_Chunk_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_LeafMapleChunkB.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_Chunk_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9422,8 +9422,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_LeafMapleChunkC.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_Chunk_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_LeafMapleChunkC.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/SM_Leaf_Maple_Chunk_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9471,8 +9471,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootGrassE.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Grass_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootGrassE.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Grass_E.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9520,8 +9520,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootGrassF.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Grass_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootGrassF.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Grass_F.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9569,8 +9569,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootSmallB.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Small_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootSmallB.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Small_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9618,8 +9618,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootSmallD.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Small_D.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootSmallD.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Small_D.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9667,8 +9667,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootThickE.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_E.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootThickE.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_E.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9716,8 +9716,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootThickF.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_F.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_RootThickF.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/Roots/SM_Root_Thick_F.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9765,8 +9765,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SlimeMoldGrassB.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/SlimeMold/SM_SlimeMold_Grass_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/Icons/Generated/ICO_SlimeMoldGrassB.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN09_Anthill/SlimeMold/SM_SlimeMold_Grass_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -9814,8 +9814,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Bark_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Bark_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Bark_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Bark_A.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": -5.0,
         "placement_data": {
@@ -9863,8 +9863,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Bark_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Bark_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Bark_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Bark_B.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": -5.0,
         "placement_data": {
@@ -9912,8 +9912,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Bark_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Bark_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Bark_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Bark_C.png",
         "model_viewer_x_rotation": 90.0,
         "model_viewer_y_rotation": -5.0,
         "placement_data": {
@@ -9961,8 +9961,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10010,8 +10010,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_B.png",
         "model_viewer_x_rotation": -90.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10059,8 +10059,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_C.png",
         "model_viewer_x_rotation": -90.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10108,8 +10108,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_Small_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_Small_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_Small_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_Small_A.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10157,8 +10157,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_Small_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_Small_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_Small_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_Small_B.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10206,8 +10206,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_Small_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_Small_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Stump_Pulp_Small_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN01_Grass/Plants_Lg/Stump/SM_Stump_Pulp_Small_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10255,8 +10255,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anarchis_1.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Anarchis/Anarchis_Strand01.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anarchis_1.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Anarchis/Anarchis_Strand01.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10304,8 +10304,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anarchis_2.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Anarchis/Anarchis_Strand02.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anarchis_2.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Anarchis/Anarchis_Strand02.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10353,8 +10353,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anarchis_3.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Anarchis/Anarchis_Strand03.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anarchis_3.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Anarchis/Anarchis_Strand03.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10402,8 +10402,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anarchis_4.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Anarchis/Anarchis_Strand04.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Anarchis_4.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Anarchis/Anarchis_Strand04.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10451,8 +10451,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orchid_Flower_Bloom.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Flower_Pink/SM_Flower_Pink_Bloomed_01.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orchid_Flower_Bloom.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Flower_Pink/SM_Flower_Pink_Bloomed_01.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 40.0,
         "placement_data": {
@@ -10500,8 +10500,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orchid_Flower_Bud.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Flower_Pink/SM_Flower_Pink_PreBloom_01.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orchid_Flower_Bud.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Flower_Pink/SM_Flower_Pink_PreBloom_01.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 30.0,
         "placement_data": {
@@ -10549,8 +10549,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orchid_Flower_Petal_D.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Flower_Pink/SM_Flower_Pink_Petal_02.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Orchid_Flower_Petal_D.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Flower_Pink/SM_Flower_Pink_Petal_02.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 30.0,
         "placement_data": {
@@ -10598,8 +10598,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_CattailClump_A.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Cattail/Meshes/SM_CattailClump_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_CattailClump_A.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Cattail/Meshes/SM_CattailClump_A.png",
         "model_viewer_x_rotation": 195.0,
         "model_viewer_y_rotation": 5.0,
         "placement_data": {
@@ -10647,8 +10647,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_CattailClump_B.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Cattail/Meshes/SM_CattailClump_B.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_CattailClump_B.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Cattail/Meshes/SM_CattailClump_B.png",
         "model_viewer_x_rotation": -110.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10696,8 +10696,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_CattailClump_C.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Cattail/Meshes/SM_CattailClump_C.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_CattailClump_C.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Cattail/Meshes/SM_CattailClump_C.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 0.0,
         "placement_data": {
@@ -10745,8 +10745,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_01.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_01.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_01.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_01.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 50.0,
         "placement_data": {
@@ -10794,8 +10794,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_03.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_03.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_03.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_03.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 50.0,
         "placement_data": {
@@ -10843,8 +10843,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_04.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_04.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_04.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_04.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 70.0,
         "placement_data": {
@@ -10892,8 +10892,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_Holes_01.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_Holes_01.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_Holes_01.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_Holes_01.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 70.0,
         "placement_data": {
@@ -10941,8 +10941,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_Holes_02.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_Holes_02.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_Holes_02.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/BS_Assets/Art/Wicklow_Arena/SM_HoneyComb_Holes_02.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 70.0,
         "placement_data": {
@@ -10990,8 +10990,8 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_Holes_Broken.png",
-        "mesh": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Large_Props/Storage_Bin/SM_HoneyComb_Holes_BrokenA.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Honeycomb_Holes_Broken.png",
+        "mesh": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Art/World/ZN00_Global/Large_Props/Storage_Bin/SM_HoneyComb_Holes_BrokenA.png",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 70.0,
         "placement_data": {
@@ -11039,7 +11039,7 @@
             "string_table_name": "None",
             "text": "UNKNOWN"
         },
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lilypad_Leaf_A.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Lilypad_Leaf_A.png",
         "mesh": ".",
         "model_viewer_x_rotation": 0.0,
         "model_viewer_y_rotation": 45.0,

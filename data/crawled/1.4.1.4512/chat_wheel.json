@@ -8,7 +8,7 @@
             "text": "Yes"
         },
         "key_name": "Yes",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Yes.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Yes.png",
         "unknown_fields": null
     },
     "No": {
@@ -20,7 +20,7 @@
             "text": "No"
         },
         "key_name": "No",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_No.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_No.png",
         "unknown_fields": null
     },
     "Hello": {
@@ -32,7 +32,7 @@
             "text": "Hello"
         },
         "key_name": "Hello",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Hello.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Hello.png",
         "unknown_fields": null
     },
     "Goodbye": {
@@ -44,7 +44,7 @@
             "text": "Goodbye"
         },
         "key_name": "Goodbye",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Bye.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Bye.png",
         "unknown_fields": null
     },
     "Thanks": {
@@ -56,7 +56,7 @@
             "text": "Thanks"
         },
         "key_name": "Thanks",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Thanks.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Thanks.png",
         "unknown_fields": null
     },
     "OK": {
@@ -68,7 +68,7 @@
             "text": "OK"
         },
         "key_name": "OK",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Ok.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Ok.png",
         "unknown_fields": null
     },
     "Look": {
@@ -80,7 +80,7 @@
             "text": "Look"
         },
         "key_name": "Look",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Look.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Look.png",
         "unknown_fields": null
     },
     "Sorry": {
@@ -92,7 +92,7 @@
             "text": "Sorry"
         },
         "key_name": "Sorry",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Sorry.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Sorry.png",
         "unknown_fields": null
     },
     "Here": {
@@ -104,7 +104,7 @@
             "text": "Here"
         },
         "key_name": "Here",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Go.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Go.png",
         "unknown_fields": null
     },
     "Stop": {
@@ -116,7 +116,7 @@
             "text": "Stop"
         },
         "key_name": "Stop",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Stop.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Stop.png",
         "unknown_fields": null
     },
     "Stay": {
@@ -128,7 +128,7 @@
             "text": "Stay"
         },
         "key_name": "Stay",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Stay.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Stay.png",
         "unknown_fields": null
     },
     "Use": {
@@ -140,7 +140,7 @@
             "text": "Use"
         },
         "key_name": "Use",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_UseThis.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_UseThis.png",
         "unknown_fields": null
     },
     "Hate": {
@@ -152,7 +152,7 @@
             "text": "Hate"
         },
         "key_name": "Hate",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Hate.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Hate.png",
         "unknown_fields": null
     },
     "Love": {
@@ -164,7 +164,7 @@
             "text": "Love"
         },
         "key_name": "Love",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Love.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Love.png",
         "unknown_fields": null
     },
     "Light": {
@@ -176,7 +176,7 @@
             "text": "Light"
         },
         "key_name": "Light",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Light.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Light.png",
         "unknown_fields": null
     },
     "Quiet": {
@@ -188,7 +188,7 @@
             "text": "Quiet"
         },
         "key_name": "Quiet",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Quiet.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Standard_Quiet.png",
         "unknown_fields": null
     },
     "Hungry": {
@@ -200,7 +200,7 @@
             "text": "Hungry"
         },
         "key_name": "Hungry",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_Hungry.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_Hungry.png",
         "unknown_fields": null
     },
     "Thirsty": {
@@ -212,7 +212,7 @@
             "text": "Thirsty"
         },
         "key_name": "Thirsty",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_Thirsty.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_Thirsty.png",
         "unknown_fields": null
     },
     "Hurt": {
@@ -224,7 +224,7 @@
             "text": "Hurt"
         },
         "key_name": "Hurt",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_Hurt.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_Hurt.png",
         "unknown_fields": null
     },
     "Tired": {
@@ -236,7 +236,7 @@
             "text": "Tired"
         },
         "key_name": "Tired",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_ImTired.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_ImTired.png",
         "unknown_fields": null
     },
     "Sleep": {
@@ -248,7 +248,7 @@
             "text": "Sleep"
         },
         "key_name": "Sleep",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_LetsSleep.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_LetsSleep.png",
         "unknown_fields": null
     },
     "Hunt": {
@@ -260,7 +260,7 @@
             "text": "Hunt"
         },
         "key_name": "Hunt",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_Hunt.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_Hunt.png",
         "unknown_fields": null
     },
     "Armor": {
@@ -272,7 +272,7 @@
             "text": "Armor"
         },
         "key_name": "Armor",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_NeedArmor.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_NeedArmor.png",
         "unknown_fields": null
     },
     "Craft": {
@@ -284,7 +284,7 @@
             "text": "Craft"
         },
         "key_name": "Craft",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_NeedCraft.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Survival_NeedCraft.png",
         "unknown_fields": null
     },
     "Fight": {
@@ -296,7 +296,7 @@
             "text": "Fight"
         },
         "key_name": "Fight",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Fight.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Fight.png",
         "unknown_fields": null
     },
     "GoAround": {
@@ -308,7 +308,7 @@
             "text": "Around"
         },
         "key_name": "GoAround",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_GoAround.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_GoAround.png",
         "unknown_fields": null
     },
     "InsectSpotted": {
@@ -320,7 +320,7 @@
             "text": "Spotted"
         },
         "key_name": "InsectSpotted",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Spotted.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Spotted.png",
         "unknown_fields": null
     },
     "Above": {
@@ -332,7 +332,7 @@
             "text": "Above"
         },
         "key_name": "Above",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Above.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Above.png",
         "unknown_fields": null
     },
     "UseRanged": {
@@ -344,7 +344,7 @@
             "text": "Ranged"
         },
         "key_name": "UseRanged",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Ranged.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Ranged.png",
         "unknown_fields": null
     },
     "UseMelee": {
@@ -356,7 +356,7 @@
             "text": "Melee"
         },
         "key_name": "UseMelee",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Melee.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Melee.png",
         "unknown_fields": null
     },
     "Charge": {
@@ -368,7 +368,7 @@
             "text": "Charge!"
         },
         "key_name": "Charge",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Charge.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Combat_Charge.png",
         "unknown_fields": null
     },
     "NiceShot": {
@@ -380,7 +380,7 @@
             "text": "Nice Shot!"
         },
         "key_name": "NiceShot",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Nice.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Nice.png",
         "unknown_fields": null
     },
     "BuildHere": {
@@ -392,7 +392,7 @@
             "text": "Build Here"
         },
         "key_name": "BuildHere",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Here.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Here.png",
         "unknown_fields": null
     },
     "NeedMaterials": {
@@ -404,7 +404,7 @@
             "text": "Materials"
         },
         "key_name": "NeedMaterials",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Resources.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Resources.png",
         "unknown_fields": null
     },
     "NeedsRepair": {
@@ -416,7 +416,7 @@
             "text": "Repair"
         },
         "key_name": "NeedsRepair",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Repair.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Repair.png",
         "unknown_fields": null
     },
     "DefendTheBase": {
@@ -428,7 +428,7 @@
             "text": "Defend"
         },
         "key_name": "DefendTheBase",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Defend.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Defend.png",
         "unknown_fields": null
     },
     "BackToBase": {
@@ -440,7 +440,7 @@
             "text": "To Base"
         },
         "key_name": "BackToBase",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Return.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Return.png",
         "unknown_fields": null
     },
     "UnderAttack": {
@@ -452,7 +452,7 @@
             "text": "Under Attack"
         },
         "key_name": "UnderAttack",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_UnderAttack.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_UnderAttack.png",
         "unknown_fields": null
     },
     "GuardHere": {
@@ -464,7 +464,7 @@
             "text": "Guard Here"
         },
         "key_name": "GuardHere",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Guard.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Guard.png",
         "unknown_fields": null
     },
     "DismantleThis": {
@@ -476,7 +476,7 @@
             "text": "Dismantle"
         },
         "key_name": "DismantleThis",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Dismantle.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Build_Dismantle.png",
         "unknown_fields": null
     },
     "Awesome": {
@@ -488,7 +488,7 @@
             "text": "Awesome"
         },
         "key_name": "Awesome",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Cool.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Cool.png",
         "unknown_fields": null
     },
     "WhatTheHeck": {
@@ -500,7 +500,7 @@
             "text": "What?!"
         },
         "key_name": "WhatTheHeck",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_What.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_What.png",
         "unknown_fields": null
     },
     "Lame": {
@@ -512,7 +512,7 @@
             "text": "Wack"
         },
         "key_name": "Lame",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Lame.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Lame.png",
         "unknown_fields": null
     },
     "RoundUp": {
@@ -524,7 +524,7 @@
             "text": "Round Up"
         },
         "key_name": "RoundUp",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Roundup.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Roundup.png",
         "unknown_fields": null
     },
     "Dirty": {
@@ -536,7 +536,7 @@
             "text": "Dirty"
         },
         "key_name": "Dirty",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Gross.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Gross.png",
         "unknown_fields": null
     },
     "Gross": {
@@ -548,7 +548,7 @@
             "text": "Gross"
         },
         "key_name": "Gross",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Dirty.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Dirty.png",
         "unknown_fields": null
     },
     "Scared": {
@@ -560,7 +560,7 @@
             "text": "Scared"
         },
         "key_name": "Scared",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Scared.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_Scared.png",
         "unknown_fields": null
     },
     "IDontKnow": {
@@ -572,7 +572,7 @@
             "text": "Dunno"
         },
         "key_name": "IDontKnow",
-        "icon": "C:/Users/PC-SAMUEL/Desktop/data_mining/grounded/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_DontKnow.png",
+        "icon": "D:/Grounded DataMining/1.4.1.4512/media_data/Maine/Content/UI/Images/Chat/T_UI_Chat_Misc_DontKnow.png",
         "unknown_fields": null
     }
 }
