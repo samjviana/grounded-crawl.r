@@ -1,0 +1,242 @@
+{
+    "Wave": {
+        "key_name": "Wave",
+        "tag": "Emote.Hello",
+        "name": {
+            "table_id": 1,
+            "string_id": 131,
+            "string_table_name": "None",
+            "text": "Wave"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Wave.T_UI_Emote_Wave",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": true,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "ThumbsUp": {
+        "key_name": "ThumbsUp",
+        "tag": "Emote.ThumbsUp",
+        "name": {
+            "table_id": 1,
+            "string_id": 195,
+            "string_table_name": "None",
+            "text": "Thumbs Up"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_ThumbsUp.T_UI_Emote_ThumbsUp",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": true,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "Point": {
+        "key_name": "Point",
+        "tag": "Emote.Point",
+        "name": {
+            "table_id": 1,
+            "string_id": 414,
+            "string_table_name": "None",
+            "text": "Point"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Point.T_UI_Emote_Point",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": true,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "Cheer": {
+        "key_name": "Cheer",
+        "tag": "Emote.Cheer",
+        "name": {
+            "table_id": 1,
+            "string_id": 415,
+            "string_table_name": "None",
+            "text": "Cheer"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Cheer.T_UI_Emote_Cheer",
+        "chatter_event": "e5bb45a9-1ffa-445b-8d83-70517cf34baf",
+        "always_unlocked": true,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "Laugh": {
+        "key_name": "Laugh",
+        "tag": "Emote.Laugh",
+        "name": {
+            "table_id": 1,
+            "string_id": 422,
+            "string_table_name": "None",
+            "text": "Laugh"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Laugh.T_UI_Emote_Laugh",
+        "chatter_event": "6f4b41e6-9c88-4011-9f32-5c8a286ef8dc",
+        "always_unlocked": true,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "Headbang": {
+        "key_name": "Headbang",
+        "tag": "Emote.Headbang",
+        "name": {
+            "table_id": 1,
+            "string_id": 456,
+            "string_table_name": "None",
+            "text": "Headbang"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Headbang.T_UI_Emote_Headbang",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": true,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "Applaud": {
+        "key_name": "Applaud",
+        "tag": "Emote.Applaud",
+        "name": {
+            "table_id": 1,
+            "string_id": 498,
+            "string_table_name": "None",
+            "text": "Applaud"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Applaud.T_UI_Emote_Applaud",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": true,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "AirGuitar": {
+        "key_name": "AirGuitar",
+        "tag": "Emote.Air Guitar",
+        "name": {
+            "table_id": 1,
+            "string_id": 509,
+            "string_table_name": "None",
+            "text": "Air Guitar"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_AirGuitar.T_UI_Emote_AirGuitar",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": true,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "ThumbsDown": {
+        "key_name": "ThumbsDown",
+        "tag": "Emote.ThumbsDown",
+        "name": {
+            "table_id": 1,
+            "string_id": 2110,
+            "string_table_name": "None",
+            "text": "Thumbs Down"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_ThumbsDown.T_UI_Emote_ThumbsDown",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": false,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "Thanks": {
+        "key_name": "Thanks",
+        "tag": "Emote.Thanks",
+        "name": {
+            "table_id": 1,
+            "string_id": 218,
+            "string_table_name": "None",
+            "text": "Thanks"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_ThankYou.T_UI_Emote_ThankYou",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": false,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "FistPump": {
+        "key_name": "FistPump",
+        "tag": "Emote.Happy",
+        "name": {
+            "table_id": 1,
+            "string_id": 2010,
+            "string_table_name": "None",
+            "text": "Fist Pump"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Fist.T_UI_Emote_Fist",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": false,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "Flex": {
+        "key_name": "Flex",
+        "tag": "Emote.ShowOff",
+        "name": {
+            "table_id": 1,
+            "string_id": 2009,
+            "string_table_name": "None",
+            "text": "Flex"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Flex.T_UI_Emote_Flex",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": false,
+        "looping": true,
+        "unknown_fields": null
+    },
+    "PowerUp": {
+        "key_name": "PowerUp",
+        "tag": "Emote.PowerUp",
+        "name": {
+            "table_id": 1,
+            "string_id": 2011,
+            "string_table_name": "None",
+            "text": "Power Up"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_PowerUp.T_UI_Emote_PowerUp",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": false,
+        "looping": false,
+        "unknown_fields": null
+    },
+    "Sit": {
+        "key_name": "Sit",
+        "tag": "Emote.Sit",
+        "name": {
+            "table_id": 1,
+            "string_id": 2116,
+            "string_table_name": "None",
+            "text": "Sit"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Sit.T_UI_Emote_Sit",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": false,
+        "looping": true,
+        "unknown_fields": null
+    },
+    "Squat": {
+        "key_name": "Squat",
+        "tag": "Emote.Squat",
+        "name": {
+            "table_id": 1,
+            "string_id": 2115,
+            "string_table_name": "None",
+            "text": "Squat"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Squat.T_UI_Emote_Squat",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": false,
+        "looping": true,
+        "unknown_fields": null
+    },
+    "Salute": {
+        "key_name": "Salute",
+        "tag": "Emote.Salute",
+        "name": {
+            "table_id": 1,
+            "string_id": 2136,
+            "string_table_name": "None",
+            "text": "Salute"
+        },
+        "icon_asset": "/Game/UI/Images/Emotes/T_UI_Emote_Salute.T_UI_Emote_Salute",
+        "chatter_event": "00000000-0000-0000-0000-000000000000",
+        "always_unlocked": false,
+        "looping": false,
+        "unknown_fields": null
+    }
+}
