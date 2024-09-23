@@ -1002,7 +1002,12 @@
     },
     "SpiderOrb": {
         "key_name": "SpiderOrb",
-        "name": null,
+        "name": {
+            "table_id": 9,
+            "string_id": 17,
+            "string_table_name": "",
+            "text": "Orb Weaver"
+        },
         "asset_path_name": "/Game/Blueprints/Creatures/Spider/OrbWeaver/BP_Spider_Web.BP_Spider_Web_C",
         "weakpoint_tags": [],
         "info": {

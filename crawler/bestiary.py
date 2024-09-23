@@ -72,15 +72,18 @@ class BestiaryCrawler(BaseCrawler):
             immunity_tags=[],
             team=0,
             unknown_fields={}
-        )    
+        )   
+        name = None 
         for component in components:
             if component.endswith('Template'):
-                _, template = self._parse_creature_info(components[component]['ObjectPath'])
+                templated_name, template = self._parse_creature_info(components[component]['ObjectPath'])
 
                 if component.startswith('Default__'):
                     continue
                 elif component.startswith('HealthComponent'):
                     creature_info.health = template.health
+                    if templated_name is not None:
+                        name = templated_name
                 elif component.startswith('LootComponent'):
                     continue
                 elif component.startswith('ReactionComponent'):
@@ -187,7 +190,6 @@ class BestiaryCrawler(BaseCrawler):
             unknown_fields=unknown_fields
         )
 
-        name = None
         try:
             table_id = 9
             if 'StringTableID' in components['DefaultComponent']['CharacterName']:
