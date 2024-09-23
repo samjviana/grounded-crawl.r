@@ -43,7 +43,7 @@ class BaseCrawler:
         - `root_path` : `Path`
             - The path to the root directory.
         """
-        BaseCrawler.version = version
+        BaseCrawler.version = GameVersion(version)
         BaseCrawler.root_path = Path(f'{root_path}/{version}')
         BaseCrawler.locale = locale
 
@@ -219,3 +219,17 @@ class BaseCrawler:
         for key, value in data.items():
             json_data[key] = value.to_dict()
         data_path.write_text(json.dumps(json_data, indent=4))
+
+class GameVersion:
+    """
+    This class is responsible for handling the game version to ease comparisons across the code.
+    """
+    def __init__(self, version: str):
+        splits = version.split('.')
+        self.major = int(splits[0])
+        self.minor = int(splits[1])
+        self.patch = int(splits[2])
+        self.build = int(splits[3]) if len(splits) > 3 else None
+
+    def __str__(self):
+        return f'{self.major}.{self.minor}.{self.patch}.{self.build}'

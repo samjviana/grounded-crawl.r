@@ -33,6 +33,7 @@ class DisplayName:
         self.string_table_name = string_table_name
         self.text = text if text else self.get_string()
     
+    # TODO: Revise the way this verifies the version.
     @staticmethod
     def init(lang_path: Path):
         """
@@ -41,27 +42,39 @@ class DisplayName:
         - `lang_path` : `Path`
             - The path to the language file.
         """
+        from crawler.base_crawler import BaseCrawler
+
         buffer = []
         with open(lang_path, 'r', encoding='utf-8') as file:
             buffer = json.load(file)[0]['Properties']['StringTables']
-        
+
         DisplayName.localization_json = {}
         for string_table in buffer:
-            key = next(iter(string_table))
-            DisplayName.localization_json[key] = string_table[key]
+            if BaseCrawler.version.major == 1 and BaseCrawler.version.minor == 4 and BaseCrawler.version.patch < 4:
+                key = next(iter(string_table))
+                DisplayName.localization_json[key] = string_table[key]
+            else:
+                key = string_table['Key']
+                DisplayName.localization_json[key] = string_table['Value']
 
+    # TODO: Revise the way this verifies the version.
     def get_string(self) -> str:
         """
         This method is responsible for getting the string of the display name.
         #### Returns
         - `str` : The string of the display name.
         """
+        from crawler.base_crawler import BaseCrawler, GameVersion
+
         if self.table_id <= 0:
             return 'UNKNOWN'
         string_table_name = DisplayName.string_table_names[self.table_id]
         entries = DisplayName.localization_json[string_table_name]['Entries']
         for entry in entries:
-            entry = list(entry.values())[0]
+            if BaseCrawler.version.major == 1 and BaseCrawler.version.minor == 4 and BaseCrawler.version.patch < 4:
+                list(entry.values())[0]
+            else:
+                entry = entry['Value']
             if entry['ID'] == self.string_id:
                 return entry['DefaultText']
             
