@@ -79,6 +79,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -104,6 +106,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -287,6 +291,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -314,6 +320,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -342,6 +350,8 @@
                         "Stats.Attacks.Axe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -374,6 +384,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -574,6 +586,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -601,6 +615,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -629,6 +645,8 @@
                         "Stats.Attacks.Axe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -661,6 +679,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -861,6 +881,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -888,6 +910,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -916,6 +940,8 @@
                         "Stats.Attacks.Axe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -948,6 +974,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -1154,6 +1182,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -1181,6 +1211,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -1209,6 +1241,8 @@
                         "Stats.Attacks.Hammer",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -1241,6 +1275,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -1465,6 +1501,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -1492,6 +1530,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -1520,6 +1560,8 @@
                         "Stats.Attacks.Hammer",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -1552,6 +1594,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -1776,6 +1820,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -1803,6 +1849,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -1831,6 +1879,8 @@
                         "Stats.Attacks.Hammer",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -1863,6 +1913,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -2039,6 +2091,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -2066,6 +2120,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -2094,6 +2150,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -2130,6 +2188,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -2346,6 +2406,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -2373,6 +2435,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -2401,6 +2465,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -2437,6 +2503,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -2636,6 +2704,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.Rotten"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -2664,6 +2734,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.Rotten"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -2693,6 +2765,8 @@
                         "Stats.Attacks.Rotten",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -2729,6 +2803,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -2897,6 +2973,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -2924,6 +3002,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -2952,6 +3032,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -2988,6 +3070,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -6872,6 +6956,33 @@
                     "tags": [
                         "Stats.Attacks.Club"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "SmallBleedDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 344,
+                                "string_table_name": "None",
+                                "text": "Bleed"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 345,
+                                "string_table_name": "None",
+                                "text": "Open wounds cause additional damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_RangedBleed.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -6899,6 +7010,33 @@
                     "tags": [
                         "Stats.Attacks.Club"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "SmallBleedDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 344,
+                                "string_table_name": "None",
+                                "text": "Bleed"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 345,
+                                "string_table_name": "None",
+                                "text": "Open wounds cause additional damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_RangedBleed.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -6927,6 +7065,33 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "SmallBleedDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 344,
+                                "string_table_name": "None",
+                                "text": "Bleed"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 345,
+                                "string_table_name": "None",
+                                "text": "Open wounds cause additional damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_RangedBleed.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -7125,6 +7290,8 @@
                     "tags": [
                         "Stats.Attacks.Club"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -7152,6 +7319,8 @@
                     "tags": [
                         "Stats.Attacks.Club"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -7180,6 +7349,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -7361,6 +7532,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Rotten"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -7389,6 +7562,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Rotten"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -7418,6 +7593,8 @@
                         "Stats.Attacks.Rotten",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -7596,6 +7773,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -7624,6 +7803,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -7653,6 +7834,8 @@
                         "Stats.DamageTypes.Mint",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -7830,6 +8013,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -7858,6 +8043,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -7887,6 +8074,8 @@
                         "Stats.DamageTypes.Mint",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8064,6 +8253,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -8092,6 +8283,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -8121,6 +8314,8 @@
                         "Stats.DamageTypes.Mint",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8243,6 +8438,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8365,6 +8562,8 @@
                     "tags": [
                         "Stats.Attacks.Repair"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8514,6 +8713,8 @@
                     "tags": [
                         "Stats.Attacks.Repair"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8638,6 +8839,8 @@
                     "tags": [
                         "Stats.Attacks.Shovel"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8672,6 +8875,8 @@
                     "tags": [
                         "Stats.Attacks.Shovel"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8792,6 +8997,8 @@
                     "tags": [
                         "Stats.Attacks.Shovel"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8826,6 +9033,8 @@
                     "tags": [
                         "Stats.Attacks.Shovel"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8946,6 +9155,8 @@
                     "tags": [
                         "Stats.Attacks.Shovel"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -8980,6 +9191,8 @@
                     "tags": [
                         "Stats.Attacks.Shovel"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -9098,6 +9311,8 @@
                     "tags": [
                         "Stats.Attacks.Shovel"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -9132,6 +9347,8 @@
                     "tags": [
                         "Stats.Attacks.Shovel"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -9229,6 +9446,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -9328,6 +9547,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -9446,6 +9667,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -9538,6 +9761,8 @@
                     "ranged_attack": true,
                     "throw_attack": true,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -9688,6 +9913,8 @@
                     "tags": [
                         "Stats.Attacks.Unarmed"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -9715,6 +9942,8 @@
                     "tags": [
                         "Stats.Attacks.Unarmed"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -9866,6 +10095,8 @@
                     "tags": [
                         "Stats.Attacks.Unarmed"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -9893,6 +10124,8 @@
                     "tags": [
                         "Stats.Attacks.Unarmed"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -10070,6 +10303,33 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "SmallPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -15.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -10097,6 +10357,33 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "SmallPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -15.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -10132,6 +10419,33 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "SmallPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -15.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -10299,6 +10613,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -10326,6 +10642,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -10361,6 +10679,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -10528,6 +10848,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -10555,6 +10877,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -10590,6 +10914,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -10893,6 +11219,33 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.Rotten"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "TinyPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -10921,6 +11274,33 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.Rotten"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "TinyPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -10950,6 +11330,33 @@
                         "Stats.Attacks.Rotten",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "TinyPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -11131,6 +11538,33 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "TinyPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -11158,6 +11592,33 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "TinyPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -11186,6 +11647,33 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "TinyPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -11310,6 +11798,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -11504,6 +11994,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -11531,6 +12023,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -11559,6 +12053,8 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -11763,6 +12259,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -11790,6 +12288,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -11818,6 +12318,8 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -11854,6 +12356,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -12012,6 +12516,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -12153,6 +12659,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -12297,6 +12805,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -12389,6 +12899,33 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [
+                        {
+                            "key_name": "SmallPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -15.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -12481,6 +13018,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -12988,6 +13527,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Boss.Broodmother"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -13016,6 +13557,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Boss.Broodmother"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -13045,6 +13588,8 @@
                         "Stats.Attacks.Boss.Broodmother",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -13308,6 +13853,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Greatsword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -13335,6 +13882,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Greatsword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -13363,6 +13912,8 @@
                         "Stats.Attacks.Sword.Greatsword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -13540,6 +14091,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.MorningStar"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -13568,6 +14121,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.MorningStar"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -13597,6 +14152,8 @@
                         "Stats.Attacks.MorningStar",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -13629,6 +14186,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -13819,6 +14378,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -13846,6 +14407,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -13874,6 +14437,8 @@
                         "Stats.Attacks.Sword.Katana",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -14068,6 +14633,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -14095,6 +14662,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -14123,6 +14692,8 @@
                         "Stats.Attacks.Sword.Katana",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -14317,6 +14888,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -14344,6 +14917,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -14372,6 +14947,8 @@
                         "Stats.Attacks.Sword.Katana",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -14615,6 +15192,8 @@
                     "tags": [
                         "Stats.Attacks.Staff.Spicy"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -14739,6 +15318,8 @@
                     "tags": [
                         "Stats.Attacks.Staff.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -14863,6 +15444,8 @@
                     "tags": [
                         "Stats.Attacks.Staff.Sour"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -15012,6 +15595,8 @@
                     "tags": [
                         "Stats.Attacks.Staff"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -15309,6 +15894,8 @@
                     "tags": [
                         "Stats.Attacks.Club"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -15336,6 +15923,8 @@
                     "tags": [
                         "Stats.Attacks.Club"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -15364,6 +15953,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -15854,6 +16445,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -15881,6 +16474,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -15909,6 +16504,8 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -16184,6 +16781,8 @@
                         "Stats.Attacks.Dagger",
                         "Stats.Attacks.Boss.Mantis"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -16212,6 +16811,8 @@
                         "Stats.Attacks.Dagger",
                         "Stats.Attacks.Boss.Mantis"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -16241,6 +16842,8 @@
                         "Stats.Attacks.Boss.Mantis",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -16440,6 +17043,57 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -16467,6 +17121,57 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -16495,6 +17200,57 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -16675,6 +17431,33 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "WidowDaggerPoisonDoTVenom",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 231,
+                                "string_table_name": "None",
+                                "text": "Venom"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 232,
+                                "string_table_name": "None",
+                                "text": "Incredibly potent damage over time that bypasses poison immunity."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Venom.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -16702,6 +17485,33 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "WidowDaggerPoisonDoTVenom",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 231,
+                                "string_table_name": "None",
+                                "text": "Venom"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 232,
+                                "string_table_name": "None",
+                                "text": "Incredibly potent damage over time that bypasses poison immunity."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Venom.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -10.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -16737,6 +17547,33 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "MediumPoisonDoT",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 60,
+                                "string_table_name": "None",
+                                "text": "Poison"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 66,
+                                "string_table_name": "None",
+                                "text": "Deals damage over time."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::Health",
+                            "value": -20.0,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 15.0,
+                            "interval": 5.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -16929,6 +17766,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -16956,6 +17844,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -16984,6 +17923,57 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -17020,6 +18010,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -17190,6 +18231,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -17217,6 +18260,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -17245,6 +18290,8 @@
                         "Stats.Attacks.Axe.Battleaxe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -17421,6 +18468,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -17448,6 +18497,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -17476,6 +18527,8 @@
                         "Stats.Attacks.Axe.Battleaxe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -17652,6 +18705,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -17679,6 +18734,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -17707,6 +18764,8 @@
                         "Stats.Attacks.Axe.Battleaxe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -18227,6 +19286,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -18254,6 +19315,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -18282,6 +19345,8 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -18318,6 +19383,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -18470,6 +19537,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Science"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -18498,6 +19567,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Science"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -18527,6 +19598,8 @@
                         "Stats.Attacks.Science",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -18559,6 +19632,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -18707,6 +19782,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Science"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -18735,6 +19812,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Science"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -18764,6 +19843,8 @@
                         "Stats.Attacks.Science",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -18933,6 +20014,8 @@
                     "ranged_attack": true,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -19085,6 +20168,8 @@
                         "Stats.Attacks.Explosive",
                         "Stats.Attacks.Boss.IBM"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -19177,6 +20262,8 @@
                     "ranged_attack": true,
                     "throw_attack": true,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -19438,6 +20525,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -19465,6 +20554,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -19493,6 +20584,8 @@
                         "Stats.Attacks.Sword.Katana",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -19687,6 +20780,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -19714,6 +20809,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Katana"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -19742,6 +20839,8 @@
                         "Stats.Attacks.Sword.Katana",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -19919,6 +21018,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -19947,6 +21048,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -19976,6 +21079,8 @@
                         "Stats.DamageTypes.Mint",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -20153,6 +21258,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -20181,6 +21288,8 @@
                         "Stats.Attacks.Club",
                         "Stats.DamageTypes.Mint"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -20210,6 +21319,8 @@
                         "Stats.DamageTypes.Mint",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -20386,6 +21497,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -20413,6 +21526,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -20441,6 +21556,8 @@
                         "Stats.Attacks.Axe.Battleaxe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -20617,6 +21734,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -20644,6 +21763,8 @@
                     "tags": [
                         "Stats.Attacks.Axe.Battleaxe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -20672,6 +21793,8 @@
                         "Stats.Attacks.Axe.Battleaxe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -20849,6 +21972,8 @@
                         "Stats.DamageTypes.Mint",
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -20877,6 +22002,8 @@
                         "Stats.DamageTypes.Mint",
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -20906,6 +22033,8 @@
                         "Stats.Attacks.ComboFinisher",
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -21798,6 +22927,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Science"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -21826,6 +22957,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.Science"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -21855,6 +22988,8 @@
                         "Stats.Attacks.Science",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -21887,6 +23022,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -22080,6 +23217,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -22107,6 +23246,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -22135,6 +23276,8 @@
                         "Stats.Attacks.Hammer",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -22505,6 +23648,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -22532,6 +23677,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -22560,6 +23707,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -22596,6 +23745,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -22718,6 +23918,8 @@
                         "Stats.Attacks.Explosive",
                         "Stats.Attacks.Boss.IBM"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -22899,6 +24101,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -22926,6 +24130,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -22954,6 +24160,8 @@
                         "Stats.Attacks.Hammer",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -22986,6 +24194,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -23167,6 +24377,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -23194,6 +24406,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -23222,6 +24436,8 @@
                         "Stats.Attacks.Hammer",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -23254,6 +24470,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -23435,6 +24653,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -23462,6 +24682,8 @@
                     "tags": [
                         "Stats.Attacks.Hammer"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -23490,6 +24712,8 @@
                         "Stats.Attacks.Hammer",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -23522,6 +24746,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -23679,6 +24905,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -23706,6 +24934,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -23734,6 +24964,8 @@
                         "Stats.Attacks.Axe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -23766,6 +24998,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -23923,6 +25157,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -23950,6 +25186,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -23978,6 +25216,8 @@
                         "Stats.Attacks.Axe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24010,6 +25250,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24167,6 +25409,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -24194,6 +25438,8 @@
                     "tags": [
                         "Stats.Attacks.Axe"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -24222,6 +25468,8 @@
                         "Stats.Attacks.Axe",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24254,6 +25502,8 @@
                     "ranged_attack": false,
                     "throw_attack": false,
                     "tags": [],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24405,6 +25655,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -24432,6 +25684,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -24460,6 +25714,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24496,6 +25752,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24645,6 +25952,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -24672,6 +25981,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -24700,6 +26011,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24736,6 +26049,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24885,6 +26249,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -24912,6 +26278,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -24940,6 +26308,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -24976,6 +26346,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -25125,6 +26546,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -25152,6 +26575,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -25180,6 +26605,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -25216,6 +26643,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -25365,6 +26843,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -25392,6 +26872,8 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -25420,6 +26902,8 @@
                         "Stats.Attacks.Spear",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -25456,6 +26940,57 @@
                     "tags": [
                         "Stats.Attacks.Spear"
                     ],
+                    "status_effects": [
+                        {
+                            "key_name": "InfectionDamageDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Biohazard.png",
+                            "effect_type": "EStatusEffectType::AttackDamage",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": true,
+                            "unknown_fields": null
+                        },
+                        {
+                            "key_name": "InfectionSpeedDebuffShort",
+                            "display_name": {
+                                "table_id": 33,
+                                "string_id": 346,
+                                "string_table_name": "None",
+                                "text": "Infection"
+                            },
+                            "description": {
+                                "table_id": 33,
+                                "string_id": 347,
+                                "string_table_name": "None",
+                                "text": "An internal infection slows movement and lowers attack damage."
+                            },
+                            "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                            "effect_type": "EStatusEffectType::AttackSpeed",
+                            "value": 0.9,
+                            "duration_type": "EStatusEffectDurationType::Duration",
+                            "duration": 10.0,
+                            "interval": 1.0,
+                            "max_stack": 0,
+                            "is_negative_effect": false,
+                            "unknown_fields": null
+                        }
+                    ],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -25598,6 +27133,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -25625,6 +27162,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -25660,6 +27199,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -25802,6 +27343,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -25829,6 +27372,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -25864,6 +27409,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -26006,6 +27553,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -26033,6 +27582,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -26068,6 +27619,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -26210,6 +27763,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -26237,6 +27792,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -26272,6 +27829,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -27474,6 +29033,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -27501,6 +29062,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -27529,6 +29092,8 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -27684,6 +29249,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -27711,6 +29278,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -27739,6 +29308,8 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -27894,6 +29465,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -27921,6 +29494,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -27949,6 +29524,8 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -28104,6 +29681,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -28131,6 +29710,8 @@
                     "tags": [
                         "Stats.Attacks.Sword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -28159,6 +29740,8 @@
                         "Stats.Attacks.Sword",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -28320,6 +29903,8 @@
                     "tags": [
                         "Stats.Attacks.Club"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -28347,6 +29932,8 @@
                     "tags": [
                         "Stats.Attacks.Club"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -28375,6 +29962,8 @@
                         "Stats.Attacks.Club",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -28537,6 +30126,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -28564,6 +30155,8 @@
                     "tags": [
                         "Stats.Attacks.Dagger"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -28592,6 +30185,8 @@
                         "Stats.Attacks.Dagger",
                         "Stats.Attacks.ComboFinisher"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],
@@ -29516,6 +31111,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Greatsword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -29543,6 +31140,8 @@
                     "tags": [
                         "Stats.Attacks.Sword.Greatsword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 },
                 {
@@ -29571,6 +31170,8 @@
                         "Stats.Attacks.ComboFinisher",
                         "Stats.Attacks.Sword.Greatsword"
                     ],
+                    "status_effects": [],
+                    "status_effect_apply_type": "EAttackStatusEffectApplyType::DamageOnly",
                     "unknown_fields": null
                 }
             ],

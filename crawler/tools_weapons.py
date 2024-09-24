@@ -165,6 +165,10 @@ class ToolsWeaponsCrawler(BaseCrawler):
             unknown_fields=unknown_fields
         )
 
+        status_effects = []
+        for status_effect in attack_json['StatusEffects']:
+            status_effects.append(self._parse_status_effect(status_effect))
+
         unknown_fields = self._get_unknown_fields(attack_json, Attack.get_unknown_fields())
 
         return Attack(
@@ -178,6 +182,8 @@ class ToolsWeaponsCrawler(BaseCrawler):
             ranged_attack=attack_json['bRangedAttack'],
             throw_attack=attack_json['bThrowAttack'],
             tags=attack_json['Tags'],
+            status_effects=status_effects,
+            status_effect_apply_type=attack_json['StatusEffectApplyType'],
             unknown_fields=unknown_fields
         )
 

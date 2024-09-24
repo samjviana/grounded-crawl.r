@@ -1,4 +1,5 @@
 from models import DamageData
+from models.status_effect import StatusEffect
 
 class Attack:
     """
@@ -24,10 +25,14 @@ class Attack:
         - A flag to determine if the attack is a throw attack.
     - `tags`: `list[str]`
         - The tags of the attack.
+    - `status_effects`: `list[StatusEffect]`
+        - The status effects of the attack.
+    - `status_effect_apply_type`: `str`
+        - Tag that determines how the status effects are applied.
     - `unknown_fields`: `dict`
         - The unknown fields of the attack.
     """
-    def __init__(self, key_name: str, main_damage_data: DamageData, secondary_damage_data: list[DamageData], charged_damage_data: DamageData, charge_time: float, range: float, stamina_cost: float, ranged_attack: bool, throw_attack: bool, tags: list[str], unknown_fields: dict):
+    def __init__(self, key_name: str, main_damage_data: DamageData, secondary_damage_data: list[DamageData], charged_damage_data: DamageData, charge_time: float, range: float, stamina_cost: float, ranged_attack: bool, throw_attack: bool, tags: list[str], status_effects: list[StatusEffect], status_effect_apply_type: str, unknown_fields: dict):
         self.key_name = key_name
         self.main_damage_data = main_damage_data
         self.secondary_damage_data = secondary_damage_data
@@ -38,6 +43,8 @@ class Attack:
         self.ranged_attack = ranged_attack
         self.throw_attack = throw_attack
         self.tags = tags
+        self.status_effects = status_effects
+        self.status_effect_apply_type = status_effect_apply_type
         self.unknown_fields = unknown_fields
 
     def to_dict(self) -> dict:
@@ -57,6 +64,8 @@ class Attack:
             'ranged_attack': self.ranged_attack,
             'throw_attack': self.throw_attack,
             'tags': self.tags,
+            'status_effects': [status_effect.to_dict() for status_effect in self.status_effects],
+            'status_effect_apply_type': self.status_effect_apply_type,
             'unknown_fields': self.unknown_fields
         }
     
@@ -80,6 +89,8 @@ class Attack:
             data['ranged_attack'],
             data['throw_attack'],
             data['tags'],
+            [StatusEffect.from_dict(status_effect) for status_effect in data['status_effects']],
+            data['status_effect_apply_type'],
             data['unknown_fields']
         )
     
@@ -101,7 +112,7 @@ class Attack:
             'SummonClass',             'Hazards',                    'bBurrowAttack',                  'bBurrowOnEndAttack',           
             'bUnBurrowOnEndAttack',    'bForceSwapFoliageOnHit',     'ProjectileAttackTime',           'OriginSocket',                 
             'LaunchOrientationOffset', 'LaunchOrientationDeviation', 'bUseLegacyOffset',               'MinThrowIntensity',            
-            'MaxThrowIntensity',       'bSummonBossMobsPhase',       'StatusEffects',                  'StatusEffectApplyType',        
+            'MaxThrowIntensity',       'bSummonBossMobsPhase',       #'StatusEffects',                  'StatusEffectApplyType',        
             'AttackAnim',              'WeaponAnim',                 'DeflectAnim',                    'DeathNotification',            
             'StartVFX',                'ChargingVFX',                'LaunchVFX',                      'AttackVFX',                    
             'AttackChargedVFX',        'SoundFX',                    'ChargingSFX',                    'LaunchSFX',                    
