@@ -65,6 +65,29 @@ class CharacterData:
             'unknown_fields': self.unknown_fields
         }
         
+    def from_dict(data: dict) -> 'CharacterData':
+        """
+        This method is responsible for converting the dictionary to a CharacterData object.
+        #### Parameters
+        - `data`: `dict`
+            - The dictionary to convert.
+        #### Returns
+        - `CharacterData` : The converted CharacterData object.
+        """
+        return CharacterData(
+            data['name'],
+            Path(data['icon']),
+            Path(data['hud_icon']),
+            DisplayName.from_dict(data['character_name']),
+            data['character_tags'],
+            data['tameable'],
+            [UEDataTableReference.from_dict(taming_food) for taming_food in data['taming_food']],
+            [UEDataTableReference.from_dict(active_pet_passive_effect) for active_pet_passive_effect in data['active_pet_passive_effects']],
+            UEDataTableReference.from_dict(data['bestiary_item']),
+            data['actor_path'],
+            data['unknown_fields']
+        )
+
     @staticmethod
     def get_unknown_fields() -> list[str]:
         """

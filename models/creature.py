@@ -5,6 +5,8 @@ if TYPE_CHECKING:
     from .ue_object import UEObject
 
 from .display_name import DisplayName
+from .item import Item
+from .character_data import CharacterData
 from pathlib import Path
 from models import CreatureInfo
 
@@ -22,20 +24,23 @@ class Creature:
         - The weakpoint tags of the creature.
     - `info`: `CreatureInfo`
         - Details about the creature.
-    - `rare_unlock_item_name` : `str`
+    - `character_data`: `CharacterData`
+        - Data about the inner "Character" object of the creature.
+    - `rare_unlock_item` : `Item`
         - The rare unlock item name of the creature.
     - `rare_drop_chance` : `float`
         - The rare drop chance of the creature.
     - `unknown_fields` : `dict`
         - The unknown fields of the creature.
     """
-    def __init__(self, key_name: str, name: DisplayName, asset_path_name: str, weakpoint_tags: list, info: CreatureInfo, rare_unlock_item_name: str, rare_drop_chance: float, unknown_fields: dict):
+    def __init__(self, key_name: str, name: DisplayName, asset_path_name: str, weakpoint_tags: list, info: CreatureInfo, character_data: CharacterData, rare_unlock_item: Item, rare_drop_chance: float, unknown_fields: dict):
         self.key_name = key_name
         self.name = name
         self.asset_path_name = asset_path_name
         self.weakpoint_tags = weakpoint_tags
         self.info = info
-        self.rare_unlock_item_name = rare_unlock_item_name
+        self.character_data = character_data
+        self.rare_unlock_item = rare_unlock_item
         self.rare_drop_chance = rare_drop_chance
         self.unknown_fields = unknown_fields
 
@@ -51,7 +56,8 @@ class Creature:
             'asset_path_name': self.asset_path_name,
             'weakpoint_tags': self.weakpoint_tags,
             'info': self.info.to_dict() if self.info else None,
-            'rare_unlock_item_name': self.rare_unlock_item_name,
+            'character_data': self.character_data.to_dict() if self.character_data else None,
+            'rare_unlock_item': self.rare_unlock_item.to_dict() if self.rare_unlock_item else None,
             'rare_drop_chance': self.rare_drop_chance,
             'unknown_fields': self.unknown_fields
         }
@@ -99,7 +105,8 @@ class Creature:
             data['asset_path_name'],
             data['weakpoint_tags'],
             CreatureInfo.from_dict(data['info']) if data['info'] else None,
-            data['rare_unlock_item_name'],
+            CharacterData.from_dict(data['character_data']) if data['character_data'] else None,
+            Item.from_dict(data['rare_unlock_item']) if data['rare_unlock_item'] else None,
             data['rare_drop_chance'],
             data['unknown_fields']
         )

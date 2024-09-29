@@ -27,3 +27,14 @@ class UEDataTableReference:
             'row_name': self.row_name,
             'data_table': self.data_table.to_dict()
         }
+    
+    def from_dict(data: dict) -> UEDataTableReference:
+        """
+        This method is responsible for converting the dictionary to a UEDataTableReference object.
+        #### Parameters
+        - `data` : `dict`
+            - The dictionary to convert.
+        #### Returns
+        - `UEDataTableReference` : The converted UEDataTableReference object.
+        """
+        return UEDataTableReference(data['row_name'], UEObject.from_dict(data['data_table']))

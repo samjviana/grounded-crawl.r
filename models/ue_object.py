@@ -21,3 +21,14 @@ class UEObject:
             'name': self.name,
             'path': self.path
         }
+    
+    def from_dict(data: dict) -> 'UEObject':
+        """
+        This method is responsible for converting the dictionary to a UEObject object.
+        #### Parameters
+        - `data` : `dict`
+            - The dictionary to convert.
+        #### Returns
+        - `UEObject` : The converted UEObject object.
+        """
+        return UEObject(data['name'], data['path'])

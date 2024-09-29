@@ -4,6 +4,7 @@ from .harvest_node_info import HarvestNodeInfo
 from .display_name import DisplayName
 from .creature_info import CreatureInfo
 from .creature import Creature
+from .weakpoint import Weakpoint
 from .character_data import CharacterData
 from .chat_wheel import ChatWheel
 from .emote import Emote

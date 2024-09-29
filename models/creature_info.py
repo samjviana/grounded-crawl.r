@@ -6,6 +6,7 @@ if TYPE_CHECKING:
     from .ue_object import UEObject
 
 from .status_effect import StatusEffect
+from .weakpoint import Weakpoint
 from pathlib import Path
 
 class CreatureInfo:
@@ -15,6 +16,10 @@ class CreatureInfo:
     #### Parameters
     - `health` : `float`
         - The health of the creature.
+    - `base_damage_reduction` : `float`
+        - The base damage reduction of the creature.
+    - `weakpoints`: `list[Weakpoint]`
+        - The weakpoints of the creature.
     - `loot`: list
         - The loot of the creature.
     - `max_stun` : `float`
@@ -34,8 +39,10 @@ class CreatureInfo:
     - `unknown_fields` : `dict`
         - The unknown fields of the creature.
     """
-    def __init__(self, health: float, loot: list, max_stun: float, stun_decay: float, stun_duration: float, stun_cooldown: float, status_effects: list[StatusEffect], immunity_tags: list[str], team: str, unknown_fields: dict):
+    def __init__(self, health: float, base_damage_reduction: float, weakpoints: list[Weakpoint], loot: list, max_stun: float, stun_decay: float, stun_duration: float, stun_cooldown: float, status_effects: list[StatusEffect], immunity_tags: list[str], team: str, unknown_fields: dict):
         self.health = health
+        self.base_damage_reduction = base_damage_reduction
+        self.weakpoints = weakpoints
         self.loot = loot
         self.max_stun = max_stun
         self.stun_decay = stun_decay
@@ -54,6 +61,8 @@ class CreatureInfo:
         """
         return {
             'health': self.health,
+            'base_damage_reduction': self.base_damage_reduction,
+            'weakpoints': [weakpoint.to_dict() for weakpoint in self.weakpoints],
             'loot': self.loot,
             'max_stun': self.max_stun,
             'stun_decay': self.stun_decay,
@@ -76,6 +85,8 @@ class CreatureInfo:
         """
         return CreatureInfo(
             data['health'],
+            data['base_damage_reduction'],
+            [Weakpoint.from_dict(weakpoint) for weakpoint in data['weakpoints']],
             data['loot'],
             data['max_stun'],
             data['stun_decay'],
@@ -94,6 +105,7 @@ class CreatureInfo:
         #### Returns
         - `list` : The unknown fields of the creature.
         """
+        return []
         return [
             10, # AttackInfoComponent
             28, # MaineCharMovementComponent
