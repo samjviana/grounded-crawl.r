@@ -163,6 +163,7 @@ class BestiaryCrawler(BaseCrawler):
                 interval=status_effect_json['Interval'],
                 max_stack=status_effect_json['MaxStackCount'],
                 is_negative_effect=status_effect_json['bIsNegativeEffectInUI'],
+                effect_tags=status_effect_json['EffectTags'],
                 unknown_fields=unknown_fields
             ))
 

@@ -19,6 +19,7 @@ from .attack import Attack
 from .attacks_info import AttacksInfo
 from .tool_weapon import ToolWeapon
 from .item import Item
+from .item_set import ItemSet
 from .mutation_tier import MutationTier
 from .mutation import Mutation
 

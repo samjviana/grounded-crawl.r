@@ -1,0 +1,2439 @@
+{
+    "AntSet": {
+        "key_name": "AntSet",
+        "name": "Ant",
+        "duplication_cost": 500.0,
+        "items": [
+            {
+                "key_name": "ChestAnt",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 288,
+                    "string_table_name": "None",
+                    "text": "Red Ant Arm Guards"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 289,
+                    "string_table_name": "None",
+                    "text": "A spaulder and gauntlet combo crafted from tough <GlobalColor.Attention>red ant</> parts. Increases <GlobalColor.Attention>hauling</> capacity."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Ant.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Armor_Chest.BP_World_Ant_Armor_Chest_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "HeadAnt",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 56,
+                    "string_table_name": "None",
+                    "text": "Red Ant Helmet"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 57,
+                    "string_table_name": "None",
+                    "text": "A fearsome kabuto crafted from a mix of <GlobalColor.Attention>red ant</> parts. Increases <GlobalColor.Attention>hauling</> capacity."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Ant.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Armor_Head.BP_World_Ant_Armor_Head_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsAnt",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 290,
+                    "string_table_name": "None",
+                    "text": "Red Ant Knee Guards"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 291,
+                    "string_table_name": "None",
+                    "text": "Sturdy knee guards formed out of <GlobalColor.Attention>red ant</> parts. Increases <GlobalColor.Attention>hauling</> capacity."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Ant.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Armor_Legs.BP_World_Ant_Armor_Legs_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorAntSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 39,
+                    "string_table_name": "None",
+                    "text": "HumAnt"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 40,
+                    "string_table_name": "None",
+                    "text": "Red ants see you as one of them."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TeamChange",
+                "value": 0.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "AcornSet": {
+        "key_name": "AcornSet",
+        "name": "Acorn",
+        "duplication_cost": 500.0,
+        "items": [
+            {
+                "key_name": "ChestAcorn",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 284,
+                    "string_table_name": "None",
+                    "text": "Acorn Chestplate"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 285,
+                    "string_table_name": "None",
+                    "text": "Chunky torso protection crafted from <GlobalColor.Attention>acorn</> bits that insects find delicious."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Acorn.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Acorn_Armor_Chest.BP_World_Acorn_Armor_Chest_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "HeadAcorn",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 282,
+                    "string_table_name": "None",
+                    "text": "Acorn Face Mask"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 283,
+                    "string_table_name": "None",
+                    "text": "A spooky mask made from an <GlobalColor.Attention>acorn</> which insects find delicious."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Acorn.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Acorn_Armor_Head.BP_World_Acorn_Armor_Head_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsAcorn",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 286,
+                    "string_table_name": "None",
+                    "text": "Acorn Leg Plates"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 287,
+                    "string_table_name": "None",
+                    "text": "Chunky leg protection crafted from shards of <GlobalColor.Attention>acorn</> that insects find delicious."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Acorn.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Acorn_Armor_Legs.BP_World_Acorn_Armor_Legs_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorAcornSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 68,
+                    "string_table_name": "None",
+                    "text": "Uncrackable"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 62,
+                    "string_table_name": "None",
+                    "text": "You're a tough nut to crack and hard to stun."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::MaxStun",
+                "value": 15.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "GrubSet": {
+        "key_name": "GrubSet",
+        "name": "Grub",
+        "duplication_cost": 500.0,
+        "items": [
+            {
+                "key_name": "HeadGrub",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 455,
+                    "string_table_name": "None",
+                    "text": "Grub Goggles"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 456,
+                    "string_table_name": "None",
+                    "text": "Stylish goggles crafted from smooth <GlobalColor.Attention>grub</> hide strips."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Grub.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Grub_Armor_Head.BP_World_Grub_Armor_Head_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestGrub",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 457,
+                    "string_table_name": "None",
+                    "text": "Grub Vest"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 458,
+                    "string_table_name": "None",
+                    "text": "An aerodynamic vest made from smooth <GlobalColor.Attention>grub</> hide leather."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Grub.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Grub_Armor_Chest.BP_World_Grub_Armor_Chest_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsGrub",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 459,
+                    "string_table_name": "None",
+                    "text": "Grub Leggings"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 460,
+                    "string_table_name": "None",
+                    "text": "Slick and sick <GlobalColor.Attention>grub</> hide leggings."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Grub.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Grub_Armor_Legs.BP_World_Grub_Armor_Legs_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorGrubSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 197,
+                    "string_table_name": "None",
+                    "text": "Optimized Offense"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 254,
+                    "string_table_name": "None",
+                    "text": "Reduces the time it takes for stamina to start regenerating."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::StaminaDelay",
+                "value": -0.1,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "LadybugSet": {
+        "key_name": "LadybugSet",
+        "name": "Ladybug",
+        "duplication_cost": 1100.0,
+        "items": [
+            {
+                "key_name": "HeadLadybug",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 353,
+                    "string_table_name": "None",
+                    "text": "Ladybug Faceplate"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 354,
+                    "string_table_name": "None",
+                    "text": "A terrifying visage crafted from a shard of <GlobalColor.Attention>ladybug</> shell. Increases <GlobalColor.Attention>blocking</> strength."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Ladybug.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ladybug_Armor_Head.BP_World_Ladybug_Armor_Head_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestLadybug",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 355,
+                    "string_table_name": "None",
+                    "text": "Ladybug Chestplate"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 356,
+                    "string_table_name": "None",
+                    "text": "Torso armor crafted from shards of <GlobalColor.Attention>ladybug</> shell. Increases <GlobalColor.Attention>blocking</> strength."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Ladybug.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ladybug_Armor_Chest.BP_World_Ladybug_Armor_Chest_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsLadybug",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 357,
+                    "string_table_name": "None",
+                    "text": "Ladybug Shin Guards"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 358,
+                    "string_table_name": "None",
+                    "text": "Protective shin armor made from bits of tough, beautiful <GlobalColor.Attention>ladybug</> shell. Increases <GlobalColor.Attention>blocking</> strength."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Legs_Ladybug.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ladybug_Armor_Legs.BP_World_Ladybug_Armor_Legs_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorLadybugSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 70,
+                    "string_table_name": "None",
+                    "text": "Scarlet Embrace"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 44,
+                    "string_table_name": "None",
+                    "text": "Occasionally heal after blocking attacks."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ApplyBlockEffectSelf",
+                "value": 0.5,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "BeeSet": {
+        "key_name": "BeeSet",
+        "name": "Bee",
+        "duplication_cost": 1100.0,
+        "items": [
+            {
+                "key_name": "HeadBee",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 443,
+                    "string_table_name": "None",
+                    "text": "Bee Face Mask"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 444,
+                    "string_table_name": "None",
+                    "text": "An intimidating face mask made of hard to gather materials. Aerodynamic and adds a bonus to <GlobalColor.Attention>sprint</> distance."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Bee.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Bee_Armor_Head.BP_World_Bee_Armor_Head_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestBee",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 445,
+                    "string_table_name": "None",
+                    "text": "Bee Shoulder Pads"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 446,
+                    "string_table_name": "None",
+                    "text": "Intense spaulders made from tough <GlobalColor.Attention>bee</> parts that add an increase to <GlobalColor.Attention>sprint</> distance."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Bee.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Bee_Armor_Chest.BP_World_Bee_Armor_Chest_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsBee",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 447,
+                    "string_table_name": "None",
+                    "text": "Bee Shin Guards"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 448,
+                    "string_table_name": "None",
+                    "text": "Sleek shin protection crafted from <GlobalColor.Attention>bee</> parts and adds an increase to <GlobalColor.Attention>sprint</> distance."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Legs_Bee.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Bee_Armor_Legs.BP_World_Bee_Armor_Legs_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorBeeSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 126,
+                    "string_table_name": "None",
+                    "text": "Pollen Shot"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 297,
+                    "string_table_name": "None",
+                    "text": "Arrows have a chance to release a cloud of pollen."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 0.25,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "SpiderSet": {
+        "key_name": "SpiderSet",
+        "name": "Spider",
+        "duplication_cost": 1100.0,
+        "items": [
+            {
+                "key_name": "HeadSpider",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 465,
+                    "string_table_name": "None",
+                    "text": "Spider Hood"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 466,
+                    "string_table_name": "None",
+                    "text": "Intimidating headgear pieced together from various <GlobalColor.Attention>spider</> parts. Perfect for out on the field or hunting insects for sport."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Spider.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Spider_Armor_Head.BP_World_Spider_Armor_Head_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestSpider",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 467,
+                    "string_table_name": "None",
+                    "text": "Spider Shoulder Guard"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 468,
+                    "string_table_name": "None",
+                    "text": "Fashioned from the hairy rump of an <GlobalColor.Attention>orb weaver</>. Perfect for out on the field or hunting insects for sport."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Spider.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Spider_Armor_Chest.BP_World_Spider_Armor_Chest_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsSpider",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 469,
+                    "string_table_name": "None",
+                    "text": "Spider Knee Pads"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 470,
+                    "string_table_name": "None",
+                    "text": "Shiny and strong kneepads made from various <GlobalColor.Attention>spider</> pieces. Perfect for out on the field or hunting insects for sport."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Legs__Spider.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Spider_Armor_Legs.BP_World_Spider_Armor_Legs_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorSpiderSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 63,
+                    "string_table_name": "None",
+                    "text": "Hunter's Prowess"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 58,
+                    "string_table_name": "None",
+                    "text": "Your body recycles energy with increased efficiency."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::StaminaRegenRate",
+                "value": 1.25,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "CloverSet": {
+        "key_name": "CloverSet",
+        "name": "Clover",
+        "duplication_cost": 500.0,
+        "items": [
+            {
+                "key_name": "HeadClover",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 471,
+                    "string_table_name": "None",
+                    "text": "Clover Hood"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 689,
+                    "string_table_name": "None",
+                    "text": "A thin hood crafted from <GlobalColor.Attention>clovers</> and <GlobalColor.Attention>plant fiber</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Clover.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Clover_Armor_Head.BP_World_Clover_Armor_Head_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestClover",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 473,
+                    "string_table_name": "None",
+                    "text": "Clover Poncho"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 690,
+                    "string_table_name": "None",
+                    "text": "A breezy poncho crafted from <GlobalColor.Attention>clovers</> and <GlobalColor.Attention>plant fiber</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Clover.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Clover_Armor_Chest.BP_World_Clover_Armor_Chest_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsClover",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 474,
+                    "string_table_name": "None",
+                    "text": "Clover Shin Guards"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 472,
+                    "string_table_name": "None",
+                    "text": "Thin, damp leg armor crafted from <GlobalColor.Attention>clovers</> and other plant materials."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Clover.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Clover_Armor_Legs.BP_World_Clover_Armor_Legs_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorCloverSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 43,
+                    "string_table_name": "None",
+                    "text": "Trickle Regen"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 201,
+                    "string_table_name": "None",
+                    "text": "Regenerate health over time."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::Health",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 10.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "KoiSet": {
+        "key_name": "KoiSet",
+        "name": "Koi",
+        "duplication_cost": 1100.0,
+        "items": [
+            {
+                "key_name": "KoiFishScaleHelmet",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 618,
+                    "string_table_name": "None",
+                    "text": "Koi Scale Helmet"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 619,
+                    "string_table_name": "None",
+                    "text": "A stylish head piece of head gear made from solid <GlobalColor.Attention>koi fish scales</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/BS_Assets/Icons/ICO_KoiArmor_Helmet.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/BS_Assets/BluePrints/Items/World/BP_World_Koi_Armor_Head.BP_World_Koi_Armor_Head_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "KoiFishScaleChestPlate",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 620,
+                    "string_table_name": "None",
+                    "text": "Koi Scale Chestplate"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 621,
+                    "string_table_name": "None",
+                    "text": "A sturdy chest piece made from <GlobalColor.Attention>koi fish scales</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/BS_Assets/Icons/ICO_KoiArmor_Chest.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/BS_Assets/BluePrints/Items/World/BP_World_Koi_Armor_Chest.BP_World_Koi_Armor_Chest_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "KoiFishScaleLegPlate",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 622,
+                    "string_table_name": "None",
+                    "text": "Koi Scale Greaves"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 623,
+                    "string_table_name": "None",
+                    "text": "Sturdy and hydrodynamic leg plates made from <GlobalColor.Attention>koi fish scales</>. Offers increased protection without sacrificing style."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/BS_Assets/Icons/ICO_KoiArmor_Legs.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/BS_Assets/BluePrints/Items/World/BP_World_Koi_Armor_Legs.BP_World_Koi_Armor_Legs_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorKoiSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 103,
+                    "string_table_name": "None",
+                    "text": "Dazzling Riposte"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 104,
+                    "string_table_name": "None",
+                    "text": "Enemies you perfect block are filled with self doubt."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ApplyAttackEffect",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "AntBlackSet": {
+        "key_name": "AntBlackSet",
+        "name": "AntBlack",
+        "duplication_cost": 1100.0,
+        "items": [
+            {
+                "key_name": "HeadAntBlack",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 807,
+                    "string_table_name": "None",
+                    "text": "Black Ant Helmet"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 905,
+                    "string_table_name": "None",
+                    "text": "Sleek black kabuto crafted from <GlobalColor.Attention>black ant</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Ant_Black.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Black_Armor_Head.BP_World_Ant_Black_Armor_Head_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestAntBlack",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 808,
+                    "string_table_name": "None",
+                    "text": "Black Ant Arm Guards"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 906,
+                    "string_table_name": "None",
+                    "text": "Sleek black spaulder and gauntlet combo crafted from <GlobalColor.Attention>black ant</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Ant_Black.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Black_Armor_Chest.BP_World_Ant_Black_Armor_Chest_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsAntBlack",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 809,
+                    "string_table_name": "None",
+                    "text": "Black Ant Legplates"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 907,
+                    "string_table_name": "None",
+                    "text": "Sleek black set of knee guards crafted from <GlobalColor.Attention>black ant</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Ant_Black.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Black_Armor_Legs.BP_World_Ant_Black_Armor_Legs_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorAntBlackSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 122,
+                    "string_table_name": "None",
+                    "text": "Pincushion"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 119,
+                    "string_table_name": "None",
+                    "text": "Reflects some damage back at attacker."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ReflectDamage",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "AntlionSet": {
+        "key_name": "AntlionSet",
+        "name": "Antlion",
+        "duplication_cost": 2100.0,
+        "items": [
+            {
+                "key_name": "HeadAntlion",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 896,
+                    "string_table_name": "None",
+                    "text": "Antlion Wide Brim"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 897,
+                    "string_table_name": "None",
+                    "text": "An impeccably fashionable hat made from <GlobalColor.Attention>antlion</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Antlion.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Antlion_Armor_Head.BP_World_Antlion_Armor_Head_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestAntlion",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 894,
+                    "string_table_name": "None",
+                    "text": "Antlion Poncho"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 895,
+                    "string_table_name": "None",
+                    "text": "Chest armor made of <GlobalColor.Attention>antlion</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Body_Antlion.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Antlion_Armor_Chest.BP_World_Antlion_Armor_Chest_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsAntlion",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 892,
+                    "string_table_name": "None",
+                    "text": "Antlion Spurs"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 893,
+                    "string_table_name": "None",
+                    "text": "Leg armor made of <GlobalColor.Attention>antlion</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Antlion.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Antlion_Armor_Legs.BP_World_Antlion_Armor_Legs_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorAntlionSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 181,
+                    "string_table_name": "None",
+                    "text": "Quickdraw"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 203,
+                    "string_table_name": "None",
+                    "text": "Faster reload speed while in combat."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            },
+            {
+                "key_name": "CrossbowDebuffReloadImmunity",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 298,
+                    "string_table_name": "None",
+                    "text": "+Explosive Resist"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 150,
+                    "string_table_name": "None",
+                    "text": "Prevents damage from all poison-based attacks."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_Poison.png",
+                "effect_type": "EStatusEffectType::Immunity",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            },
+            {
+                "key_name": "CrossbowDebuffReloadTriggerExtraAttackAntlion",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 546,
+                    "string_table_name": "None",
+                    "text": "Rough Reload"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 547,
+                    "string_table_name": "None",
+                    "text": "Arrows that aren't properly reloaded deal significantly less damage."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StorageIcons\\T_UI_Storage_Arrows.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "RolyPolySet": {
+        "key_name": "RolyPolySet",
+        "name": "RolyPoly",
+        "duplication_cost": 2100.0,
+        "items": [
+            {
+                "key_name": "HeadRolyPoly",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 816,
+                    "string_table_name": "None",
+                    "text": "Roly Poly Helmet"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1214,
+                    "string_table_name": "None",
+                    "text": "A glorious heavy helm worthy of Sparta, crafted from the impenetrable shell of a <GlobalColor.Attention>roly poly</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Rolypoly.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_RolyPoly_Armor_Head.BP_World_RolyPoly_Armor_Head_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestRolyPoly",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 817,
+                    "string_table_name": "None",
+                    "text": "Roly Poly Breastplate"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1215,
+                    "string_table_name": "None",
+                    "text": "A stunning heavy breastplate crafted from the impenetrable shell of a <GlobalColor.Attention>roly poly</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Rolypoly.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_RolyPoly_Armor_Chest.BP_World_RolyPoly_Armor_Chest_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsRolyPoly",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 818,
+                    "string_table_name": "None",
+                    "text": "Roly Poly Legplates"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1216,
+                    "string_table_name": "None",
+                    "text": "A heavy set of thick legplates crafted from the impenetrable shell of a <GlobalColor.Attention>roly poly</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Rolypoly.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_RolyPoly_Armor_Legs.BP_World_RolyPoly_Armor_Legs_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorRolyPolySet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 275,
+                    "string_table_name": "None",
+                    "text": "Taunting Gaze"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 258,
+                    "string_table_name": "None",
+                    "text": "Increases enemies desire to attack you over other targets while in combat."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ThreatMultiplier",
+                "value": 1.5,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "AntFireSet": {
+        "key_name": "AntFireSet",
+        "name": "AntFire",
+        "duplication_cost": 2100.0,
+        "items": [
+            {
+                "key_name": "ChestAntFire",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1535,
+                    "string_table_name": "None",
+                    "text": "Fire Ant Arm Guards"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1536,
+                    "string_table_name": "None",
+                    "text": "A black and red spaulder and gauntlet combo crafted from <GlobalColor.Attention>fire ant</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Ant_Fire.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Fire_Armor_Chest.BP_World_Ant_Fire_Armor_Chest_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "HeadAntFire",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1533,
+                    "string_table_name": "None",
+                    "text": "Fire Ant Helmet"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1534,
+                    "string_table_name": "None",
+                    "text": "A black and red kabuto crafted from <GlobalColor.Attention>fire ant</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Ant_Fire.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Fire_Armor_Head.BP_World_Ant_Fire_Armor_Head_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsAntFire",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1537,
+                    "string_table_name": "None",
+                    "text": "Fire Ant Legplates"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1538,
+                    "string_table_name": "None",
+                    "text": "A black and red set of knee guards crafted from <GlobalColor.Attention>fire ant</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Ant_Fire.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Ant_Fire_Armor_Legs.BP_World_Ant_Fire_Armor_Legs_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorAntFireSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 338,
+                    "string_table_name": "None",
+                    "text": "Acidic Splash"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 339,
+                    "string_table_name": "None",
+                    "text": "Chance to hit with an additional splash of acid when attacking in melee."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 0.1,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "BossMantisSet": {
+        "key_name": "BossMantisSet",
+        "name": "BossMantis",
+        "duplication_cost": 4000.0,
+        "items": [
+            {
+                "key_name": "HeadMantis",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1077,
+                    "string_table_name": "None",
+                    "text": "Assassin's Mask"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1078,
+                    "string_table_name": "None",
+                    "text": "A stunning mask built for speed and striking. Crafted from <GlobalColor.Attention>mantis chunks</> and a <GlobalColor.Attention>mantis head</> of a fallen assassin."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Mantis.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Mantis_Armor_Head.BP_World_Mantis_Armor_Head_C",
+                "duplication_cost": 4000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestMantis",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1079,
+                    "string_table_name": "None",
+                    "text": "Assassin's Chestplate"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1080,
+                    "string_table_name": "None",
+                    "text": "Chest armor built for speed and striking. Crafted from <GlobalColor.Attention>mantis chunks</> and a <GlobalColor.Attention>mantis claw</> of a fallen assassin."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Mantis.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Mantis_Armor_Chest.BP_World_Mantis_Armor_Chest_C",
+                "duplication_cost": 4000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsMantis",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1081,
+                    "string_table_name": "None",
+                    "text": "Assassin's Greaves"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1082,
+                    "string_table_name": "None",
+                    "text": "A pair of greaves built for speed and striking. Crafted from <GlobalColor.Attention>mantis chunks</> and a <GlobalColor.Attention>mantis claw</> of a fallen assassin."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Mantis.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Mantis_Armor_Legs.BP_World_Mantis_Armor_Legs_C",
+                "duplication_cost": 4000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorMantisSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 381,
+                    "string_table_name": "None",
+                    "text": "Critical Chain"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 382,
+                    "string_table_name": "None",
+                    "text": "The fury of the mantis runs through you. Increased crit chance after dealing a crit."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ApplyCritEffectSelf",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "BlackOxSet": {
+        "key_name": "BlackOxSet",
+        "name": "BlackOx",
+        "duplication_cost": 2100.0,
+        "items": [
+            {
+                "key_name": "HeadBlackOx",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1596,
+                    "string_table_name": "None",
+                    "text": "Black Ox Helm"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1597,
+                    "string_table_name": "None",
+                    "text": "An intimidating helmet crafted out of a <GlobalColor.Attention>black ox beetle</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_BoB.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_BlackOx_Armor_Head.BP_World_BlackOx_Armor_Head_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestBlackOx",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1598,
+                    "string_table_name": "None",
+                    "text": "Black Ox Harness"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1599,
+                    "string_table_name": "None",
+                    "text": "An intimidating harness crafted out of a <GlobalColor.Attention>black ox beetle</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_BoB.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_BlackOx_Armor_Chest.BP_World_BlackOx_Armor_Chest_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsBlackOx",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1600,
+                    "string_table_name": "None",
+                    "text": "Black Ox Legwraps"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1601,
+                    "string_table_name": "None",
+                    "text": "An intimidating set of legwraps crafted out of a <GlobalColor.Attention>black ox beetle</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_BoB.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_BlackOx_Armor_Legs.BP_World_BlackOx_Armor_Legs_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorBlackOxSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 359,
+                    "string_table_name": "None",
+                    "text": "Stunning Charger"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 360,
+                    "string_table_name": "None",
+                    "text": "Your charge attacks with melee weapons pack a weightier punch, dealing more stun damage than normal."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ApplyAttackEffect",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "SpiderWidowSet": {
+        "key_name": "SpiderWidowSet",
+        "name": "SpiderWidow",
+        "duplication_cost": 2100.0,
+        "items": [
+            {
+                "key_name": "HeadSpiderWidow",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1612,
+                    "string_table_name": "None",
+                    "text": "Widow Hood"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1613,
+                    "string_table_name": "None",
+                    "text": "Light, practical headgear crafted from parts of a <GlobalColor.Attention>black widow</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Spider_Widow.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Spider_Widow_Armor_Head.BP_World_Spider_Widow_Armor_Head_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestSpiderWidow",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1614,
+                    "string_table_name": "None",
+                    "text": "Widow Spaulder"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1615,
+                    "string_table_name": "None",
+                    "text": "Light shoulder coverings crafted from parts of a <GlobalColor.Attention>black widow</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Spider_Widow.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Spider_Widow_Armor_Chest.BP_World_Spider_Widow_Armor_Chest_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsSpiderWidow",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1616,
+                    "string_table_name": "None",
+                    "text": "Widow Leggings"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1617,
+                    "string_table_name": "None",
+                    "text": "Light legwear crafted from parts of a <GlobalColor.Attention>black widow</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Legs__Spider_Widow.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Spider_Widow_Armor_Legs.BP_World_Spider_Widow_Armor_Legs_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorBlackWidowSet",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 367,
+                    "string_table_name": "None",
+                    "text": "Death's Impetus"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 690,
+                    "string_table_name": "None",
+                    "text": "Become empowered after killing a foe."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ApplyKillEffect",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ArmorBlackWidowSet2",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 367,
+                    "string_table_name": "None",
+                    "text": "Death's Impetus"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 690,
+                    "string_table_name": "None",
+                    "text": "Become empowered after killing a foe."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ApplyKillEffect",
+                "value": 1.0,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [
+                    "StatusEffect.EquipmentSetBonus"
+                ],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "MothSet": {
+        "key_name": "MothSet",
+        "name": "Moth",
+        "duplication_cost": 2100.0,
+        "items": [
+            {
+                "key_name": "HeadMoth",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1652,
+                    "string_table_name": "None",
+                    "text": "Moth Wrap"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1653,
+                    "string_table_name": "None",
+                    "text": "A stylish head wrap made from <GlobalColor.Attention>moth</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Moth.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Moth_Armor_Head.BP_World_Moth_Armor_Head_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestMoth",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1654,
+                    "string_table_name": "None",
+                    "text": "Moth Robe"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1655,
+                    "string_table_name": "None",
+                    "text": "A stylish robe made from <GlobalColor.Attention>moth</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Body_Moth.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Moth_Armor_Chest.BP_World_Moth_Armor_Chest_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsMoth",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1656,
+                    "string_table_name": "None",
+                    "text": "Moth Leggings"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1657,
+                    "string_table_name": "None",
+                    "text": "A stylish leggings made from <GlobalColor.Attention>moth</> parts."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Moth.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Moth_Armor_Legs.BP_World_Moth_Armor_Legs_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorMothSetBonus",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 403,
+                    "string_table_name": "None",
+                    "text": "Wind Run"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 404,
+                    "string_table_name": "None",
+                    "text": "Tap into the gusts and currents of the wind, occasionally increasing movement speed when landing ranged attacks."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 0.25,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "WaspSet": {
+        "key_name": "WaspSet",
+        "name": "Wasp",
+        "duplication_cost": 2100.0,
+        "items": [
+            {
+                "key_name": "HeadWasp",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1423,
+                    "string_table_name": "None",
+                    "text": "Wasp Morion"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1424,
+                    "string_table_name": "None",
+                    "text": "A fashionable, durable helm. A symbol of the queen's wisdom."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Wasp.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Wasp_Armor_Head.BP_World_Wasp_Armor_Head_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestWasp",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1425,
+                    "string_table_name": "None",
+                    "text": "Wasp Breastplate"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1426,
+                    "string_table_name": "None",
+                    "text": "Strong, durable chest armor. A symbol of the queen's love."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Chest_Wasp.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Wasp_Armor_Chest.BP_World_Wasp_Armor_Chest_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsWasp",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1427,
+                    "string_table_name": "None",
+                    "text": "Wasp Greaves"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1428,
+                    "string_table_name": "None",
+                    "text": "Stylish, durable leg armor. A symbol of the queen's longevity."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Leg_Wasp.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Wasp_Armor_Legs.BP_World_Wasp_Armor_Legs_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "ArmorSetWaspFlyingStunTrigger",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 511,
+                    "string_table_name": "None",
+                    "text": "Air Superiority"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 512,
+                    "string_table_name": "None",
+                    "text": "Ranged attacks deal significantly more stun damage to flying creatures, causing them to fall from the sky more easily."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::ApplyAttackEffect",
+                "value": 0.75,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "BroodmotherSet": {
+        "key_name": "BroodmotherSet",
+        "name": "Broodmother",
+        "duplication_cost": 4000.0,
+        "items": [
+            {
+                "key_name": "HeadBroodmother",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 833,
+                    "string_table_name": "None",
+                    "text": "Mask of the Mother Demon"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 835,
+                    "string_table_name": "None",
+                    "text": "A foreboding helm crafted from frightening pieces of a fallen <GlobalColor.Attention>Broodmother</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_Broodmother.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_Broodmother_Armor_Head.BP_World_Broodmother_Armor_Head_C",
+                "duplication_cost": 4000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "BossChestBroodmother",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1797,
+                    "string_table_name": "None",
+                    "text": "Chest of the Mother Demon"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1805,
+                    "string_table_name": "None",
+                    "text": "A foreboding piece of equipment crafted from frightening pieces of a fallen <GlobalColor.Attention>Broodmother</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_BM_Armor-Chest.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Creatures/Spider/Test01/Items/BP_World_Broodmother_Armor_Chest.BP_World_Broodmother_Armor_Chest_C",
+                "duplication_cost": 4000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "BossLegsBroodmother",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1798,
+                    "string_table_name": "None",
+                    "text": "Greaves of the Mother Demon"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1805,
+                    "string_table_name": "None",
+                    "text": "A foreboding piece of equipment crafted from frightening pieces of a fallen <GlobalColor.Attention>Broodmother</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_BM_Armor_Leg.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Creatures/Spider/Test01/Items/BP_World_Broodmother_Armor_Legs.BP_World_Broodmother_Armor_Legs_C",
+                "duplication_cost": 4000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "TriggerExtraAttackPoisonNova",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 280,
+                    "string_table_name": "None",
+                    "text": "Poison Nova"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 281,
+                    "string_table_name": "None",
+                    "text": "Your melee attacks have a chance to release a burst of poison to all living beings around you."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 0.1,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "IBMSet": {
+        "key_name": "IBMSet",
+        "name": "IBM",
+        "duplication_cost": 6000.0,
+        "items": [
+            {
+                "key_name": "BossHeadIBM",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1799,
+                    "string_table_name": "None",
+                    "text": "Mask of the Moldy Matriarch"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1802,
+                    "string_table_name": "None",
+                    "text": "A grossly fungal piece of equipment crafted from the <GlobalColor.Attention>infected broodmother</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Head_IBM.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Creatures/Spider/Test01/Items/BP_World_IBM_Armor_Head.BP_World_IBM_Armor_Head_C",
+                "duplication_cost": 6000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "BossChestIBM",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1800,
+                    "string_table_name": "None",
+                    "text": "Chest of the Moldy Matriarch"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1802,
+                    "string_table_name": "None",
+                    "text": "A grossly fungal piece of equipment crafted from the <GlobalColor.Attention>infected broodmother</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_IBM_Armor-Chest.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Creatures/Spider/Test01/Items/BP_World_IBM_Armor_Chest.BP_World_IBM_Armor_Chest_C",
+                "duplication_cost": 6000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "BossLegsIBM",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1801,
+                    "string_table_name": "None",
+                    "text": "Greaves of the Moldy Matriarch"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1802,
+                    "string_table_name": "None",
+                    "text": "A grossly fungal piece of equipment crafted from the <GlobalColor.Attention>infected broodmother</>."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_IBM_Armor_Leg.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Creatures/Spider/Test01/Items/BP_World_IBM_Armor_Legs.BP_World_IBM_Armor_Legs_C",
+                "duplication_cost": 6000,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "TriggerExtraAttackChainExplosions",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 587,
+                    "string_table_name": "None",
+                    "text": "Cluster Bomb"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 588,
+                    "string_table_name": "None",
+                    "text": "Explosions have a chance to chain in to smaller explosions."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 0.1,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "AntQueenRed": {
+        "key_name": "AntQueenRed",
+        "name": "AntQueenRed",
+        "duplication_cost": 500.0,
+        "items": [
+            {
+                "key_name": "HeadAntQueenRed",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1989,
+                    "string_table_name": "None",
+                    "text": "Red Strategist Mask"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1990,
+                    "string_table_name": "None",
+                    "text": "A mask crafted from the queen of the <GlobalColor.Attention>red ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Mask_Fire.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Red_Head.BP_World_AntQueen_Armor_Red_Head_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestAntQueenRed",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1991,
+                    "string_table_name": "None",
+                    "text": "Red Strategist Coat"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1992,
+                    "string_table_name": "None",
+                    "text": "A coat crafted from the queen of the <GlobalColor.Attention>red ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Coat_Fire.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Red_Chest.BP_World_AntQueen_Armor_Red_Chest_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsAntQueenRed",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1993,
+                    "string_table_name": "None",
+                    "text": "Red Strategist Pads"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1994,
+                    "string_table_name": "None",
+                    "text": "A set of leg guards crafted from the queen of the <GlobalColor.Attention>red ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Legs_Fire.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Red_Legs.BP_World_AntQueen_Armor_Red_Legs_C",
+                "duplication_cost": 500,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "SummonAntSoldierRed",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 721,
+                    "string_table_name": "None",
+                    "text": "Red Ant Commander"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 722,
+                    "string_table_name": "None",
+                    "text": "Soldier ants come to your aid in combat."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 0.1,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "AntQueenBlack": {
+        "key_name": "AntQueenBlack",
+        "name": "AntQueenBlack",
+        "duplication_cost": 1100.0,
+        "items": [
+            {
+                "key_name": "HeadAntQueenBlack",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1995,
+                    "string_table_name": "None",
+                    "text": "Black Strategist Mask"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1996,
+                    "string_table_name": "None",
+                    "text": "A mask crafted from the queen of the <GlobalColor.Attention>black ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Mask_Black.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Black_Head.BP_World_AntQueen_Armor_Black_Head_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestAntQueenBlack",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1997,
+                    "string_table_name": "None",
+                    "text": "Black Strategist Coat"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 1998,
+                    "string_table_name": "None",
+                    "text": "A coat crafted from the queen of the <GlobalColor.Attention>black ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Coat_Black.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Black_Chest.BP_World_AntQueen_Armor_Black_Chest_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsAntQueenBlack",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 1999,
+                    "string_table_name": "None",
+                    "text": "Black Strategist Pads"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 2000,
+                    "string_table_name": "None",
+                    "text": "A set of leg guards crafted from the queen of the <GlobalColor.Attention>black ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Legs_Black.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Black_Legs.BP_World_AntQueen_Armor_Black_Legs_C",
+                "duplication_cost": 1100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "SummonAntSoldierBlack",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 723,
+                    "string_table_name": "None",
+                    "text": "Black Ant Commander"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 722,
+                    "string_table_name": "None",
+                    "text": "Soldier ants come to your aid in combat."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 0.1,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    },
+    "AntQueenFire": {
+        "key_name": "AntQueenFire",
+        "name": "AntQueenFire",
+        "duplication_cost": 2100.0,
+        "items": [
+            {
+                "key_name": "HeadAntQueenFire",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 2001,
+                    "string_table_name": "None",
+                    "text": "Fire Strategist Mask"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 2002,
+                    "string_table_name": "None",
+                    "text": "A mask crafted from the queen of the <GlobalColor.Attention>fire ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Mask_Red.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Fire_Head.BP_World_AntQueen_Armor_Fire_Head_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Head",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "ChestAntQueenFire",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 2003,
+                    "string_table_name": "None",
+                    "text": "Fire Strategist Coat"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 2004,
+                    "string_table_name": "None",
+                    "text": "A coat crafted from the queen of the <GlobalColor.Attention>fire ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Coat_Red.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Fire_Chest.BP_World_AntQueen_Armor_Fire_Chest_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Body",
+                "unknown_fields": null
+            },
+            {
+                "key_name": "LegsAntQueenFire",
+                "name": {
+                    "table_id": 2,
+                    "string_id": 2005,
+                    "string_table_name": "None",
+                    "text": "Fire Strategist Pads"
+                },
+                "description": {
+                    "table_id": 2,
+                    "string_id": 2006,
+                    "string_table_name": "None",
+                    "text": "A set of leg guards crafted from the queen of the <GlobalColor.Attention>fire ants</> that utilizes the help of your summons."
+                },
+                "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/ICO_Strategist_Legs_Red.png",
+                "icon_modifier_path": ".",
+                "actor_name": "/Game/Blueprints/Items/World/Crafted/Armor/BP_World_AntQueen_Armor_Fire_Legs.BP_World_AntQueen_Armor_Fire_Legs_C",
+                "duplication_cost": 2100,
+                "stack_size_tag": "StackSize.Default",
+                "consumable_data": [],
+                "consume_animation_type": "EInteractAnimType::None",
+                "ugc_tag": "Category.ActorPlacement.Equippables.Legs",
+                "unknown_fields": null
+            }
+        ],
+        "status_effects": [
+            {
+                "key_name": "SummonAntSoldierFire",
+                "display_name": {
+                    "table_id": 33,
+                    "string_id": 724,
+                    "string_table_name": "None",
+                    "text": "Fire Ant Commander"
+                },
+                "description": {
+                    "table_id": 33,
+                    "string_id": 722,
+                    "string_table_name": "None",
+                    "text": "Soldier ants come to your aid in combat."
+                },
+                "icon_path": "D:\\Grounded DataMining\\1.4.4.4634\\media_data\\Maine\\Content\\UI\\Images\\StatusEffects\\T_UI_SE_SetBonus.png",
+                "effect_type": "EStatusEffectType::TriggerExtraAttack",
+                "value": 0.1,
+                "duration_type": "EStatusEffectDurationType::Infinite",
+                "duration": 0.0,
+                "interval": 0.0,
+                "max_stack": 0,
+                "is_negative_effect": false,
+                "effect_tags": [],
+                "unknown_fields": null
+            }
+        ]
+    }
+}

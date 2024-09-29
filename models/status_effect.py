@@ -27,12 +27,14 @@ class StatusEffect:
         - The max stack of the status effect.
     - `is_negative_effect`: `bool`
         - A flag to indicate if the status effect is a negative effect.
+    - `effect_tags`: `list[str]`
+        - The effect tags of the status effect.
     - `unknown_fields`: `dict`
         - The unknown fields of the status effect.
     """
     def __init__(self, key_name: str, display_name: DisplayName, description: DisplayName, icon_path: Path, 
                  effect_type: str, value: float, duration_type: str, duration: float, interval: float, 
-                 max_stack: int, is_negative_effect: bool, unknown_fields: dict):
+                 max_stack: int, is_negative_effect: bool, effect_tags: list[str], unknown_fields: dict):
         self.key_name = key_name
         self.display_name = display_name
         self.description = description
@@ -44,6 +46,7 @@ class StatusEffect:
         self.interval = interval
         self.max_stack = max_stack
         self.is_negative_effect = is_negative_effect
+        self.effect_tags = effect_tags
         self.unknown_fields = unknown_fields
 
     def to_dict(self) -> dict:
@@ -64,6 +67,7 @@ class StatusEffect:
             'interval': self.interval,
             'max_stack': self.max_stack,
             'is_negative_effect': self.is_negative_effect,
+            'effect_tags': self.effect_tags,
             'unknown_fields': self.unknown_fields
         }
     
@@ -89,6 +93,7 @@ class StatusEffect:
             data['interval'],
             data['max_stack'],
             data['is_negative_effect'],
+            data['effect_tags'],
             data['unknown_fields']
         )
 
@@ -100,7 +105,7 @@ class StatusEffect:
         - `list` : The unknown fields of the status effect.
         """
         return [
-            'DamageTypeFlags',  'DamageType',       'ApplicationTags', 'EffectTags',  
+            'DamageTypeFlags',  'DamageType',       'ApplicationTags',
             'DamageSourceTags', 'DamageTargetTags', 'UniqueTag',       'ApplyType',   
             'AttackChargeType', 'ClearFlags',       'ExtraData',       'SpawnedActor',
             'ScreenEffectData', 'VisualEffectData', 'bShowInUI',       'bStackInUI',  

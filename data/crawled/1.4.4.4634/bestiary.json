@@ -162,6 +162,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -186,6 +187,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -210,6 +212,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -234,6 +237,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -258,6 +262,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -282,6 +287,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -306,6 +312,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -494,6 +501,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -518,6 +526,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -542,6 +551,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -566,6 +576,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -590,6 +601,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -614,6 +626,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -638,6 +651,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -662,6 +676,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -841,6 +856,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -865,6 +881,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -889,6 +906,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -913,6 +931,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -937,6 +956,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -961,6 +981,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -985,6 +1006,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1149,6 +1171,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1173,6 +1196,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1197,6 +1221,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1221,6 +1246,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1245,6 +1271,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1269,6 +1296,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1405,6 +1433,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1429,6 +1458,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1453,6 +1483,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1477,6 +1508,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1501,6 +1533,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1525,6 +1558,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1625,6 +1659,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1649,6 +1684,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1673,6 +1709,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1697,6 +1734,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1721,6 +1759,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1745,6 +1784,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1929,6 +1969,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1953,6 +1994,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -1977,6 +2019,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2001,6 +2044,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2025,6 +2069,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2049,6 +2094,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2073,6 +2119,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2097,6 +2144,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2121,6 +2169,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -2555,6 +2604,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2579,6 +2629,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2603,6 +2654,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2627,6 +2679,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2651,6 +2704,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2675,6 +2729,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2699,6 +2754,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -2825,6 +2881,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2849,6 +2906,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2873,6 +2931,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2897,6 +2956,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -3174,6 +3234,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3198,6 +3259,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3222,6 +3284,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3246,6 +3309,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3270,6 +3334,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3294,6 +3359,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -3472,6 +3538,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3496,6 +3563,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3520,6 +3588,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3544,6 +3613,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3568,6 +3638,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3592,6 +3663,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -3758,6 +3830,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3782,6 +3855,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3806,6 +3880,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3830,6 +3905,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3854,6 +3930,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3878,6 +3955,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3902,6 +3980,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -3974,6 +4053,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -3998,6 +4078,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4022,6 +4103,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4046,6 +4128,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4070,6 +4153,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4094,6 +4178,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4118,6 +4203,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -4179,6 +4265,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4203,6 +4290,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -4267,6 +4355,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4291,6 +4380,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4315,6 +4405,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4339,6 +4430,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4363,6 +4455,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4387,6 +4480,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4411,6 +4505,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -4668,6 +4763,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4692,6 +4788,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4716,6 +4813,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4740,6 +4838,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -4859,6 +4958,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4883,6 +4983,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4907,6 +5008,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4931,6 +5033,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4955,6 +5058,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -4979,6 +5083,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5003,6 +5108,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5027,6 +5133,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -5163,6 +5270,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5187,6 +5295,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5211,6 +5320,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5235,6 +5345,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5259,6 +5370,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5283,6 +5395,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5307,6 +5420,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -5458,6 +5572,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5482,6 +5597,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -5646,6 +5762,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5670,6 +5787,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5694,6 +5812,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5718,6 +5837,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5742,6 +5862,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5766,6 +5887,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5790,6 +5912,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5814,6 +5937,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -5967,6 +6091,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -5991,6 +6116,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6015,6 +6141,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6039,6 +6166,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6063,6 +6191,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6087,6 +6216,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6111,6 +6241,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -6290,6 +6421,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6314,6 +6446,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -6468,6 +6601,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6492,6 +6626,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6516,6 +6651,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6540,6 +6676,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -6714,6 +6851,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6738,6 +6876,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6762,6 +6901,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -6929,6 +7069,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6953,6 +7094,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -6977,6 +7119,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7001,6 +7144,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7025,6 +7169,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -7175,6 +7320,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7199,6 +7345,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7223,6 +7370,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7247,6 +7395,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -7421,6 +7570,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7445,6 +7595,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -7526,6 +7677,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7550,6 +7702,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7574,6 +7727,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7598,6 +7752,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7622,6 +7777,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7646,6 +7802,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7670,6 +7827,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7694,6 +7852,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7718,6 +7877,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -7901,6 +8061,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7925,6 +8086,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7949,6 +8111,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7973,6 +8136,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -7997,6 +8161,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8021,6 +8186,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -8210,6 +8376,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8234,6 +8401,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8258,6 +8426,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8282,6 +8451,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8306,6 +8476,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8330,6 +8501,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -8472,6 +8644,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8496,6 +8669,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8520,6 +8694,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8544,6 +8719,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8568,6 +8744,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -8828,6 +9005,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8852,6 +9030,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8876,6 +9055,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -8900,6 +9080,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -9621,6 +9802,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -9645,6 +9827,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -9809,6 +9992,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -9833,6 +10017,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -9857,6 +10042,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -9881,6 +10067,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -9905,6 +10092,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -9929,6 +10117,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -9953,6 +10142,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -9977,6 +10167,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10001,6 +10192,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -10202,6 +10394,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10226,6 +10419,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10250,6 +10444,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10274,6 +10469,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10298,6 +10494,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10322,6 +10519,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10346,6 +10544,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10370,6 +10569,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -10938,6 +11138,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10962,6 +11163,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -10986,6 +11188,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11010,6 +11213,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11034,6 +11238,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11058,6 +11263,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11082,6 +11288,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11106,6 +11313,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11130,6 +11338,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11154,6 +11363,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11178,6 +11388,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -11355,6 +11566,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11379,6 +11591,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11403,6 +11616,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11427,6 +11641,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11451,6 +11666,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11475,6 +11691,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11499,6 +11716,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11523,6 +11741,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -11663,6 +11882,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11687,6 +11907,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11711,6 +11932,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11735,6 +11957,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -11935,6 +12158,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11959,6 +12183,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -11983,6 +12208,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12007,6 +12233,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12031,6 +12258,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -12203,6 +12431,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12227,6 +12456,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12251,6 +12481,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12275,6 +12506,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12299,6 +12531,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -12619,6 +12852,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12643,6 +12877,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12667,6 +12902,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12691,6 +12927,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12715,6 +12952,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12739,6 +12977,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12763,6 +13002,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12787,6 +13027,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12811,6 +13052,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12835,6 +13077,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12859,6 +13102,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -13036,6 +13280,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13060,6 +13305,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13084,6 +13330,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13108,6 +13355,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13132,6 +13380,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13156,6 +13405,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13180,6 +13430,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13204,6 +13455,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13228,6 +13480,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -13402,6 +13655,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13426,6 +13680,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13450,6 +13705,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13474,6 +13730,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13498,6 +13755,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13522,6 +13780,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13546,6 +13805,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13570,6 +13830,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13594,6 +13855,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13618,6 +13880,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -13770,6 +14033,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13794,6 +14058,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13818,6 +14083,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13842,6 +14108,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -13866,6 +14133,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -14125,6 +14393,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14149,6 +14418,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14173,6 +14443,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14197,6 +14468,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14221,6 +14493,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14245,6 +14518,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14269,6 +14543,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -14362,6 +14637,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14386,6 +14662,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14410,6 +14687,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14434,6 +14712,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14458,6 +14737,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14482,6 +14762,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14506,6 +14787,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -14690,6 +14972,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14714,6 +14997,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14738,6 +15022,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14762,6 +15047,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14786,6 +15072,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14810,6 +15097,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14834,6 +15122,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14858,6 +15147,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -14974,6 +15264,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -14998,6 +15289,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15022,6 +15314,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15046,6 +15339,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15070,6 +15364,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15094,6 +15389,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15118,6 +15414,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15142,6 +15439,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15166,6 +15464,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15190,6 +15489,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -15754,6 +16054,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15778,6 +16079,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15802,6 +16104,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15826,6 +16129,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15850,6 +16154,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15874,6 +16179,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15898,6 +16204,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15922,6 +16229,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15946,6 +16254,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -15970,6 +16279,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -16113,6 +16423,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16137,6 +16448,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16161,6 +16473,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16185,6 +16498,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16209,6 +16523,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16233,6 +16548,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16257,6 +16573,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16281,6 +16598,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16305,6 +16623,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -16498,6 +16817,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16522,6 +16842,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16546,6 +16867,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16570,6 +16892,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16594,6 +16917,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16618,6 +16942,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16642,6 +16967,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16666,6 +16992,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -17238,6 +17565,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17262,6 +17590,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17286,6 +17615,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17310,6 +17640,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17334,6 +17665,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17358,6 +17690,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17382,6 +17715,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17406,6 +17740,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17430,6 +17765,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17454,6 +17790,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -17631,6 +17968,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17655,6 +17993,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17679,6 +18018,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17703,6 +18043,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17727,6 +18068,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17751,6 +18093,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17775,6 +18118,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17799,6 +18143,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17823,6 +18168,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17847,6 +18193,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17871,6 +18218,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -17895,6 +18243,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -18527,6 +18876,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18551,6 +18901,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18575,6 +18926,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18599,6 +18951,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18623,6 +18976,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18647,6 +19001,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18671,6 +19026,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -18932,6 +19288,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18956,6 +19313,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18980,6 +19338,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -19142,6 +19501,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19166,6 +19526,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19190,6 +19551,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19214,6 +19576,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19238,6 +19601,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -19336,6 +19700,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19360,6 +19725,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19384,6 +19750,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19408,6 +19775,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -19496,6 +19864,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19520,6 +19889,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19544,6 +19914,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19568,6 +19939,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -19656,6 +20028,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19680,6 +20053,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19704,6 +20078,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19728,6 +20103,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],

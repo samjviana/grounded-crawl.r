@@ -13,7 +13,7 @@ class StatusEffectsCrawler(BaseCrawler):
             json_path=Path('Maine/Content/Blueprints/Attacks/Table_StatusEffects.json'),
             hide_unknown_fields=hide_unknown_fields
         )
-        self.unknown_fields = StatusEffect.get_unknown_fields()
+        self.unknown_field_list = StatusEffect.get_unknown_fields()
 
     def dispose(self) -> None:
         pass
@@ -36,5 +36,6 @@ class StatusEffectsCrawler(BaseCrawler):
             interval=value['Interval'],
             max_stack=value['MaxStackCount'],
             is_negative_effect=value['bIsNegativeEffectInUI'],
+            effect_tags=value['EffectTags'],
             unknown_fields=unknown_fields
         )

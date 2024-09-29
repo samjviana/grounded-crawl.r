@@ -213,6 +213,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -239,6 +242,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -490,6 +494,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -516,6 +523,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -785,6 +793,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -811,6 +822,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1080,6 +1092,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -1104,6 +1119,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1130,6 +1146,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1381,6 +1398,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -1405,6 +1425,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1431,6 +1452,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1700,6 +1722,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -1724,6 +1749,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -1750,6 +1776,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -2013,6 +2040,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -2039,6 +2069,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -2286,6 +2317,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2310,6 +2342,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -2336,6 +2371,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -2601,6 +2637,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -2625,6 +2662,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -2651,6 +2691,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -2895,6 +2936,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -2921,6 +2965,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -3164,6 +3209,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -3524,6 +3572,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -3884,6 +3935,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -3908,6 +3962,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -4268,6 +4323,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -4292,6 +4350,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -4645,6 +4704,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -4669,6 +4731,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -4695,6 +4758,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -5121,6 +5185,9 @@
                     "interval": 1.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [
+                        "StatusEffect.Bleed"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -5217,6 +5284,9 @@
                     "interval": 5.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [
+                        "StatusEffect.Poison"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -5384,6 +5454,9 @@
                     "interval": 1.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [
+                        "StatusEffect.Gas"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -5835,6 +5908,9 @@
                     "interval": 1.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [
+                        "StatusEffect.Gas"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -6002,6 +6078,9 @@
                     "interval": 5.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [
+                        "StatusEffect.Poison"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -6098,6 +6177,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Flying"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -6122,6 +6204,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": true,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -6527,6 +6610,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -6860,6 +6944,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -6886,6 +6973,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -6979,6 +7067,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Bleed"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -7033,6 +7124,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Bleed"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -7088,6 +7182,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Bleed"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -7194,6 +7291,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -7220,6 +7320,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -7453,6 +7554,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -7479,6 +7583,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -7694,6 +7799,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -7720,6 +7828,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -7934,6 +8043,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -7960,6 +8072,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -8174,6 +8287,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -8200,6 +8316,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -8660,6 +8777,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -9860,6 +9978,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -10042,6 +10163,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -10225,6 +10349,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -10251,6 +10378,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -10326,6 +10454,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -10380,6 +10511,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -10442,6 +10576,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -10535,6 +10672,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -10561,6 +10701,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -10770,6 +10911,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -10796,6 +10940,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -11140,6 +11285,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -11166,6 +11314,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -11242,6 +11391,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -11297,6 +11449,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -11353,6 +11508,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -11460,6 +11618,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -11486,6 +11647,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -11561,6 +11723,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -11615,6 +11780,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -11670,6 +11838,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -11898,6 +12069,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -11924,6 +12098,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -12157,6 +12332,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -12181,6 +12357,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -12207,6 +12386,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -12922,6 +13102,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -13448,6 +13631,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -13474,6 +13660,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -13757,6 +13944,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -13783,6 +13973,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -14012,6 +14203,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -14038,6 +14232,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -14282,6 +14477,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -14308,6 +14506,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -14537,6 +14736,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -14563,6 +14765,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -14792,6 +14995,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -14818,6 +15024,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -15045,6 +15252,7 @@
                     "interval": 1.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -15542,6 +15750,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -15774,6 +15983,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -15798,6 +16010,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -15824,6 +16037,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -16044,6 +16258,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16068,6 +16283,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -16178,6 +16394,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16202,6 +16419,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -16325,6 +16543,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16349,6 +16568,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -16375,6 +16597,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -16678,6 +16901,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -16702,6 +16926,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -16728,6 +16953,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -16947,6 +17173,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -16973,6 +17202,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -17066,6 +17296,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -17090,6 +17323,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -17144,6 +17380,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -17168,6 +17407,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -17223,6 +17465,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -17247,6 +17492,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -17353,6 +17601,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -17379,6 +17630,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -17454,6 +17706,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Venom"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -17508,6 +17763,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Venom"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -17570,6 +17828,9 @@
                             "interval": 5.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.Poison"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -17670,6 +17931,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -17696,6 +17960,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -17789,6 +18054,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -17813,6 +18081,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -17867,6 +18138,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -17891,6 +18165,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -17946,6 +18223,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -17970,6 +18250,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -18033,6 +18316,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -18057,6 +18343,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -18153,6 +18442,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -18179,6 +18471,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -18390,6 +18683,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -18416,6 +18712,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -18627,6 +18924,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -18653,6 +18953,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -18855,6 +19156,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18879,6 +19181,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -18903,6 +19206,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -19013,6 +19317,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19037,6 +19342,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19061,6 +19367,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -19184,6 +19491,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -19208,6 +19516,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -19234,6 +19545,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -19483,6 +19795,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -19728,6 +20041,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -20114,6 +20428,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -20429,6 +20744,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -20455,6 +20773,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -20684,6 +21003,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -20710,6 +21032,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -20939,6 +21262,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -20965,6 +21291,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -21179,6 +21506,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -21205,6 +21535,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -21419,6 +21750,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -21445,6 +21779,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -21656,6 +21991,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -21682,6 +22020,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -21893,6 +22232,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -21919,6 +22261,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -22700,6 +23043,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -22724,6 +23068,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -22748,6 +23093,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -22873,6 +23219,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -23115,6 +23462,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 },
                 {
@@ -23139,6 +23487,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -23165,6 +23514,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -23528,6 +23878,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -23552,6 +23905,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -23578,6 +23932,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -23768,6 +24123,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -23792,6 +24150,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -24024,6 +24385,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -24048,6 +24412,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -24300,6 +24665,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -24324,6 +24692,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -24576,6 +24945,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -24600,6 +24972,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -24852,6 +25225,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -25104,6 +25480,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -25356,6 +25735,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -25602,6 +25984,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -25775,6 +26160,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -25799,6 +26187,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -25899,6 +26290,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -26072,6 +26466,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -26096,6 +26493,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -26196,6 +26596,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -26369,6 +26772,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -26393,6 +26799,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -26493,6 +26902,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -26666,6 +27078,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -26690,6 +27105,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -26790,6 +27208,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -26963,6 +27384,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": true,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         },
                         {
@@ -26987,6 +27411,9 @@
                             "interval": 1.0,
                             "max_stack": 0,
                             "is_negative_effect": false,
+                            "effect_tags": [
+                                "StatusEffect.AttackSlow"
+                            ],
                             "unknown_fields": null
                         }
                     ],
@@ -27080,6 +27507,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -27290,6 +27720,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -27500,6 +27933,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -27710,6 +28146,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -27916,6 +28355,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -28267,6 +28709,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -28618,6 +29063,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -28980,6 +29428,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -29196,6 +29647,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -29412,6 +29866,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -29628,6 +30085,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -29850,6 +30310,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
@@ -30073,6 +30536,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -30286,6 +30750,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -30310,6 +30777,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -30670,6 +31138,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 },
                 {
@@ -30694,6 +31165,7 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [],
                     "unknown_fields": null
                 }
             ],
@@ -31058,6 +31530,9 @@
                     "interval": 0.0,
                     "max_stack": 0,
                     "is_negative_effect": false,
+                    "effect_tags": [
+                        "StatusEffect.Identifier"
+                    ],
                     "unknown_fields": null
                 }
             ],
