@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import Any
 from crawler.base_crawler import BaseCrawler
-from models import ItemSet, StatusEffect, DisplayName, Item
+from models import ItemSet, StatusEffect, DisplayName, Item, RecipeComponent
 
 class ItemSetsCrawler(BaseCrawler):
     """
@@ -40,6 +40,20 @@ class ItemSetsCrawler(BaseCrawler):
         icon_path = self._get_media_path(item_json['Icon'])
         icon_modifier_path = self._get_media_path(item_json['ModIcon'])
 
+        repair_recipe = []
+        recipe = [] if 'RepairRecipe' not in item_json['EquippableData'] else item_json['EquippableData']['RepairRecipe']
+        for component in recipe:
+            quantity = component['ItemCount']
+            item = self._parse_item(component['Item'])
+            repair_recipe.append(RecipeComponent(
+                item_key=item.key_name,
+                quantity=quantity,
+                display_name=item.name,
+                description=item.description,
+                icon_path=item.icon_path,
+                icon_modifier_path=item.icon_modifier_path,
+            ))
+
         unknown_fields = self._get_unknown_fields(item_json, Item.get_unknown_fields())
 
         return Item(
@@ -48,6 +62,8 @@ class ItemSetsCrawler(BaseCrawler):
             description=description,
             icon_path=icon_path,
             icon_modifier_path=icon_modifier_path,
+            tier=item_json['Tier'],
+            repair_recipe=repair_recipe,
             actor_name=item_json['WorldActor']['AssetPathName'],
             duplication_cost=item_json['DuplicateBaseCost'],
             stack_size_tag=item_json['StackSizeTag']['TagName'],
@@ -87,9 +103,25 @@ class ItemSetsCrawler(BaseCrawler):
             interval=status_effect_json['Interval'],
             max_stack=status_effect_json['MaxStackCount'],
             is_negative_effect=status_effect_json['bIsNegativeEffectInUI'],
+            show_in_ui=status_effect_json['bShowInUI'],
             effect_tags=status_effect_json['EffectTags'],
             unknown_fields=unknown_fields
         )
+
+    @staticmethod
+    def _get_armor_set_name(item_names: list[str]) -> str:
+        if len(item_names) == 0:
+            return ''
+        
+        shortest_string = min(item_names, key=len)
+        for length in range(len(shortest_string), 0, -1):
+            for start in range(len(shortest_string) - length + 1):
+                substring = shortest_string[start:start+length]
+                if all(substring in s for s in item_names):
+                    armor_set = substring.strip().replace('of the ', '')
+                    return armor_set
+        
+        return ''
 
     # TODO: Those `_parse_` methods can be moved into a utility class (or made the code depend on each other)
     def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> ItemSet:
@@ -106,9 +138,17 @@ class ItemSetsCrawler(BaseCrawler):
         if any([_duplication_cost != duplication_cost for _duplication_cost in duplications_costs]):
             raise ValueError('The duplication costs of the items in the set are not the same.')
 
+        name = self._get_armor_set_name([item.name.text for item in items])
+
+        tier_set = set([item.tier for item in items])
+        if len(tier_set) != 1:
+            raise ValueError('The items in the set have different tiers.')
+        tier = tier_set.pop()
+
         item_set = ItemSet(
             key_name=key,
-            name=key.replace('Set', ''),
+            name=name,
+            tier=tier,
             items=items,
             status_effects=status_effects,
             duplication_cost=duplication_cost,

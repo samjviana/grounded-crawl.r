@@ -5,7 +5,7 @@ from pathlib import Path
 from typing import Any
 
 from models import Creature, CreatureInfo, StatusEffect, DisplayName, Item, CharacterData
-from models import UEDataTableReference, UEObject, Weakpoint
+from models import UEDataTableReference, UEObject, Weakpoint, RecipeComponent
 from .base_crawler import BaseCrawler
 
 class BestiaryCrawler(BaseCrawler):
@@ -49,6 +49,20 @@ class BestiaryCrawler(BaseCrawler):
         icon_path = self._get_media_path(item_json['Icon'])
         icon_modifier_path = self._get_media_path(item_json['ModIcon'])
 
+        repair_recipe = []
+        recipe = [] if 'RepairRecipe' not in item_json['EquippableData'] else item_json['EquippableData']['RepairRecipe']
+        for component in recipe:
+            quantity = component['ItemCount']
+            item = self._parse_item(component['Item'])
+            repair_recipe.append(RecipeComponent(
+                item_key=item.key_name,
+                quantity=quantity,
+                display_name=item.name,
+                description=item.description,
+                icon_path=item.icon_path,
+                icon_modifier_path=item.icon_modifier_path,
+            ))
+
         unknown_fields = self._get_unknown_fields(item_json, Item.get_unknown_fields())
 
         return Item(
@@ -57,6 +71,8 @@ class BestiaryCrawler(BaseCrawler):
             description=description,
             icon_path=icon_path,
             icon_modifier_path=icon_modifier_path,
+            tier=item_json['Tier'],
+            repair_recipe=repair_recipe,
             actor_name=item_json['WorldActor']['AssetPathName'],
             duplication_cost=item_json['DuplicateBaseCost'],
             stack_size_tag=item_json['StackSizeTag']['TagName'],
@@ -222,6 +238,7 @@ class BestiaryCrawler(BaseCrawler):
                 interval=status_effect_json['Interval'],
                 max_stack=status_effect_json['MaxStackCount'],
                 is_negative_effect=status_effect_json['bIsNegativeEffectInUI'],
+                show_in_ui=status_effect_json['bShowInUI'],
                 effect_tags=status_effect_json['EffectTags'],
                 unknown_fields=unknown_fields
             ))
@@ -394,8 +411,6 @@ class BestiaryCrawler(BaseCrawler):
         return character_data
 
     def _get_crawled_data(self, key: str, value: dict, unknown_fields: dict[str, Any]) -> Creature:
-        if key == 'SpiderOrb':
-            print('Found SpiderOrb')
         name, creature_info = self._parse_creature_info(value['Creature']['AssetPathName'])
 
         character_data = self._get_character_data(value['Creature']['AssetPathName'])

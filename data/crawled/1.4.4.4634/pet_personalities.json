@@ -7,7 +7,9 @@
             "string_table_name": "None",
             "text": "Slippery"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Agape": {
         "key_name": "Agape",
@@ -17,7 +19,9 @@
             "string_table_name": "None",
             "text": "Agape"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Curious": {
         "key_name": "Curious",
@@ -27,7 +31,9 @@
             "string_table_name": "None",
             "text": "Curious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Furtive": {
         "key_name": "Furtive",
@@ -37,7 +43,9 @@
             "string_table_name": "None",
             "text": "Furtive"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Carefree": {
         "key_name": "Carefree",
@@ -47,7 +55,9 @@
             "string_table_name": "None",
             "text": "Carefree"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "LawfulGood": {
         "key_name": "LawfulGood",
@@ -57,7 +67,9 @@
             "string_table_name": "None",
             "text": "Lawful Good"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "NeutralGood": {
         "key_name": "NeutralGood",
@@ -67,7 +79,9 @@
             "string_table_name": "None",
             "text": "Neutral Good"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "ChaoticGood": {
         "key_name": "ChaoticGood",
@@ -77,7 +91,9 @@
             "string_table_name": "None",
             "text": "Chaotic Good"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "LawfulNeutral": {
         "key_name": "LawfulNeutral",
@@ -87,7 +103,9 @@
             "string_table_name": "None",
             "text": "Lawful Neutral"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "TrueNeutral": {
         "key_name": "TrueNeutral",
@@ -97,7 +115,9 @@
             "string_table_name": "None",
             "text": "True Neutral"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "ChaoticNeutral": {
         "key_name": "ChaoticNeutral",
@@ -107,7 +127,9 @@
             "string_table_name": "None",
             "text": "Chaotic Neutral"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "LawfulEvil": {
         "key_name": "LawfulEvil",
@@ -117,7 +139,9 @@
             "string_table_name": "None",
             "text": "Lawful Evil"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "NeutralEvil": {
         "key_name": "NeutralEvil",
@@ -127,7 +151,9 @@
             "string_table_name": "None",
             "text": "Neutral Evil"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "ChaoticEvil": {
         "key_name": "ChaoticEvil",
@@ -137,7 +163,9 @@
             "string_table_name": "None",
             "text": "Chaotic Evil"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Goofball": {
         "key_name": "Goofball",
@@ -147,7 +175,9 @@
             "string_table_name": "None",
             "text": "Goofball"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Reckless": {
         "key_name": "Reckless",
@@ -157,7 +187,9 @@
             "string_table_name": "None",
             "text": "Reckless"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Audacious": {
         "key_name": "Audacious",
@@ -167,7 +199,9 @@
             "string_table_name": "None",
             "text": "Audacious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Fearless": {
         "key_name": "Fearless",
@@ -177,7 +211,9 @@
             "string_table_name": "None",
             "text": "Fearless"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Brave": {
         "key_name": "Brave",
@@ -187,7 +223,9 @@
             "string_table_name": "None",
             "text": "Brave"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Smart": {
         "key_name": "Smart",
@@ -197,7 +235,9 @@
             "string_table_name": "None",
             "text": "Smart"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Dumb": {
         "key_name": "Dumb",
@@ -207,7 +247,9 @@
             "string_table_name": "None",
             "text": "Dumb"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Mean": {
         "key_name": "Mean",
@@ -217,7 +259,9 @@
             "string_table_name": "None",
             "text": "Mean"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Bashful": {
         "key_name": "Bashful",
@@ -227,7 +271,9 @@
             "string_table_name": "None",
             "text": "Bashful"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Sleezy": {
         "key_name": "Sleezy",
@@ -237,7 +283,9 @@
             "string_table_name": "None",
             "text": "Sleazy"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Suspicious": {
         "key_name": "Suspicious",
@@ -247,7 +295,9 @@
             "string_table_name": "None",
             "text": "Suspicious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Wary": {
         "key_name": "Wary",
@@ -257,7 +307,9 @@
             "string_table_name": "None",
             "text": "Wary"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Heroic": {
         "key_name": "Heroic",
@@ -267,7 +319,9 @@
             "string_table_name": "None",
             "text": "Heroic"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Legendary": {
         "key_name": "Legendary",
@@ -277,7 +331,9 @@
             "string_table_name": "None",
             "text": "Legendary"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Skittish": {
         "key_name": "Skittish",
@@ -287,7 +343,9 @@
             "string_table_name": "None",
             "text": "Skittish"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Scared": {
         "key_name": "Scared",
@@ -297,7 +355,9 @@
             "string_table_name": "None",
             "text": "Scared"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Hotheaded": {
         "key_name": "Hotheaded",
@@ -307,7 +367,9 @@
             "string_table_name": "None",
             "text": "Hotheaded"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Chill": {
         "key_name": "Chill",
@@ -317,7 +379,9 @@
             "string_table_name": "None",
             "text": "Chill"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Modish": {
         "key_name": "Modish",
@@ -327,7 +391,9 @@
             "string_table_name": "None",
             "text": "Modish"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Regal": {
         "key_name": "Regal",
@@ -337,7 +403,9 @@
             "string_table_name": "None",
             "text": "Regal"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Loyal": {
         "key_name": "Loyal",
@@ -347,7 +415,9 @@
             "string_table_name": "None",
             "text": "Loyal"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Aloof": {
         "key_name": "Aloof",
@@ -357,7 +427,9 @@
             "string_table_name": "None",
             "text": "Aloof"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Determined": {
         "key_name": "Determined",
@@ -367,7 +439,9 @@
             "string_table_name": "None",
             "text": "Determined"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Friendly": {
         "key_name": "Friendly",
@@ -377,7 +451,9 @@
             "string_table_name": "None",
             "text": "Friendly"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Aggressive": {
         "key_name": "Aggressive",
@@ -387,7 +463,9 @@
             "string_table_name": "None",
             "text": "Aggressive"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Violent": {
         "key_name": "Violent",
@@ -397,7 +475,9 @@
             "string_table_name": "None",
             "text": "Violent"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Sedentary": {
         "key_name": "Sedentary",
@@ -407,7 +487,9 @@
             "string_table_name": "None",
             "text": "Sedentary"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Lazy": {
         "key_name": "Lazy",
@@ -417,7 +499,9 @@
             "string_table_name": "None",
             "text": "Lazy"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Cool": {
         "key_name": "Cool",
@@ -427,7 +511,9 @@
             "string_table_name": "None",
             "text": "Cool"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Shy": {
         "key_name": "Shy",
@@ -437,7 +523,9 @@
             "string_table_name": "None",
             "text": "Shy"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Smol": {
         "key_name": "Smol",
@@ -447,7 +535,9 @@
             "string_table_name": "None",
             "text": "Smol"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Swol": {
         "key_name": "Swol",
@@ -457,7 +547,9 @@
             "string_table_name": "None",
             "text": "Swole"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Genius": {
         "key_name": "Genius",
@@ -467,7 +559,9 @@
             "string_table_name": "None",
             "text": "Genius"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Cowardly": {
         "key_name": "Cowardly",
@@ -477,7 +571,9 @@
             "string_table_name": "None",
             "text": "Cowardly"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Fearful": {
         "key_name": "Fearful",
@@ -487,7 +583,9 @@
             "string_table_name": "None",
             "text": "Fearful"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Hateful": {
         "key_name": "Hateful",
@@ -497,7 +595,9 @@
             "string_table_name": "None",
             "text": "Hateful"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Forgiving": {
         "key_name": "Forgiving",
@@ -507,7 +607,9 @@
             "string_table_name": "None",
             "text": "Forgiving"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Serious": {
         "key_name": "Serious",
@@ -517,7 +619,9 @@
             "string_table_name": "None",
             "text": "Serious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Pensive": {
         "key_name": "Pensive",
@@ -527,7 +631,9 @@
             "string_table_name": "None",
             "text": "Pensive"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Spontaneous": {
         "key_name": "Spontaneous",
@@ -537,7 +643,9 @@
             "string_table_name": "None",
             "text": "Spontaneous"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Dedicated": {
         "key_name": "Dedicated",
@@ -547,7 +655,9 @@
             "string_table_name": "None",
             "text": "Dedicated"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Sedulous": {
         "key_name": "Sedulous",
@@ -557,7 +667,9 @@
             "string_table_name": "None",
             "text": "Sedulous"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Vigilant": {
         "key_name": "Vigilant",
@@ -567,7 +679,9 @@
             "string_table_name": "None",
             "text": "Vigilant"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Rookie": {
         "key_name": "Rookie",
@@ -577,7 +691,9 @@
             "string_table_name": "None",
             "text": "Rookie"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Wholesome": {
         "key_name": "Wholesome",
@@ -587,7 +703,9 @@
             "string_table_name": "None",
             "text": "Wholesome"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Murderous": {
         "key_name": "Murderous",
@@ -597,7 +715,9 @@
             "string_table_name": "None",
             "text": "Murderous"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Brutal": {
         "key_name": "Brutal",
@@ -607,7 +727,9 @@
             "string_table_name": "None",
             "text": "Brutal"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Savage": {
         "key_name": "Savage",
@@ -617,7 +739,9 @@
             "string_table_name": "None",
             "text": "Savage"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Ferocious": {
         "key_name": "Ferocious",
@@ -627,7 +751,9 @@
             "string_table_name": "None",
             "text": "Ferocious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Undisciplined": {
         "key_name": "Undisciplined",
@@ -637,7 +763,9 @@
             "string_table_name": "None",
             "text": "Undisciplined"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Wishful": {
         "key_name": "Wishful",
@@ -647,7 +775,9 @@
             "string_table_name": "None",
             "text": "Wishful"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Zany": {
         "key_name": "Zany",
@@ -657,7 +787,9 @@
             "string_table_name": "None",
             "text": "Zany"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Ignorant": {
         "key_name": "Ignorant",
@@ -667,7 +799,9 @@
             "string_table_name": "None",
             "text": "Ignorant"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Clumsy": {
         "key_name": "Clumsy",
@@ -677,7 +811,9 @@
             "string_table_name": "None",
             "text": "Clumsy"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Anxious": {
         "key_name": "Anxious",
@@ -687,7 +823,9 @@
             "string_table_name": "None",
             "text": "Anxious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Logical": {
         "key_name": "Logical",
@@ -697,7 +835,9 @@
             "string_table_name": "None",
             "text": "Logical"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Old-fashioned": {
         "key_name": "Old-fashioned",
@@ -707,7 +847,9 @@
             "string_table_name": "None",
             "text": "Old-fashioned"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Disrespectful": {
         "key_name": "Disrespectful",
@@ -717,7 +859,9 @@
             "string_table_name": "None",
             "text": "Disrespectful"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Frivolous": {
         "key_name": "Frivolous",
@@ -727,7 +871,9 @@
             "string_table_name": "None",
             "text": "Frivolous"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Whimsical": {
         "key_name": "Whimsical",
@@ -737,7 +883,9 @@
             "string_table_name": "None",
             "text": "Whimsical"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Dignified": {
         "key_name": "Dignified",
@@ -747,7 +895,9 @@
             "string_table_name": "None",
             "text": "Dignified"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Reliable": {
         "key_name": "Reliable",
@@ -757,7 +907,9 @@
             "string_table_name": "None",
             "text": "Reliable"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Curmudgeony": {
         "key_name": "Curmudgeony",
@@ -767,7 +919,9 @@
             "string_table_name": "None",
             "text": "Curmudgeonly"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Obedient": {
         "key_name": "Obedient",
@@ -777,7 +931,9 @@
             "string_table_name": "None",
             "text": "Obedient"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Ordinary": {
         "key_name": "Ordinary",
@@ -787,7 +943,9 @@
             "string_table_name": "None",
             "text": "Ordinary"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Mellow": {
         "key_name": "Mellow",
@@ -797,7 +955,9 @@
             "string_table_name": "None",
             "text": "Mellow"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Big-thinking": {
         "key_name": "Big-thinking",
@@ -807,7 +967,9 @@
             "string_table_name": "None",
             "text": "Big-thinking"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Absentminded": {
         "key_name": "Absentminded",
@@ -817,7 +979,9 @@
             "string_table_name": "None",
             "text": "Absentminded"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Stoic": {
         "key_name": "Stoic",
@@ -827,7 +991,9 @@
             "string_table_name": "None",
             "text": "Stoic"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Playful": {
         "key_name": "Playful",
@@ -837,7 +1003,9 @@
             "string_table_name": "None",
             "text": "Playful"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Impressive": {
         "key_name": "Impressive",
@@ -847,7 +1015,9 @@
             "string_table_name": "None",
             "text": "Impressive"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Focused": {
         "key_name": "Focused",
@@ -857,7 +1027,9 @@
             "string_table_name": "None",
             "text": "Focused"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Decent": {
         "key_name": "Decent",
@@ -867,7 +1039,9 @@
             "string_table_name": "None",
             "text": "Decent"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Calm": {
         "key_name": "Calm",
@@ -877,7 +1051,9 @@
             "string_table_name": "None",
             "text": "Calm"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Adaptable": {
         "key_name": "Adaptable",
@@ -887,7 +1063,9 @@
             "string_table_name": "None",
             "text": "Adaptable"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Bristly": {
         "key_name": "Bristly",
@@ -897,7 +1075,9 @@
             "string_table_name": "None",
             "text": "Bristly"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Earnest": {
         "key_name": "Earnest",
@@ -907,7 +1087,9 @@
             "string_table_name": "None",
             "text": "Earnest"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Gracious": {
         "key_name": "Gracious",
@@ -917,7 +1099,9 @@
             "string_table_name": "None",
             "text": "Gracious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Folksy": {
         "key_name": "Folksy",
@@ -927,7 +1111,9 @@
             "string_table_name": "None",
             "text": "Folksy"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Iconoclastic": {
         "key_name": "Iconoclastic",
@@ -937,7 +1123,9 @@
             "string_table_name": "None",
             "text": "Iconoclastic"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Pure": {
         "key_name": "Pure",
@@ -947,7 +1135,9 @@
             "string_table_name": "None",
             "text": "Pure"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Degenerate": {
         "key_name": "Degenerate",
@@ -957,7 +1147,9 @@
             "string_table_name": "None",
             "text": "Degenerate"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Bizarre": {
         "key_name": "Bizarre",
@@ -967,7 +1159,9 @@
             "string_table_name": "None",
             "text": "Bizarre"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Bland": {
         "key_name": "Bland",
@@ -977,7 +1171,9 @@
             "string_table_name": "None",
             "text": "Bland"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Devious": {
         "key_name": "Devious",
@@ -987,7 +1183,9 @@
             "string_table_name": "None",
             "text": "Devious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Obnoxious": {
         "key_name": "Obnoxious",
@@ -997,7 +1195,9 @@
             "string_table_name": "None",
             "text": "Obnoxious"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Pompous": {
         "key_name": "Pompous",
@@ -1007,7 +1207,9 @@
             "string_table_name": "None",
             "text": "Pompous"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     },
     "Spicy": {
         "key_name": "Spicy",
@@ -1017,6 +1219,8 @@
             "string_table_name": "None",
             "text": "Spicy"
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "Weight": 1.0
+        }
     }
 }

@@ -2,6 +2,7 @@ from pathlib import Path
 from typing import Any
 from crawler.base_crawler import BaseCrawler
 from models.item import Item
+from models.recipe_component import RecipeComponent
 
 class ItemsCrawler(BaseCrawler):
     """
@@ -26,12 +27,34 @@ class ItemsCrawler(BaseCrawler):
         icon_path = self._get_media_path(value['Icon'])
         icon_modifier_path = self._get_media_path(value['ModIcon'])
 
+        repair_recipe = []
+        recipe = [] if 'RepairRecipe' not in value['EquippableData'] else value['EquippableData']['RepairRecipe']
+        for component in recipe:
+            quantity = component['ItemCount']
+            item_key = component['Item']['RowName']
+            item: 'Item' = None
+            if item_key in self.crawled_data:
+                item = self.crawled_data[item_key]
+            else:
+                item = self._get_crawled_data(item_key, self.raw_data[item_key], Item.get_unknown_fields())
+            repair_recipe.append(RecipeComponent(
+                item_key=item.key_name,
+                quantity=quantity,
+                display_name=item.name,
+                description=item.description,
+                icon_path=item.icon_path,
+                icon_modifier_path=item.icon_modifier_path,
+            ))
+
+
         item = Item(
             key_name=key,
             name=display_name,
             description=description,
             icon_path=icon_path,
             icon_modifier_path=icon_modifier_path,
+            tier=value['Tier'],
+            repair_recipe=repair_recipe,
             actor_name=value['WorldActor']['AssetPathName'],
             duplication_cost=value['DuplicateBaseCost'],
             stack_size_tag=value['StackSizeTag']['TagName'],

@@ -12,7 +12,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": true,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "ThumbsUp": {
         "key_name": "ThumbsUp",
@@ -27,7 +27,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": true,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Point": {
         "key_name": "Point",
@@ -42,7 +42,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": true,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Cheer": {
         "key_name": "Cheer",
@@ -57,7 +57,7 @@
         "chatter_event": "e5bb45a9-1ffa-445b-8d83-70517cf34baf",
         "always_unlocked": true,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Laugh": {
         "key_name": "Laugh",
@@ -72,7 +72,7 @@
         "chatter_event": "6f4b41e6-9c88-4011-9f32-5c8a286ef8dc",
         "always_unlocked": true,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Headbang": {
         "key_name": "Headbang",
@@ -87,7 +87,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": true,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Applaud": {
         "key_name": "Applaud",
@@ -102,7 +102,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": true,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "AirGuitar": {
         "key_name": "AirGuitar",
@@ -117,7 +117,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": true,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "ThumbsDown": {
         "key_name": "ThumbsDown",
@@ -132,7 +132,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": false,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Thanks": {
         "key_name": "Thanks",
@@ -147,7 +147,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": false,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "FistPump": {
         "key_name": "FistPump",
@@ -162,7 +162,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": false,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Flex": {
         "key_name": "Flex",
@@ -177,7 +177,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": false,
         "looping": true,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "PowerUp": {
         "key_name": "PowerUp",
@@ -192,7 +192,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": false,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Sit": {
         "key_name": "Sit",
@@ -207,7 +207,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": false,
         "looping": true,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Squat": {
         "key_name": "Squat",
@@ -222,7 +222,7 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": false,
         "looping": true,
-        "unknown_fields": null
+        "unknown_fields": {}
     },
     "Salute": {
         "key_name": "Salute",
@@ -237,6 +237,6 @@
         "chatter_event": "00000000-0000-0000-0000-000000000000",
         "always_unlocked": false,
         "looping": false,
-        "unknown_fields": null
+        "unknown_fields": {}
     }
 }

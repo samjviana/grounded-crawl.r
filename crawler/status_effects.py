@@ -36,6 +36,7 @@ class StatusEffectsCrawler(BaseCrawler):
             interval=value['Interval'],
             max_stack=value['MaxStackCount'],
             is_negative_effect=value['bIsNegativeEffectInUI'],
+            show_in_ui=value['bShowInUI'],
             effect_tags=value['EffectTags'],
             unknown_fields=unknown_fields
         )

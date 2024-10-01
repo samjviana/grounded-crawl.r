@@ -46,7 +46,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ArmyManAGreen": {
         "key_name": "ArmyManAGreen",
@@ -95,7 +102,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ArmyManATan": {
         "key_name": "ArmyManATan",
@@ -144,7 +158,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ArmyManBBlue": {
         "key_name": "ArmyManBBlue",
@@ -193,7 +214,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ArmyManBGreen": {
         "key_name": "ArmyManBGreen",
@@ -242,7 +270,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ArmyManBTan": {
         "key_name": "ArmyManBTan",
@@ -291,7 +326,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ArmyManCBlue": {
         "key_name": "ArmyManCBlue",
@@ -340,7 +382,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ArmyManCGreen": {
         "key_name": "ArmyManCGreen",
@@ -389,7 +438,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ArmyManCTan": {
         "key_name": "ArmyManCTan",
@@ -438,7 +494,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Baseball": {
         "key_name": "Baseball",
@@ -487,7 +550,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BallPeenHammer": {
         "key_name": "BallPeenHammer",
@@ -536,7 +606,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YokedGirthPackaging": {
         "key_name": "YokedGirthPackaging",
@@ -585,7 +662,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BrickA": {
         "key_name": "BrickA",
@@ -634,7 +718,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmallCanCalvo": {
         "key_name": "SmallCanCalvo",
@@ -683,7 +774,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Calvo.MI_Can_Calvo",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Calvo.MI_Can_Calvo",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmallCanCherryChop": {
         "key_name": "SmallCanCherryChop",
@@ -732,7 +839,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_CherryChop.MI_Can_CherryChop",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_CherryChop.MI_Can_CherryChop",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmallCanFizzamBlueberry": {
         "key_name": "SmallCanFizzamBlueberry",
@@ -781,7 +904,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_FizzamChuberry.MI_Can_FizzamChuberry",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_FizzamChuberry.MI_Can_FizzamChuberry",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmallCanFizzamPamplemouse": {
         "key_name": "SmallCanFizzamPamplemouse",
@@ -830,7 +969,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_FizzamPamplemouse_Crushed.MI_Can_FizzamPamplemouse_Crushed",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_FizzamPamplemouse_Crushed.MI_Can_FizzamPamplemouse_Crushed",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmallCanJabbyCola": {
         "key_name": "SmallCanJabbyCola",
@@ -879,7 +1034,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_JabbyCola.MI_Can_JabbyCola",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_JabbyCola.MI_Can_JabbyCola",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmallCanLaBise": {
         "key_name": "SmallCanLaBise",
@@ -928,7 +1099,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_LaBise.MI_Can_LaBise",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_LaBise.MI_Can_LaBise",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmallCanSlapshot": {
         "key_name": "SmallCanSlapshot",
@@ -977,7 +1164,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_SlapshotBeer.MI_Can_SlapshotBeer",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_SlapshotBeer.MI_Can_SlapshotBeer",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmallCanWelp": {
         "key_name": "SmallCanWelp",
@@ -1026,7 +1229,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Welp.MI_Can_Welp",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Welp.MI_Can_Welp",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanCalvo": {
         "key_name": "CanCalvo",
@@ -1075,7 +1294,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Calvo.MI_Can_Calvo",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Calvo.MI_Can_Calvo",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanCherryChop": {
         "key_name": "CanCherryChop",
@@ -1124,7 +1359,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_CherryChop.MI_Can_CherryChop",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_CherryChop.MI_Can_CherryChop",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanFizzamBlueberry": {
         "key_name": "CanFizzamBlueberry",
@@ -1173,7 +1424,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_FizzamChuberry.MI_Can_FizzamChuberry",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_FizzamChuberry.MI_Can_FizzamChuberry",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanFizzamPamplemouse": {
         "key_name": "CanFizzamPamplemouse",
@@ -1222,7 +1489,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_FizzamPamplemouse_Crushed.MI_Can_FizzamPamplemouse_Crushed",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_FizzamPamplemouse_Crushed.MI_Can_FizzamPamplemouse_Crushed",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanJabbyCola": {
         "key_name": "CanJabbyCola",
@@ -1271,7 +1554,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_JabbyCola.MI_Can_JabbyCola",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_JabbyCola.MI_Can_JabbyCola",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanLaBise": {
         "key_name": "CanLaBise",
@@ -1320,7 +1619,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_LaBise.MI_Can_LaBise",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_LaBise.MI_Can_LaBise",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanSlapshot": {
         "key_name": "CanSlapshot",
@@ -1369,7 +1684,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_SlapshotBeer.MI_Can_SlapshotBeer",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_SlapshotBeer.MI_Can_SlapshotBeer",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanWelp": {
         "key_name": "CanWelp",
@@ -1418,7 +1749,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Welp.MI_Can_Welp",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Welp.MI_Can_Welp",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanCalvo_CrushedA": {
         "key_name": "CanCalvo_CrushedA",
@@ -1467,7 +1814,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Calvo.MI_Can_Calvo",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Calvo.MI_Can_Calvo",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CanCalvo_CrushedB": {
         "key_name": "CanCalvo_CrushedB",
@@ -1516,7 +1879,23 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Calvo.MI_Can_Calvo",
+                    "SubPathString": ""
+                },
+                {
+                    "AssetPathName": "/Game/Art/World/ZN00_Global/Cans/MI_Can_Calvo.MI_Can_Calvo",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CapGun": {
         "key_name": "CapGun",
@@ -1565,7 +1944,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "WrenchA": {
         "key_name": "WrenchA",
@@ -1614,7 +2000,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CRTMonitor": {
         "key_name": "CRTMonitor",
@@ -1663,7 +2056,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "EasterEggBottom": {
         "key_name": "EasterEggBottom",
@@ -1712,7 +2112,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "EasterEggTop": {
         "key_name": "EasterEggTop",
@@ -1761,7 +2168,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "HandFile": {
         "key_name": "HandFile",
@@ -1810,7 +2224,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Jack": {
         "key_name": "Jack",
@@ -1859,7 +2280,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "JacksBall": {
         "key_name": "JacksBall",
@@ -1908,7 +2336,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CassetteTapeB": {
         "key_name": "CassetteTapeB",
@@ -1957,7 +2392,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CassetteTapeC": {
         "key_name": "CassetteTapeC",
@@ -2006,7 +2448,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CassetteTapeD": {
         "key_name": "CassetteTapeD",
@@ -2055,7 +2504,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CassetteTapeE": {
         "key_name": "CassetteTapeE",
@@ -2104,7 +2560,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CassetteTapeF": {
         "key_name": "CassetteTapeF",
@@ -2153,7 +2616,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CassetteTapeG": {
         "key_name": "CassetteTapeG",
@@ -2202,7 +2672,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BottleRocketA": {
         "key_name": "BottleRocketA",
@@ -2251,7 +2728,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BrokenPotA": {
         "key_name": "BrokenPotA",
@@ -2300,7 +2784,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BrokenPotB": {
         "key_name": "BrokenPotB",
@@ -2349,7 +2840,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BrokenPotC": {
         "key_name": "BrokenPotC",
@@ -2398,7 +2896,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BrokenPotD": {
         "key_name": "BrokenPotD",
@@ -2447,7 +2952,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "FlowerPotA": {
         "key_name": "FlowerPotA",
@@ -2496,7 +3008,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "FlowerPotE": {
         "key_name": "FlowerPotE",
@@ -2545,7 +3064,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "FlowerPotF": {
         "key_name": "FlowerPotF",
@@ -2594,7 +3120,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SucculentPotA": {
         "key_name": "SucculentPotA",
@@ -2643,7 +3176,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SucculentPotB": {
         "key_name": "SucculentPotB",
@@ -2692,7 +3232,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "GloveGardeningA": {
         "key_name": "GloveGardeningA",
@@ -2741,7 +3288,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "DanGraveMarker03": {
         "key_name": "DanGraveMarker03",
@@ -2790,7 +3344,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "HoneyJar": {
         "key_name": "HoneyJar",
@@ -2839,7 +3400,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "HoseConnector": {
         "key_name": "HoseConnector",
@@ -2888,7 +3456,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "MilkCarton": {
         "key_name": "MilkCarton",
@@ -2937,7 +3512,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PaintBucket": {
         "key_name": "PaintBucket",
@@ -2986,7 +3568,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PaintCanA": {
         "key_name": "PaintCanA",
@@ -3035,7 +3624,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PaintCanB": {
         "key_name": "PaintCanB",
@@ -3084,7 +3680,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PaperPlane": {
         "key_name": "PaperPlane",
@@ -3133,7 +3736,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PipeSewerCRV_A": {
         "key_name": "PipeSewerCRV_A",
@@ -3182,7 +3792,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PipeSewerO_A": {
         "key_name": "PipeSewerO_A",
@@ -3231,7 +3848,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PipeSewerStrDamaged_x1": {
         "key_name": "PipeSewerStrDamaged_x1",
@@ -3280,7 +3904,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PipeSewerStrx1": {
         "key_name": "PipeSewerStrx1",
@@ -3329,7 +3960,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PipeSewerStrx4": {
         "key_name": "PipeSewerStrx4",
@@ -3378,7 +4016,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PipeSewerTA": {
         "key_name": "PipeSewerTA",
@@ -3427,7 +4072,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PipeSewerTB": {
         "key_name": "PipeSewerTB",
@@ -3476,7 +4128,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PipeSewerTC": {
         "key_name": "PipeSewerTC",
@@ -3525,7 +4184,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "RetainingWallLog": {
         "key_name": "RetainingWallLog",
@@ -3574,7 +4240,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Trowel": {
         "key_name": "Trowel",
@@ -3623,7 +4296,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SurgeProtector": {
         "key_name": "SurgeProtector",
@@ -3672,7 +4352,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ToyCar": {
         "key_name": "ToyCar",
@@ -3721,7 +4408,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "WeddingRingA": {
         "key_name": "WeddingRingA",
@@ -3770,7 +4464,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "WiffleBallA": {
         "key_name": "WiffleBallA",
@@ -3819,7 +4520,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Worklight": {
         "key_name": "Worklight",
@@ -3868,7 +4576,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "CootieCatcher": {
         "key_name": "CootieCatcher",
@@ -3917,7 +4632,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "NailClippers": {
         "key_name": "NailClippers",
@@ -3966,7 +4688,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "NailA": {
         "key_name": "NailA",
@@ -4015,7 +4744,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "NailB": {
         "key_name": "NailB",
@@ -4064,7 +4800,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "NailC": {
         "key_name": "NailC",
@@ -4113,7 +4856,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "NailD": {
         "key_name": "NailD",
@@ -4162,7 +4912,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "NailHead": {
         "key_name": "NailHead",
@@ -4211,7 +4968,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SmokingPipe": {
         "key_name": "SmokingPipe",
@@ -4260,7 +5024,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PhotoFrameA2": {
         "key_name": "PhotoFrameA2",
@@ -4309,7 +5080,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "PhotoFrameB1": {
         "key_name": "PhotoFrameB1",
@@ -4358,7 +5136,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Pliers": {
         "key_name": "Pliers",
@@ -4407,7 +5192,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ScrewdriverA": {
         "key_name": "ScrewdriverA",
@@ -4456,7 +5248,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ScrewdriverB": {
         "key_name": "ScrewdriverB",
@@ -4505,7 +5304,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SourCandyContainerA": {
         "key_name": "SourCandyContainerA",
@@ -4554,7 +5360,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SourCandyContainerB": {
         "key_name": "SourCandyContainerB",
@@ -4603,7 +5416,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SpicyCandyContainerClosed": {
         "key_name": "SpicyCandyContainerClosed",
@@ -4652,7 +5472,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SpicyCandyContainerTorn": {
         "key_name": "SpicyCandyContainerTorn",
@@ -4701,7 +5528,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "ToyShovel": {
         "key_name": "ToyShovel",
@@ -4750,7 +5584,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "JuiceboxA": {
         "key_name": "JuiceboxA",
@@ -4799,7 +5640,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "JuiceboxB": {
         "key_name": "JuiceboxB",
@@ -4848,7 +5696,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "JuiceboxC": {
         "key_name": "JuiceboxC",
@@ -4897,7 +5752,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "JuiceboxD": {
         "key_name": "JuiceboxD",
@@ -4946,7 +5808,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "JuiceboxE": {
         "key_name": "JuiceboxE",
@@ -4995,7 +5864,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "FlingDisc": {
         "key_name": "FlingDisc",
@@ -5044,7 +5920,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Kid_Transport_Case": {
         "key_name": "Kid_Transport_Case",
@@ -5093,7 +5976,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Standing_Sprinkler": {
         "key_name": "Standing_Sprinkler",
@@ -5142,7 +6032,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "VintageRadio": {
         "key_name": "VintageRadio",
@@ -5191,7 +6088,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Bracket_A_Broken_A": {
         "key_name": "Bracket_A_Broken_A",
@@ -5240,7 +6144,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Bracket_A_Broken_B": {
         "key_name": "Bracket_A_Broken_B",
@@ -5289,7 +6200,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Bracket_A_Broken_C": {
         "key_name": "Bracket_A_Broken_C",
@@ -5338,7 +6256,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Junction_Box_A": {
         "key_name": "Junction_Box_A",
@@ -5387,7 +6312,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Shed_Bracket_A": {
         "key_name": "Shed_Bracket_A",
@@ -5436,7 +6368,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Shed_Bracket_B": {
         "key_name": "Shed_Bracket_B",
@@ -5485,7 +6424,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Armored_Cable_Bracket_A": {
         "key_name": "Armored_Cable_Bracket_A",
@@ -5534,7 +6480,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Glasses_Wendell": {
         "key_name": "Glasses_Wendell",
@@ -5583,7 +6536,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BattleMat_A": {
         "key_name": "BattleMat_A",
@@ -5632,7 +6592,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Book_MnMRules": {
         "key_name": "Book_MnMRules",
@@ -5681,7 +6648,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Mini_Book_MnMRules": {
         "key_name": "Mini_Book_MnMRules",
@@ -5730,7 +6704,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Mant_Miniature01": {
         "key_name": "Mant_Miniature01",
@@ -5779,7 +6760,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Mant_Miniature02": {
         "key_name": "Mant_Miniature02",
@@ -5828,7 +6816,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Mini_Mant_A": {
         "key_name": "Mini_Mant_A",
@@ -5877,7 +6872,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Mini_Mant_B": {
         "key_name": "Mini_Mant_B",
@@ -5926,7 +6928,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Mini_Dice": {
         "key_name": "Mini_Dice",
@@ -5975,7 +6984,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Book_Note": {
         "key_name": "Book_Note",
@@ -6024,7 +7040,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Notebook_A": {
         "key_name": "Notebook_A",
@@ -6073,7 +7096,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Notebook_B": {
         "key_name": "Notebook_B",
@@ -6122,7 +7152,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Notebook_Open_A": {
         "key_name": "Notebook_Open_A",
@@ -6171,7 +7208,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Paper_Plate": {
         "key_name": "Paper_Plate",
@@ -6220,7 +7264,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Pencil_A": {
         "key_name": "Pencil_A",
@@ -6269,7 +7320,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Plastic_Brick_Doorway_A": {
         "key_name": "Plastic_Brick_Doorway_A",
@@ -6318,7 +7376,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Plastic_Brick_Doorway_B": {
         "key_name": "Plastic_Brick_Doorway_B",
@@ -6367,7 +7432,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Plastic_Brick_Pillar_A": {
         "key_name": "Plastic_Brick_Pillar_A",
@@ -6416,7 +7488,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Plastic_Brick_Wall_A": {
         "key_name": "Plastic_Brick_Wall_A",
@@ -6465,7 +7544,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Plastic_Brick_Wall_Half_A": {
         "key_name": "Plastic_Brick_Wall_Half_A",
@@ -6514,7 +7600,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Plastic_Knife": {
         "key_name": "Plastic_Knife",
@@ -6563,7 +7656,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Plastic_Spork": {
         "key_name": "Plastic_Spork",
@@ -6612,7 +7712,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Thermos": {
         "key_name": "Thermos",
@@ -6661,7 +7768,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Thermos_Lid": {
         "key_name": "Thermos_Lid",
@@ -6710,7 +7824,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Crumpled_Paper_A": {
         "key_name": "Crumpled_Paper_A",
@@ -6759,7 +7880,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Crumpled_Paper_B": {
         "key_name": "Crumpled_Paper_B",
@@ -6808,7 +7936,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Cup_Styrofoam": {
         "key_name": "Cup_Styrofoam",
@@ -6857,7 +7992,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Ashtray": {
         "key_name": "Ashtray",
@@ -6906,7 +8048,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Floodlight_A": {
         "key_name": "Floodlight_A",
@@ -6955,7 +8104,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Floodlight_B": {
         "key_name": "Floodlight_B",
@@ -7004,7 +8160,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_A": {
         "key_name": "Lab_Monitor_Mounted_A",
@@ -7053,7 +8216,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_B": {
         "key_name": "Lab_Monitor_Mounted_B",
@@ -7102,7 +8272,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_C": {
         "key_name": "Lab_Monitor_Mounted_C",
@@ -7151,7 +8328,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_D": {
         "key_name": "Lab_Monitor_Mounted_D",
@@ -7200,7 +8384,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_E": {
         "key_name": "Lab_Monitor_Mounted_E",
@@ -7249,7 +8440,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_F": {
         "key_name": "Lab_Monitor_Mounted_F",
@@ -7298,7 +8496,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_G": {
         "key_name": "Lab_Monitor_Mounted_G",
@@ -7347,7 +8552,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_H": {
         "key_name": "Lab_Monitor_Mounted_H",
@@ -7396,7 +8608,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_I": {
         "key_name": "Lab_Monitor_Mounted_I",
@@ -7445,7 +8664,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_J": {
         "key_name": "Lab_Monitor_Mounted_J",
@@ -7494,7 +8720,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Monitor_Mounted_K": {
         "key_name": "Lab_Monitor_Mounted_K",
@@ -7543,7 +8776,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Security_Camera_A_Moving": {
         "key_name": "Security_Camera_A_Moving",
@@ -7592,7 +8832,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "/Game/Art/World/ZN10_Labs/Lab_Props/BP_Security_Camera_A_Moving.BP_Security_Camera_A_Moving_C",
+                "SubPathString": ""
+            }
+        }
     },
     "Security_Camera_B_Moving": {
         "key_name": "Security_Camera_B_Moving",
@@ -7641,7 +8888,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "/Game/Art/World/ZN10_Labs/Lab_Props/BP_Security_Camera_B_Moving.BP_Security_Camera_B_Moving_C",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Drawer_A": {
         "key_name": "Lab_Drawer_A",
@@ -7690,7 +8944,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Drawer_C": {
         "key_name": "Lab_Drawer_C",
@@ -7739,7 +9000,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Alligator_Clamp_A": {
         "key_name": "Alligator_Clamp_A",
@@ -7788,7 +9056,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Alligator_Clamp_B": {
         "key_name": "Alligator_Clamp_B",
@@ -7837,7 +9112,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Battery_9v_A": {
         "key_name": "Battery_9v_A",
@@ -7886,7 +9168,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_A": {
         "key_name": "Lab_Armature_A",
@@ -7935,7 +9224,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_B": {
         "key_name": "Lab_Armature_B",
@@ -7984,7 +9280,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_C": {
         "key_name": "Lab_Armature_C",
@@ -8033,7 +9336,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_D": {
         "key_name": "Lab_Armature_D",
@@ -8082,7 +9392,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_E": {
         "key_name": "Lab_Armature_E",
@@ -8131,7 +9448,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_F": {
         "key_name": "Lab_Armature_F",
@@ -8180,7 +9504,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_G": {
         "key_name": "Lab_Armature_G",
@@ -8229,7 +9560,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_H": {
         "key_name": "Lab_Armature_H",
@@ -8278,7 +9616,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_I": {
         "key_name": "Lab_Armature_I",
@@ -8327,7 +9672,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Armature_J": {
         "key_name": "Lab_Armature_J",
@@ -8376,7 +9728,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Beaker_A": {
         "key_name": "Lab_Beaker_A",
@@ -8425,7 +9784,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Beaker_B": {
         "key_name": "Lab_Beaker_B",
@@ -8474,7 +9840,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Beaker_C": {
         "key_name": "Lab_Beaker_C",
@@ -8523,7 +9896,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Beaker_D": {
         "key_name": "Lab_Beaker_D",
@@ -8572,7 +9952,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Chair_A": {
         "key_name": "Lab_Chair_A",
@@ -8621,7 +10008,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Chair_B": {
         "key_name": "Lab_Chair_B",
@@ -8670,7 +10064,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Grow_Pod_A": {
         "key_name": "Lab_Grow_Pod_A",
@@ -8719,7 +10120,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Pegboard_A": {
         "key_name": "Lab_Pegboard_A",
@@ -8768,7 +10176,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Shelf_A": {
         "key_name": "Lab_Shelf_A",
@@ -8817,7 +10232,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Shelf_B": {
         "key_name": "Lab_Shelf_B",
@@ -8866,7 +10288,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Shelf_c": {
         "key_name": "Lab_Shelf_c",
@@ -8915,7 +10344,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Shelf_Combined_A": {
         "key_name": "Lab_Shelf_Combined_A",
@@ -8964,7 +10400,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Shelf_Combined_B": {
         "key_name": "Lab_Shelf_Combined_B",
@@ -9013,7 +10456,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Sign_A": {
         "key_name": "Lab_Sign_A",
@@ -9062,7 +10512,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Table_A": {
         "key_name": "Lab_Table_A",
@@ -9111,7 +10568,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Table_B": {
         "key_name": "Lab_Table_B",
@@ -9160,7 +10624,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Table_C": {
         "key_name": "Lab_Table_C",
@@ -9209,7 +10680,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Whiteboard_A": {
         "key_name": "Lab_Whiteboard_A",
@@ -9258,7 +10736,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Mug_A": {
         "key_name": "Mug_A",
@@ -9307,7 +10792,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Power_Station_A": {
         "key_name": "Power_Station_A",
@@ -9356,7 +10848,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Shrink_Platform_A": {
         "key_name": "Shrink_Platform_A",
@@ -9405,7 +10904,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Wastebasket": {
         "key_name": "Wastebasket",
@@ -9454,7 +10960,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Wastebasket_B": {
         "key_name": "Wastebasket_B",
@@ -9503,7 +11016,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Wastebasket_c": {
         "key_name": "Wastebasket_c",
@@ -9552,7 +11072,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Wastebasket_D": {
         "key_name": "Wastebasket_D",
@@ -9601,7 +11128,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Control_Panel_A": {
         "key_name": "Lab_Control_Panel_A",
@@ -9650,7 +11184,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Schmector_Monitor_A": {
         "key_name": "Schmector_Monitor_A",
@@ -9699,7 +11240,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "HandScanner": {
         "key_name": "HandScanner",
@@ -9748,7 +11296,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SandcastleBucket": {
         "key_name": "SandcastleBucket",
@@ -9797,7 +11352,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "SandcastleMode": {
         "key_name": "SandcastleMode",
@@ -9846,7 +11408,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Charcoal_Briquette_A": {
         "key_name": "Charcoal_Briquette_A",
@@ -9895,7 +11464,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Charcoal_Briquette_B": {
         "key_name": "Charcoal_Briquette_B",
@@ -9944,7 +11520,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Charcoal_Briquette_C": {
         "key_name": "Charcoal_Briquette_C",
@@ -9993,7 +11576,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "QuestFlag": {
         "key_name": "QuestFlag",
@@ -10042,7 +11632,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Machine_Cabinet_A": {
         "key_name": "Lab_Machine_Cabinet_A",
@@ -10091,7 +11688,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Machine_Cabinet_B": {
         "key_name": "Lab_Machine_Cabinet_B",
@@ -10140,7 +11744,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Machine_Cabinet_C": {
         "key_name": "Lab_Machine_Cabinet_C",
@@ -10189,7 +11800,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Machine_Cabinet_D": {
         "key_name": "Lab_Machine_Cabinet_D",
@@ -10238,7 +11856,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Machine_Console_A": {
         "key_name": "Lab_Machine_Console_A",
@@ -10287,7 +11912,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Machine_Console_B": {
         "key_name": "Lab_Machine_Console_B",
@@ -10336,7 +11968,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Machine_Console_C": {
         "key_name": "Lab_Machine_Console_C",
@@ -10385,7 +12024,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Machine_Console_D": {
         "key_name": "Lab_Machine_Console_D",
@@ -10434,7 +12080,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Console_A": {
         "key_name": "Lab_Console_A",
@@ -10483,7 +12136,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Desk_A": {
         "key_name": "Lab_Desk_A",
@@ -10532,7 +12192,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Computer_Small_A": {
         "key_name": "Lab_Computer_Small_A",
@@ -10581,7 +12248,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Geo_Tent": {
         "key_name": "Geo_Tent",
@@ -10630,7 +12304,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Drawer_B": {
         "key_name": "Lab_Drawer_B",
@@ -10679,7 +12360,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "RawScience_A": {
         "key_name": "RawScience_A",
@@ -10728,7 +12416,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "/Game/UI/ResourceAnalyzer/BP_RawScienceUI.BP_RawScienceUI_C",
+                "SubPathString": ""
+            }
+        }
     },
     "RawScience_B": {
         "key_name": "RawScience_B",
@@ -10777,7 +12472,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "/Game/UI/ResourceAnalyzer/BP_RawScienceSmall_UI.BP_RawScienceSmall_UI_C",
+                "SubPathString": ""
+            }
+        }
     },
     "Lunchbox": {
         "key_name": "Lunchbox",
@@ -10826,7 +12528,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BillyHog_Tray": {
         "key_name": "BillyHog_Tray",
@@ -10875,7 +12584,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "JackOLantern": {
         "key_name": "JackOLantern",
@@ -10924,7 +12640,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "/Game/Blueprints/Environment/Holiday/BP_JackOLantern_ModelViewer.BP_JackOLantern_ModelViewer_C",
+                "SubPathString": ""
+            }
+        }
     },
     "Pagoda": {
         "key_name": "Pagoda",
@@ -10973,7 +12696,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Axe": {
         "key_name": "Axe",
@@ -11022,7 +12752,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Cardboard_Box_A": {
         "key_name": "Cardboard_Box_A",
@@ -11071,7 +12808,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Cardboard_Box_B": {
         "key_name": "Cardboard_Box_B",
@@ -11120,7 +12864,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Cardboard_Box_C": {
         "key_name": "Cardboard_Box_C",
@@ -11169,7 +12920,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Cocktail_Umbrella": {
         "key_name": "Cocktail_Umbrella",
@@ -11218,7 +12976,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Game_Box_A": {
         "key_name": "Game_Box_A",
@@ -11267,7 +13032,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Game_Box_B": {
         "key_name": "Game_Box_B",
@@ -11316,7 +13088,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Game_Box_C": {
         "key_name": "Game_Box_C",
@@ -11365,7 +13144,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Game_Box_D": {
         "key_name": "Game_Box_D",
@@ -11414,7 +13200,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Game_Box_E": {
         "key_name": "Game_Box_E",
@@ -11463,7 +13256,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Game_Box_F": {
         "key_name": "Game_Box_F",
@@ -11512,7 +13312,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Gamemodore": {
         "key_name": "Gamemodore",
@@ -11561,7 +13368,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Gamemodore_Joystick": {
         "key_name": "Gamemodore_Joystick",
@@ -11610,7 +13424,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Gamemodore_Keyboard": {
         "key_name": "Gamemodore_Keyboard",
@@ -11659,7 +13480,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Ice_Caps_Box": {
         "key_name": "Ice_Caps_Box",
@@ -11708,7 +13536,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Big_TazT": {
         "key_name": "Big_TazT",
@@ -11757,7 +13592,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BigDice_D20": {
         "key_name": "BigDice_D20",
@@ -11806,7 +13648,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BigDice_D12": {
         "key_name": "BigDice_D12",
@@ -11855,7 +13704,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BigDice_D10": {
         "key_name": "BigDice_D10",
@@ -11904,7 +13760,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BigDice_D8": {
         "key_name": "BigDice_D8",
@@ -11953,7 +13816,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BigDice_D6": {
         "key_name": "BigDice_D6",
@@ -12002,7 +13872,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BigDice_D4": {
         "key_name": "BigDice_D4",
@@ -12051,7 +13928,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "WendellChair": {
         "key_name": "WendellChair",
@@ -12100,7 +13984,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BigSCA.B": {
         "key_name": "BigSCA.B",
@@ -12149,7 +14040,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Battletoad": {
         "key_name": "Battletoad",
@@ -12198,7 +14096,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YokedGirth_Combined": {
         "key_name": "YokedGirth_Combined",
@@ -12247,7 +14152,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YokedGirth_Head": {
         "key_name": "YokedGirth_Head",
@@ -12296,7 +14208,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YokedGirth_Torso": {
         "key_name": "YokedGirth_Torso",
@@ -12345,7 +14264,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YokedGirth_Arm_Right": {
         "key_name": "YokedGirth_Arm_Right",
@@ -12394,7 +14320,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YokedGirth_Arm_Left": {
         "key_name": "YokedGirth_Arm_Left",
@@ -12443,7 +14376,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YokedGirth_Leg_Right": {
         "key_name": "YokedGirth_Leg_Right",
@@ -12492,7 +14432,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YokedGirth_Leg_Left": {
         "key_name": "YokedGirth_Leg_Left",
@@ -12541,7 +14488,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "YogiSwole_Head": {
         "key_name": "YogiSwole_Head",
@@ -12590,7 +14544,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Quarter": {
         "key_name": "Quarter",
@@ -12639,7 +14600,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "GardenLight": {
         "key_name": "GardenLight",
@@ -12688,7 +14656,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "MilkMolarBottle": {
         "key_name": "MilkMolarBottle",
@@ -12737,7 +14712,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "MilkMolarBottle_Lid": {
         "key_name": "MilkMolarBottle_Lid",
@@ -12786,7 +14768,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Garden_Gnome": {
         "key_name": "Garden_Gnome",
@@ -12835,7 +14824,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Baseball_Bat": {
         "key_name": "Baseball_Bat",
@@ -12884,7 +14880,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Trash_Bag": {
         "key_name": "Trash_Bag",
@@ -12933,7 +14936,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Pink_Slip": {
         "key_name": "Pink_Slip",
@@ -12982,7 +14992,19 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [
+                {
+                    "AssetPathName": "/Game/Art/World/ZN19_Trash/Crumpled_Paper/MI_Pink_Slip.MI_Pink_Slip",
+                    "SubPathString": ""
+                }
+            ],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Lab_Dome_Glass": {
         "key_name": "Lab_Dome_Glass",
@@ -13031,7 +15053,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Combined": {
         "key_name": "BirdBath_Combined",
@@ -13080,7 +15109,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_A": {
         "key_name": "BirdBath_Block_A",
@@ -13129,7 +15165,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_B": {
         "key_name": "BirdBath_Block_B",
@@ -13178,7 +15221,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_C": {
         "key_name": "BirdBath_Block_C",
@@ -13227,7 +15277,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_D": {
         "key_name": "BirdBath_Block_D",
@@ -13276,7 +15333,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_E": {
         "key_name": "BirdBath_Block_E",
@@ -13325,7 +15389,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_F": {
         "key_name": "BirdBath_Block_F",
@@ -13374,7 +15445,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_G": {
         "key_name": "BirdBath_Block_G",
@@ -13423,7 +15501,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_H": {
         "key_name": "BirdBath_Block_H",
@@ -13472,7 +15557,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_I": {
         "key_name": "BirdBath_Block_I",
@@ -13521,7 +15613,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_J": {
         "key_name": "BirdBath_Block_J",
@@ -13570,7 +15669,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_K": {
         "key_name": "BirdBath_Block_K",
@@ -13619,7 +15725,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_L": {
         "key_name": "BirdBath_Block_L",
@@ -13668,7 +15781,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_M": {
         "key_name": "BirdBath_Block_M",
@@ -13717,7 +15837,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "BirdBath_Block_N": {
         "key_name": "BirdBath_Block_N",
@@ -13766,7 +15893,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Shovel": {
         "key_name": "Shovel",
@@ -13815,7 +15949,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Charcoal_Bag": {
         "key_name": "Charcoal_Bag",
@@ -13864,7 +16005,14 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     },
     "Castle_Moldorc": {
         "key_name": "Castle_Moldorc",
@@ -13913,6 +16061,13 @@
                 "OverrideAllowedWallNormal"
             ]
         },
-        "unknown_fields": null
+        "unknown_fields": {
+            "SearchableKeywords": [],
+            "OverrideMaterials": [],
+            "InspectModelOverrideSoft": {
+                "AssetPathName": "None",
+                "SubPathString": ""
+            }
+        }
     }
 }

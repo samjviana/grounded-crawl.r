@@ -65,6 +65,7 @@ class BaseCrawler:
             print('There are more than 1 entry in the creatures DataTable.')
             return []
         data = data[0]['Rows']
+        self.raw_data = data
 
         crawled_data = {}
         for key, value in data.items():
