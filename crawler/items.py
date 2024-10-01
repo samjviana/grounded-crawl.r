@@ -3,6 +3,7 @@ from typing import Any
 from crawler.base_crawler import BaseCrawler
 from models.item import Item
 from models.recipe_component import RecipeComponent
+from models.item_effects_info import ItemEffectsInfo
 
 class ItemsCrawler(BaseCrawler):
     """
@@ -46,6 +47,19 @@ class ItemsCrawler(BaseCrawler):
                 icon_modifier_path=item.icon_modifier_path,
             ))
 
+        main_status_effects = []
+        for status_effect in value['EquippableData']['StatusEffects']:
+            main_status_effects.append(self._parse_status_effect(status_effect))
+
+        hidden_status_effects = []
+        for status_effect in value['EquippableData']['HiddenStatusEffects']:
+            hidden_status_effects.append(self._parse_status_effect(status_effect))
+
+        item_effects_info = ItemEffectsInfo(
+            main_status_effects=main_status_effects,
+            hidden_status_effects=hidden_status_effects,
+            random_effect_type=value['EquippableData']['RandomEffectType']
+        )
 
         item = Item(
             key_name=key,
@@ -54,6 +68,7 @@ class ItemsCrawler(BaseCrawler):
             icon_path=icon_path,
             icon_modifier_path=icon_modifier_path,
             tier=value['Tier'],
+            item_effects_info=item_effects_info,
             repair_recipe=repair_recipe,
             actor_name=value['WorldActor']['AssetPathName'],
             duplication_cost=value['DuplicateBaseCost'],

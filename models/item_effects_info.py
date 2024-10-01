@@ -1,4 +1,4 @@
-from models import StatusEffect
+from .status_effect import StatusEffect
 
 class ItemEffectsInfo:
     """

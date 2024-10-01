@@ -32,56 +32,6 @@ class BestiaryCrawler(BaseCrawler):
         BestiaryCrawler.items_table = None
         BestiaryCrawler.character_data_table = None
 
-    def _parse_item(self, datatable: dict[str, Any]) -> Item:
-        key_name = datatable['RowName']
-        object_path = self._get_object_path(datatable['DataTable'])
-
-        if BestiaryCrawler.items_table is None and 'Table_AllItems' in object_path.name:
-            BestiaryCrawler.items_table = json.loads(object_path.read_text(encoding='utf-8'))[0]['Rows']
-        elif 'Table_AllItems' not in object_path.name:
-            raise ValueError('The provided object path is not an items table.')
-        
-        item_json = BestiaryCrawler.items_table[key_name]
-
-        display_name = self._get_display_name(item_json['LocalizedDisplayName'])
-        description = self._get_display_name(item_json['LocalizedDescription'])
-
-        icon_path = self._get_media_path(item_json['Icon'])
-        icon_modifier_path = self._get_media_path(item_json['ModIcon'])
-
-        repair_recipe = []
-        recipe = [] if 'RepairRecipe' not in item_json['EquippableData'] else item_json['EquippableData']['RepairRecipe']
-        for component in recipe:
-            quantity = component['ItemCount']
-            item = self._parse_item(component['Item'])
-            repair_recipe.append(RecipeComponent(
-                item_key=item.key_name,
-                quantity=quantity,
-                display_name=item.name,
-                description=item.description,
-                icon_path=item.icon_path,
-                icon_modifier_path=item.icon_modifier_path,
-            ))
-
-        unknown_fields = self._get_unknown_fields(item_json, Item.get_unknown_fields())
-
-        return Item(
-            key_name=key_name,
-            name=display_name,
-            description=description,
-            icon_path=icon_path,
-            icon_modifier_path=icon_modifier_path,
-            tier=item_json['Tier'],
-            repair_recipe=repair_recipe,
-            actor_name=item_json['WorldActor']['AssetPathName'],
-            duplication_cost=item_json['DuplicateBaseCost'],
-            stack_size_tag=item_json['StackSizeTag']['TagName'],
-            consumable_data=item_json['ConsumableData'],
-            consume_animation_type=item_json['ConsumeAnimType'],
-            ugc_tag=item_json['PlacementData']['UGCSubcategoryTag']['TagName'],
-            unknown_fields=unknown_fields
-        )
-
     # TODO: Revise this parsing since the Creature Blueprint has a structure of its own
     def _parse_creature_info(self, asset_path_name: str) -> tuple[DisplayName, CreatureInfo]:
         creature_bp_path = self._build_real_path(asset_path_name)

@@ -1,4 +1,4 @@
-from models import DisplayName
+from .display_name import DisplayName
 from pathlib import Path
 
 class StatusEffect:

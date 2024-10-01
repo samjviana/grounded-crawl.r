@@ -1,6 +1,10 @@
 from typing import Any
 from pathlib import Path
 from models import DisplayName
+from models.status_effect import StatusEffect
+from models.item import Item
+from models.recipe_component import RecipeComponent
+from models.item_effects_info import ItemEffectsInfo
 from global_database import GlobalDatabase
 
 import json
@@ -23,6 +27,9 @@ class BaseCrawler:
         - The list of unknown fields.
     """
     root_path: Path = None
+
+    items_table = None
+    status_effects_table = None
 
     def __init__(self, name: str, json_path: Path, hide_unknown_fields: bool = False):
         self.crawler_name = name
@@ -51,7 +58,8 @@ class BaseCrawler:
         """
         This method is responsible for disposing the crawler.
         """
-        pass
+        BaseCrawler.items_table = None
+        BaseCrawler.status_effects_table = None
 
     def crawl(self) -> list:
         """
@@ -220,6 +228,113 @@ class BaseCrawler:
         for key, value in data.items():
             json_data[key] = value.to_dict()
         data_path.write_text(json.dumps(json_data, indent=4))
+
+    def _parse_status_effect(self, datatable: dict[str, Any]) -> StatusEffect:
+        key_name = datatable['RowName']
+        object_path = self._get_object_path(datatable['DataTable'])
+
+        if BaseCrawler.status_effects_table is None and 'Table_StatusEffects' in object_path.name:
+            BaseCrawler.status_effects_table = json.loads(object_path.read_text(encoding='utf-8'))[0]['Rows']
+        elif 'Table_StatusEffects' not in object_path.name:
+            raise ValueError('The provided object path is not a status effects table.')
+        
+        status_effect_json = BaseCrawler.status_effects_table[key_name]
+
+        display_name = DisplayName(
+            table_id=status_effect_json['DisplayData']['Name']['StringTableID'],
+            string_id=status_effect_json['DisplayData']['Name']['StringID'],
+            string_table_name=status_effect_json['DisplayData']['Name']['StringTableName']
+        )
+        description = DisplayName(
+            table_id=status_effect_json['DisplayData']['Description']['StringTableID'],
+            string_id=status_effect_json['DisplayData']['Description']['StringID'],
+            string_table_name=status_effect_json['DisplayData']['Description']['StringTableName']
+        )
+        icon_path = self._get_media_path(status_effect_json['DisplayData']['Icon'])
+
+        unknown_fields = self._get_unknown_fields(status_effect_json, StatusEffect.get_unknown_fields())
+
+        return StatusEffect(
+            key_name=key_name,
+            display_name=display_name,
+            description=description,
+            icon_path=icon_path,
+            effect_type=status_effect_json['Type'],
+            value=status_effect_json['Value'],
+            duration_type=status_effect_json['DurationType'],
+            duration=status_effect_json['Duration'],
+            interval=status_effect_json['Interval'],
+            max_stack=status_effect_json['MaxStackCount'],
+            is_negative_effect=status_effect_json['bIsNegativeEffectInUI'],
+            show_in_ui=status_effect_json['bShowInUI'],
+            effect_tags=status_effect_json['EffectTags'],
+            unknown_fields=unknown_fields
+        )
+
+    def _parse_item(self, datatable: dict[str, Any]) -> Item:
+        key_name = datatable['RowName']
+        object_path = self._get_object_path(datatable['DataTable'])
+
+        if BaseCrawler.items_table is None and 'Table_AllItems' in object_path.name:
+            BaseCrawler.items_table = json.loads(object_path.read_text(encoding='utf-8'))[0]['Rows']
+        elif 'Table_AllItems' not in object_path.name:
+            raise ValueError('The provided object path is not an items table.')
+        
+        item_json = BaseCrawler.items_table[key_name]
+
+        display_name = self._get_display_name(item_json['LocalizedDisplayName'])
+        description = self._get_display_name(item_json['LocalizedDescription'])
+
+        icon_path = self._get_media_path(item_json['Icon'])
+        icon_modifier_path = self._get_media_path(item_json['ModIcon'])
+
+        repair_recipe = []
+        recipe = [] if 'RepairRecipe' not in item_json['EquippableData'] else item_json['EquippableData']['RepairRecipe']
+        for component in recipe:
+            quantity = component['ItemCount']
+            item = self._parse_item(component['Item'])
+            repair_recipe.append(RecipeComponent(
+                item_key=item.key_name,
+                quantity=quantity,
+                display_name=item.name,
+                description=item.description,
+                icon_path=item.icon_path,
+                icon_modifier_path=item.icon_modifier_path,
+            ))
+
+        main_status_effects = []
+        for status_effect in item_json['EquippableData']['StatusEffects']:
+            main_status_effects.append(self._parse_status_effect(status_effect))
+
+        hidden_status_effects = []
+        for status_effect in item_json['EquippableData']['HiddenStatusEffects']:
+            hidden_status_effects.append(self._parse_status_effect(status_effect))
+
+        item_effects_info = ItemEffectsInfo(
+            main_status_effects=main_status_effects,
+            hidden_status_effects=hidden_status_effects,
+            random_effect_type=item_json['EquippableData']['RandomEffectType']
+        )
+
+        unknown_fields = self._get_unknown_fields(item_json, Item.get_unknown_fields())
+
+        return Item(
+            key_name=key_name,
+            name=display_name,
+            description=description,
+            icon_path=icon_path,
+            icon_modifier_path=icon_modifier_path,
+            tier=item_json['Tier'],
+            item_effects_info=item_effects_info,
+            repair_recipe=repair_recipe,
+            actor_name=item_json['WorldActor']['AssetPathName'],
+            duplication_cost=item_json['DuplicateBaseCost'],
+            stack_size_tag=item_json['StackSizeTag']['TagName'],
+            consumable_data=item_json['ConsumableData'],
+            consume_animation_type=item_json['ConsumeAnimType'],
+            ugc_tag=item_json['PlacementData']['UGCSubcategoryTag']['TagName'],
+            unknown_fields=unknown_fields
+        )
 
 class GameVersion:
     """

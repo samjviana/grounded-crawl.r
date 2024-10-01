@@ -34,49 +34,6 @@ class ToolsWeaponsCrawler(BaseCrawler):
         ToolsWeaponsCrawler.items_table = None
         ToolsWeaponsCrawler.attacks_table = None
 
-    def _parse_status_effect(self, datatable: dict[str, Any]) -> StatusEffect:
-        # TODO: Move this to a separate crawler
-        key_name = datatable['RowName']
-        object_path = self._get_object_path(datatable['DataTable'])
-
-        if ToolsWeaponsCrawler.status_effects_table is None and 'Table_StatusEffects' in object_path.name:
-            ToolsWeaponsCrawler.status_effects_table = json.loads(object_path.read_text(encoding='utf-8'))[0]['Rows']
-        elif 'Table_StatusEffects' not in object_path.name:
-            raise ValueError('The provided object path is not a status effects table.')
-        
-        status_effect_json = ToolsWeaponsCrawler.status_effects_table[key_name]
-
-        display_name = DisplayName(
-            table_id=status_effect_json['DisplayData']['Name']['StringTableID'],
-            string_id=status_effect_json['DisplayData']['Name']['StringID'],
-            string_table_name=status_effect_json['DisplayData']['Name']['StringTableName']
-        )
-        description = DisplayName(
-            table_id=status_effect_json['DisplayData']['Description']['StringTableID'],
-            string_id=status_effect_json['DisplayData']['Description']['StringID'],
-            string_table_name=status_effect_json['DisplayData']['Description']['StringTableName']
-        )
-        icon_path = self._get_media_path(status_effect_json['DisplayData']['Icon'])
-
-        unknown_fields = self._get_unknown_fields(status_effect_json, StatusEffect.get_unknown_fields())
-
-        return StatusEffect(
-            key_name=key_name,
-            display_name=display_name,
-            description=description,
-            icon_path=icon_path,
-            effect_type=status_effect_json['Type'],
-            value=status_effect_json['Value'],
-            duration_type=status_effect_json['DurationType'],
-            duration=status_effect_json['Duration'],
-            interval=status_effect_json['Interval'],
-            max_stack=status_effect_json['MaxStackCount'],
-            is_negative_effect=status_effect_json['bIsNegativeEffectInUI'],
-            show_in_ui=status_effect_json['bShowInUI'],
-            effect_tags=status_effect_json['EffectTags'],
-            unknown_fields=unknown_fields
-        )
-
     def _parse_recipe_component(self, component: dict[str, Any]) -> RecipeComponent:
         # TODO: Move this to a separate crawler
         item_key = component['Item']['RowName']

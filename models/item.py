@@ -1,5 +1,6 @@
 from models.display_name import DisplayName
 from models.recipe_component import RecipeComponent
+from models.item_effects_info import ItemEffectsInfo
 from pathlib import Path
 
 class Item:
@@ -18,6 +19,8 @@ class Item:
         - The icon modifier path of the item.
     - `tier` : `int`
         - The tier of the item.
+    - `item_effects_info` : `ItemEffectsInfo`
+        - The item effects information of the item (if it has effects).
     - `repair_recipe` : list[RecipeComponent]
         - The repair recipe of the item (if it has one).
     - `actor_name` : `str`
@@ -37,13 +40,14 @@ class Item:
     - `unknown_fields` : `dict`
         - The unknown fields of the item.
     """
-    def __init__(self, key_name: str, name: DisplayName, description: DisplayName, icon_path: Path, icon_modifier_path: Path, tier: int, repair_recipe: list[RecipeComponent], actor_name: str, duplication_cost: int, stack_size_tag: str, consumable_data: list, consume_animation_type: str, ugc_tag: str, unknown_fields: dict):
+    def __init__(self, key_name: str, name: DisplayName, description: DisplayName, icon_path: Path, icon_modifier_path: Path, tier: int, item_effects_info: ItemEffectsInfo, repair_recipe: list[RecipeComponent], actor_name: str, duplication_cost: int, stack_size_tag: str, consumable_data: list, consume_animation_type: str, ugc_tag: str, unknown_fields: dict):
         self.key_name = key_name
         self.name = name
         self.description = description
         self.icon_path = icon_path
         self.icon_modifier_path = icon_modifier_path
         self.tier = tier
+        self.item_effects_info = item_effects_info
         self.repair_recipe = repair_recipe
         self.actor_name = actor_name
         self.duplication_cost = duplication_cost
@@ -66,6 +70,7 @@ class Item:
             'icon_path': self.icon_path.as_posix(),
             'icon_modifier_path': self.icon_modifier_path.as_posix(),
             'tier': self.tier,
+            'item_effects_info': self.item_effects_info.to_dict() if self.item_effects_info else None,
             'repair_recipe': [component.to_dict() for component in self.repair_recipe],
             'actor_name': self.actor_name,
             'duplication_cost': self.duplication_cost,
@@ -92,6 +97,7 @@ class Item:
             icon_path=Path(data['icon_path']),
             icon_modifier_path=Path(data['icon_modifier_path']),
             tier=data['tier'],
+            item_effects_info=ItemEffectsInfo.from_dict(data['item_effects_info']) if data['item_effects_info'] else None,
             repair_recipe=[RecipeComponent.from_dict(component) for component in data['repair_recipe']],
             actor_name=data['actor_name'],
             duplication_cost=data['duplication_cost'],
