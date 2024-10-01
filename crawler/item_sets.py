@@ -8,8 +8,6 @@ class ItemSetsCrawler(BaseCrawler):
     """
     Class responsible for crawling the item sets.
     """
-    status_effects_table = None
-    items_table = None
 
     def __init__(self, hide_unknown_fields: bool = False):
         super().__init__(
@@ -18,10 +16,6 @@ class ItemSetsCrawler(BaseCrawler):
             hide_unknown_fields=hide_unknown_fields
         )
         self.unknown_field_list = []
-
-    def dispose(self) -> None:
-        ItemSetsCrawler.status_effects_table = None
-        ItemSetsCrawler.items_table = None
     
     @staticmethod
     def _get_armor_set_name(item_names: list[str]) -> str:

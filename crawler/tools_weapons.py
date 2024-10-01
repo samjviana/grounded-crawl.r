@@ -10,8 +10,6 @@ class ToolsWeaponsCrawler(BaseCrawler):
     """
     This class is responsible for crawling the tools and weapons data from the game.
     """
-    status_effects_table = None
-    items_table = None
     attacks_table = None
 
     def __init__(self, hide_unknown_fields: bool = False):
@@ -30,8 +28,6 @@ class ToolsWeaponsCrawler(BaseCrawler):
             self.combo_scaling_types[tag_name] = scaling_type['ScalingValue']
     
     def dispose(self) -> None:
-        ToolsWeaponsCrawler.status_effects_table = None
-        ToolsWeaponsCrawler.items_table = None
         ToolsWeaponsCrawler.attacks_table = None
 
     def _parse_recipe_component(self, component: dict[str, Any]) -> RecipeComponent:

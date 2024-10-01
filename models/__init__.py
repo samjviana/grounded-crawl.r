@@ -14,6 +14,7 @@ from .player_upgrade import PlayerUpgrade
 from .block_action_info import BlockActionInfo
 from .status_effect import StatusEffect
 from .item_effects_info import ItemEffectsInfo
+from .crafting_recipe import CraftingRecipe
 from .recipe_component import RecipeComponent
 from .damage_data import DamageData
 from .attack import Attack

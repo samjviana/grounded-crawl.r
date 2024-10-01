@@ -273,6 +273,8 @@ class BaseCrawler:
 
     def _parse_item(self, datatable: dict[str, Any]) -> Item:
         key_name = datatable['RowName']
+        if key_name == 'None':
+            return None
         object_path = self._get_object_path(datatable['DataTable'])
 
         if BaseCrawler.items_table is None and 'Table_AllItems' in object_path.name:
@@ -280,6 +282,9 @@ class BaseCrawler:
         elif 'Table_AllItems' not in object_path.name:
             raise ValueError('The provided object path is not an items table.')
         
+        # TODO: Keep track of this as this is the only different key that I found
+        if key_name == 'CrossbowCrow':
+            key_name = 'CrossBowCrow'
         item_json = BaseCrawler.items_table[key_name]
 
         display_name = self._get_display_name(item_json['LocalizedDisplayName'])

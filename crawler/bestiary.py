@@ -12,8 +12,6 @@ class BestiaryCrawler(BaseCrawler):
     """
     This class is responsible for crawling the bestiary data from the game.
     """
-    status_effects_table = None
-    items_table = None
     character_data_table = None
 
     def __init__(self, hide_unknown_fields: bool = False):
@@ -28,8 +26,6 @@ class BestiaryCrawler(BaseCrawler):
         ]
 
     def dispose(self) -> None:
-        BestiaryCrawler.status_effects_table = None
-        BestiaryCrawler.items_table = None
         BestiaryCrawler.character_data_table = None
 
     # TODO: Revise this parsing since the Creature Blueprint has a structure of its own
