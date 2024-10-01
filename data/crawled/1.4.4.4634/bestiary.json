@@ -691,12 +691,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_Ladybug_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -1414,12 +1434,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_InfectedLadybug_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -2133,12 +2173,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_AngryLadybug_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -2724,12 +2784,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_OrbWeaver_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -3290,12 +3370,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_OrbWeaverJr_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -3820,12 +3920,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_Spiderling_G.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -4591,12 +4711,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_WolfSpider_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -5668,12 +5808,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_Aphid_G.png",
             "icon_modifier_path": ".",
             "tier": 0,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -6649,12 +6809,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_Weevil_G.png",
             "icon_modifier_path": ".",
             "tier": 0,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -7243,12 +7423,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_InfectedWeevil_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -7691,12 +7891,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_WaterFlea_G.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -7928,12 +8148,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_Waterboatman_G.png",
             "icon_modifier_path": ".",
             "tier": 0,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -8533,12 +8773,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_TermiteSoldier_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -9138,12 +9398,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_TermiteWorker_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -9784,12 +10064,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_KingTermite_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -10348,12 +10648,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_Tayzt_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -10616,12 +10936,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_Ruzt_G.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -11166,12 +11506,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_Arcr_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -11379,12 +11739,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_Tadpole_G.png",
             "icon_modifier_path": ".",
             "tier": 0,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -11880,12 +12260,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_StinkBug_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -12526,12 +12926,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_SicklyRolyPoly_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -13145,12 +13565,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_Mosquito_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -13513,12 +13953,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_Mite_G.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -14210,12 +14670,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_InfectedMite_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -14842,12 +15322,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_Dustmite_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -15250,12 +15750,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_RedAntWorker_G.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -15720,12 +16240,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_RedAntSoldier_G.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -16167,12 +16707,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_BlackAnt_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -16701,12 +17261,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_BlackAntSoldier_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -17171,12 +17751,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_FireAntSoldierG.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -17566,12 +18166,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_FireAntWorkerG.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -18233,12 +18853,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_TierBoss_AsstManager_G.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -18865,12 +19505,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_Bee_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -19495,12 +20155,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_BlackOx_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -20025,12 +20705,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_Bombardier_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -20608,12 +21308,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_Firefly_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -21634,12 +22354,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_Gnat_G.png",
             "icon_modifier_path": ".",
             "tier": 0,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -22618,12 +23358,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_MeatyGnat_G.png",
             "icon_modifier_path": ".",
             "tier": 0,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -22893,12 +23653,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_InfectedGnat_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -23178,12 +23958,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_Grub_G.png",
             "icon_modifier_path": ".",
             "tier": 0,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -23546,12 +24346,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_Larva_G.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -24295,12 +25115,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_InfectedLarva_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -25022,12 +25862,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_LadybugLarva_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -26286,12 +27146,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_TierBoss_Broodmother_G.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -26997,12 +27877,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_Antlion_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -27458,12 +28358,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier2_DivingBell_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -28030,12 +28950,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_GreenShield_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -28578,12 +29518,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier0_Scarab_G.png",
             "icon_modifier_path": ".",
             "tier": 0,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -29588,12 +30548,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_InfectedWolf_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -30351,12 +31331,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_BlackWidow_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -31313,12 +32313,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_RolyPoly_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -31833,12 +32853,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_WaterFleaSpinyG.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -32093,12 +33133,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_MosquitoTigerG.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -32713,12 +33773,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_TickG.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -33283,12 +34363,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_SpiderlingBWG.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -34003,12 +35103,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_MothG.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -34761,12 +35881,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Boss_MantG.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -35991,12 +37131,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Boss_MantisG.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -36718,12 +37878,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Boss_SchmectorG.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -37441,12 +38621,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_Wasp_Gold.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -38654,12 +39854,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Boss_WaspQueen_Gold.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -39587,12 +40807,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_WaspDrone_Gold.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -40706,12 +41946,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Boss_InfectedBroodmom_Gold.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -40880,12 +42140,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_TierX_TrudyII_G.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -40926,12 +42206,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_TierX_RedQueen_G.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -40972,12 +42272,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_TierX_BlkQueen_G.png",
             "icon_modifier_path": ".",
             "tier": 2,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -41018,12 +42338,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_TierX_FireQueen_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -41064,12 +42404,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_TierX_Crow_G.png",
             "icon_modifier_path": ".",
             "tier": 5,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -41502,12 +42862,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_InfWorker_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -42037,12 +43417,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier3_InfSoldier_G.png",
             "icon_modifier_path": ".",
             "tier": 3,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -42088,12 +43488,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_TierX_InfQueen_G.png",
             "icon_modifier_path": ".",
             "tier": 4,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -43221,12 +44641,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_BabyAntRed_Gold.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -44354,12 +45794,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_BabyAntBlack_Gold.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",
@@ -45487,12 +46947,32 @@
             "icon_path": "D:/Grounded DataMining/1.4.4.4634/media_data/Maine/Content/Blueprints/Items/Icons/CreatureCards/Gold/T_UI_Tier1_BabyAntFire_Gold.png",
             "icon_modifier_path": ".",
             "tier": 1,
-            "item_effects_info": {
-                "main_status_effects": [],
-                "hidden_status_effects": [],
-                "random_effect_type": "ERandomEffectType::None"
+            "equippable_data": {
+                "durability": 0.0,
+                "flat_damage_reduction": 0.0,
+                "percentage_damage_reduction": 0.0,
+                "item_effects_info": {
+                    "main_status_effects": [],
+                    "hidden_status_effects": [],
+                    "random_effect_type": "ERandomEffectType::None"
+                },
+                "repair_recipe": [],
+                "unknown_fields": {
+                    "EquipAudio": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "EquipAnim": {
+                        "AssetPathName": "None",
+                        "SubPathString": ""
+                    },
+                    "HairType": {
+                        "TagName": "None"
+                    },
+                    "RandomEffectType": "ERandomEffectType::None",
+                    "DisablesThirdPersonShadowCastingInFirstPerson": false
+                }
             },
-            "repair_recipe": [],
             "actor_name": "None",
             "duplication_cost": 1000,
             "stack_size_tag": "StackSize.Default",

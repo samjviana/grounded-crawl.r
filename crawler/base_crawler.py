@@ -5,6 +5,7 @@ from models.status_effect import StatusEffect
 from models.item import Item
 from models.recipe_component import RecipeComponent
 from models.item_effects_info import ItemEffectsInfo
+from models.equippable_data import EquippableData
 from global_database import GlobalDatabase
 
 import json
@@ -271,6 +272,46 @@ class BaseCrawler:
             unknown_fields=unknown_fields
         )
 
+    def _parse_equippable_data(self, value: dict) -> EquippableData:
+        repair_recipe = []
+        recipe = [] if 'RepairRecipe' not in value else value['RepairRecipe']
+        for component in recipe:
+            quantity = component['ItemCount']
+            item = self._parse_item(component['Item'])
+            repair_recipe.append(RecipeComponent(
+                item_key=item.key_name,
+                quantity=quantity,
+                display_name=item.name,
+                description=item.description,
+                icon_path=item.icon_path,
+                icon_modifier_path=item.icon_modifier_path,
+            ))
+
+        main_status_effects = []
+        for status_effect in value['StatusEffects']:
+            main_status_effects.append(self._parse_status_effect(status_effect))
+
+        hidden_status_effects = []
+        for status_effect in value['HiddenStatusEffects']:
+            hidden_status_effects.append(self._parse_status_effect(status_effect))
+
+        item_effects_info = ItemEffectsInfo(
+            main_status_effects=main_status_effects,
+            hidden_status_effects=hidden_status_effects,
+            random_effect_type=value['RandomEffectType']
+        )
+
+        unknown_fields = self._get_unknown_fields(value, EquippableData.get_unknown_fields())
+
+        return EquippableData(
+            durability=value['Durability'],
+            flat_damage_reduction=value['FlatDamageReduction'],
+            percentage_damage_reduction=value['PercentageDamageReduction'],
+            item_effects_info=item_effects_info,
+            repair_recipe=repair_recipe,
+            unknown_fields=unknown_fields
+        )
+
     def _parse_item(self, datatable: dict[str, Any]) -> Item:
         key_name = datatable['RowName']
         if key_name == 'None':
@@ -293,34 +334,6 @@ class BaseCrawler:
         icon_path = self._get_media_path(item_json['Icon'])
         icon_modifier_path = self._get_media_path(item_json['ModIcon'])
 
-        repair_recipe = []
-        recipe = [] if 'RepairRecipe' not in item_json['EquippableData'] else item_json['EquippableData']['RepairRecipe']
-        for component in recipe:
-            quantity = component['ItemCount']
-            item = self._parse_item(component['Item'])
-            repair_recipe.append(RecipeComponent(
-                item_key=item.key_name,
-                quantity=quantity,
-                display_name=item.name,
-                description=item.description,
-                icon_path=item.icon_path,
-                icon_modifier_path=item.icon_modifier_path,
-            ))
-
-        main_status_effects = []
-        for status_effect in item_json['EquippableData']['StatusEffects']:
-            main_status_effects.append(self._parse_status_effect(status_effect))
-
-        hidden_status_effects = []
-        for status_effect in item_json['EquippableData']['HiddenStatusEffects']:
-            hidden_status_effects.append(self._parse_status_effect(status_effect))
-
-        item_effects_info = ItemEffectsInfo(
-            main_status_effects=main_status_effects,
-            hidden_status_effects=hidden_status_effects,
-            random_effect_type=item_json['EquippableData']['RandomEffectType']
-        )
-
         unknown_fields = self._get_unknown_fields(item_json, Item.get_unknown_fields())
 
         return Item(
@@ -330,8 +343,7 @@ class BaseCrawler:
             icon_path=icon_path,
             icon_modifier_path=icon_modifier_path,
             tier=item_json['Tier'],
-            item_effects_info=item_effects_info,
-            repair_recipe=repair_recipe,
+            equippable_data=self._parse_equippable_data(item_json['EquippableData']),
             actor_name=item_json['WorldActor']['AssetPathName'],
             duplication_cost=item_json['DuplicateBaseCost'],
             stack_size_tag=item_json['StackSizeTag']['TagName'],

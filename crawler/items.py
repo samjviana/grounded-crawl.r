@@ -4,6 +4,7 @@ from crawler.base_crawler import BaseCrawler
 from models.item import Item
 from models.recipe_component import RecipeComponent
 from models.item_effects_info import ItemEffectsInfo
+from models.equippable_data import EquippableData
 
 class ItemsCrawler(BaseCrawler):
     """
@@ -28,39 +29,6 @@ class ItemsCrawler(BaseCrawler):
         icon_path = self._get_media_path(value['Icon'])
         icon_modifier_path = self._get_media_path(value['ModIcon'])
 
-        repair_recipe = []
-        recipe = [] if 'RepairRecipe' not in value['EquippableData'] else value['EquippableData']['RepairRecipe']
-        for component in recipe:
-            quantity = component['ItemCount']
-            item_key = component['Item']['RowName']
-            item: 'Item' = None
-            if item_key in self.crawled_data:
-                item = self.crawled_data[item_key]
-            else:
-                item = self._get_crawled_data(item_key, self.raw_data[item_key], Item.get_unknown_fields())
-            repair_recipe.append(RecipeComponent(
-                item_key=item.key_name,
-                quantity=quantity,
-                display_name=item.name,
-                description=item.description,
-                icon_path=item.icon_path,
-                icon_modifier_path=item.icon_modifier_path,
-            ))
-
-        main_status_effects = []
-        for status_effect in value['EquippableData']['StatusEffects']:
-            main_status_effects.append(self._parse_status_effect(status_effect))
-
-        hidden_status_effects = []
-        for status_effect in value['EquippableData']['HiddenStatusEffects']:
-            hidden_status_effects.append(self._parse_status_effect(status_effect))
-
-        item_effects_info = ItemEffectsInfo(
-            main_status_effects=main_status_effects,
-            hidden_status_effects=hidden_status_effects,
-            random_effect_type=value['EquippableData']['RandomEffectType']
-        )
-
         item = Item(
             key_name=key,
             name=display_name,
@@ -68,8 +36,7 @@ class ItemsCrawler(BaseCrawler):
             icon_path=icon_path,
             icon_modifier_path=icon_modifier_path,
             tier=value['Tier'],
-            item_effects_info=item_effects_info,
-            repair_recipe=repair_recipe,
+            equippable_data=self._parse_equippable_data(value['EquippableData']),
             actor_name=value['WorldActor']['AssetPathName'],
             duplication_cost=value['DuplicateBaseCost'],
             stack_size_tag=value['StackSizeTag']['TagName'],
